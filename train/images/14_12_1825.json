@@ -1,0 +1,1282 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            48,
+            133,
+            66,
+            46
+        ],
+        "components": [
+            {
+                "bbox": [
+                    48,
+                    133,
+                    66,
+                    46
+                ],
+                "poly": [
+                    [
+                        48,
+                        133
+                    ],
+                    [
+                        48,
+                        178
+                    ],
+                    [
+                        105,
+                        178
+                    ],
+                    [
+                        113,
+                        138
+                    ]
+                ],
+                "area": 13167.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            1643,
+            96,
+            51,
+            48
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1643,
+                    96,
+                    51,
+                    48
+                ],
+                "poly": [
+                    [
+                        1644,
+                        114
+                    ],
+                    [
+                        1643,
+                        125
+                    ],
+                    [
+                        1648,
+                        137
+                    ],
+                    [
+                        1656,
+                        143
+                    ],
+                    [
+                        1672,
+                        143
+                    ],
+                    [
+                        1687,
+                        137
+                    ],
+                    [
+                        1693,
+                        118
+                    ],
+                    [
+                        1681,
+                        105
+                    ],
+                    [
+                        1668,
+                        96
+                    ],
+                    [
+                        1650,
+                        105
+                    ]
+                ],
+                "area": 79999.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            670,
+            95,
+            49,
+            51
+        ],
+        "components": [
+            {
+                "bbox": [
+                    670,
+                    95,
+                    49,
+                    51
+                ],
+                "poly": [
+                    [
+                        670,
+                        113
+                    ],
+                    [
+                        670,
+                        126
+                    ],
+                    [
+                        678,
+                        139
+                    ],
+                    [
+                        693,
+                        145
+                    ],
+                    [
+                        712,
+                        137
+                    ],
+                    [
+                        718,
+                        125
+                    ],
+                    [
+                        718,
+                        112
+                    ],
+                    [
+                        706,
+                        101
+                    ],
+                    [
+                        689,
+                        95
+                    ],
+                    [
+                        680,
+                        101
+                    ]
+                ],
+                "area": 34313.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            158,
+            13,
+            2008,
+            34
+        ],
+        "components": [
+            {
+                "bbox": [
+                    158,
+                    13,
+                    2008,
+                    34
+                ],
+                "poly": [
+                    [
+                        158,
+                        40
+                    ],
+                    [
+                        162,
+                        27
+                    ],
+                    [
+                        227,
+                        27
+                    ],
+                    [
+                        380,
+                        25
+                    ],
+                    [
+                        579,
+                        23
+                    ],
+                    [
+                        812,
+                        15
+                    ],
+                    [
+                        1000,
+                        15
+                    ],
+                    [
+                        1202,
+                        13
+                    ],
+                    [
+                        1282,
+                        17
+                    ],
+                    [
+                        1745,
+                        21
+                    ],
+                    [
+                        1871,
+                        21
+                    ],
+                    [
+                        2088,
+                        30
+                    ],
+                    [
+                        2164,
+                        27
+                    ],
+                    [
+                        2165,
+                        44
+                    ],
+                    [
+                        1874,
+                        38
+                    ],
+                    [
+                        1700,
+                        44
+                    ],
+                    [
+                        1415,
+                        42
+                    ],
+                    [
+                        1239,
+                        38
+                    ],
+                    [
+                        961,
+                        36
+                    ],
+                    [
+                        781,
+                        36
+                    ],
+                    [
+                        577,
+                        44
+                    ],
+                    [
+                        459,
+                        44
+                    ],
+                    [
+                        370,
+                        46
+                    ],
+                    [
+                        228,
+                        46
+                    ],
+                    [
+                        160,
+                        46
+                    ]
+                ],
+                "area": 88250.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            160,
+            36,
+            1996,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    160,
+                    36,
+                    1996,
+                    35
+                ],
+                "poly": [
+                    [
+                        160,
+                        53
+                    ],
+                    [
+                        160,
+                        65
+                    ],
+                    [
+                        240,
+                        70
+                    ],
+                    [
+                        356,
+                        69
+                    ],
+                    [
+                        469,
+                        69
+                    ],
+                    [
+                        575,
+                        64
+                    ],
+                    [
+                        734,
+                        61
+                    ],
+                    [
+                        884,
+                        61
+                    ],
+                    [
+                        960,
+                        57
+                    ],
+                    [
+                        1017,
+                        61
+                    ],
+                    [
+                        1145,
+                        61
+                    ],
+                    [
+                        1309,
+                        61
+                    ],
+                    [
+                        1470,
+                        65
+                    ],
+                    [
+                        1870,
+                        65
+                    ],
+                    [
+                        2079,
+                        62
+                    ],
+                    [
+                        2129,
+                        62
+                    ],
+                    [
+                        2155,
+                        56
+                    ],
+                    [
+                        2151,
+                        43
+                    ],
+                    [
+                        1776,
+                        42
+                    ],
+                    [
+                        1303,
+                        42
+                    ],
+                    [
+                        1158,
+                        38
+                    ],
+                    [
+                        974,
+                        36
+                    ],
+                    [
+                        301,
+                        48
+                    ],
+                    [
+                        169,
+                        50
+                    ],
+                    [
+                        169,
+                        51
+                    ]
+                ],
+                "area": 129016.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            159,
+            59,
+            2014,
+            33
+        ],
+        "components": [
+            {
+                "bbox": [
+                    159,
+                    59,
+                    2014,
+                    33
+                ],
+                "poly": [
+                    [
+                        159,
+                        72
+                    ],
+                    [
+                        163,
+                        91
+                    ],
+                    [
+                        435,
+                        87
+                    ],
+                    [
+                        643,
+                        90
+                    ],
+                    [
+                        846,
+                        88
+                    ],
+                    [
+                        1060,
+                        89
+                    ],
+                    [
+                        1284,
+                        88
+                    ],
+                    [
+                        1475,
+                        88
+                    ],
+                    [
+                        1862,
+                        88
+                    ],
+                    [
+                        2023,
+                        82
+                    ],
+                    [
+                        2172,
+                        81
+                    ],
+                    [
+                        2172,
+                        59
+                    ],
+                    [
+                        1832,
+                        64
+                    ],
+                    [
+                        1371,
+                        65
+                    ],
+                    [
+                        1034,
+                        64
+                    ],
+                    [
+                        160,
+                        74
+                    ]
+                ],
+                "area": 195503.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            158,
+            87,
+            2014,
+            28
+        ],
+        "components": [
+            {
+                "bbox": [
+                    158,
+                    87,
+                    2014,
+                    28
+                ],
+                "poly": [
+                    [
+                        158,
+                        108
+                    ],
+                    [
+                        340,
+                        113
+                    ],
+                    [
+                        511,
+                        111
+                    ],
+                    [
+                        648,
+                        114
+                    ],
+                    [
+                        901,
+                        111
+                    ],
+                    [
+                        1078,
+                        111
+                    ],
+                    [
+                        1267,
+                        109
+                    ],
+                    [
+                        1616,
+                        112
+                    ],
+                    [
+                        1918,
+                        109
+                    ],
+                    [
+                        2101,
+                        106
+                    ],
+                    [
+                        2171,
+                        108
+                    ],
+                    [
+                        2171,
+                        88
+                    ],
+                    [
+                        1901,
+                        89
+                    ],
+                    [
+                        1530,
+                        91
+                    ],
+                    [
+                        1295,
+                        87
+                    ],
+                    [
+                        1103,
+                        87
+                    ],
+                    [
+                        892,
+                        91
+                    ],
+                    [
+                        296,
+                        90
+                    ],
+                    [
+                        159,
+                        90
+                    ]
+                ],
+                "area": 228739.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            156,
+            109,
+            2015,
+            29
+        ],
+        "components": [
+            {
+                "bbox": [
+                    156,
+                    109,
+                    2015,
+                    29
+                ],
+                "poly": [
+                    [
+                        156,
+                        127
+                    ],
+                    [
+                        399,
+                        133
+                    ],
+                    [
+                        557,
+                        133
+                    ],
+                    [
+                        639,
+                        133
+                    ],
+                    [
+                        922,
+                        134
+                    ],
+                    [
+                        1067,
+                        137
+                    ],
+                    [
+                        1226,
+                        132
+                    ],
+                    [
+                        1281,
+                        132
+                    ],
+                    [
+                        1614,
+                        135
+                    ],
+                    [
+                        1924,
+                        134
+                    ],
+                    [
+                        2026,
+                        132
+                    ],
+                    [
+                        2130,
+                        132
+                    ],
+                    [
+                        2170,
+                        126
+                    ],
+                    [
+                        2170,
+                        109
+                    ],
+                    [
+                        1730,
+                        114
+                    ],
+                    [
+                        1503,
+                        115
+                    ],
+                    [
+                        1251,
+                        112
+                    ],
+                    [
+                        966,
+                        113
+                    ],
+                    [
+                        468,
+                        113
+                    ],
+                    [
+                        301,
+                        112
+                    ],
+                    [
+                        179,
+                        114
+                    ],
+                    [
+                        158,
+                        112
+                    ]
+                ],
+                "area": 278645.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            156,
+            128,
+            2011,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    156,
+                    128,
+                    2011,
+                    32
+                ],
+                "poly": [
+                    [
+                        156,
+                        135
+                    ],
+                    [
+                        156,
+                        152
+                    ],
+                    [
+                        234,
+                        152
+                    ],
+                    [
+                        346,
+                        157
+                    ],
+                    [
+                        520,
+                        154
+                    ],
+                    [
+                        612,
+                        154
+                    ],
+                    [
+                        651,
+                        157
+                    ],
+                    [
+                        783,
+                        158
+                    ],
+                    [
+                        945,
+                        157
+                    ],
+                    [
+                        1107,
+                        157
+                    ],
+                    [
+                        1302,
+                        156
+                    ],
+                    [
+                        1442,
+                        159
+                    ],
+                    [
+                        1494,
+                        156
+                    ],
+                    [
+                        1774,
+                        154
+                    ],
+                    [
+                        1895,
+                        154
+                    ],
+                    [
+                        2022,
+                        153
+                    ],
+                    [
+                        2128,
+                        151
+                    ],
+                    [
+                        2166,
+                        151
+                    ],
+                    [
+                        2166,
+                        128
+                    ],
+                    [
+                        1366,
+                        138
+                    ],
+                    [
+                        1014,
+                        137
+                    ],
+                    [
+                        158,
+                        135
+                    ]
+                ],
+                "area": 330274.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            153,
+            149,
+            2030,
+            33
+        ],
+        "components": [
+            {
+                "bbox": [
+                    153,
+                    149,
+                    2030,
+                    33
+                ],
+                "poly": [
+                    [
+                        153,
+                        162
+                    ],
+                    [
+                        158,
+                        171
+                    ],
+                    [
+                        307,
+                        173
+                    ],
+                    [
+                        529,
+                        176
+                    ],
+                    [
+                        779,
+                        177
+                    ],
+                    [
+                        983,
+                        175
+                    ],
+                    [
+                        1137,
+                        181
+                    ],
+                    [
+                        1210,
+                        177
+                    ],
+                    [
+                        1549,
+                        178
+                    ],
+                    [
+                        1787,
+                        181
+                    ],
+                    [
+                        1982,
+                        173
+                    ],
+                    [
+                        2081,
+                        173
+                    ],
+                    [
+                        2182,
+                        169
+                    ],
+                    [
+                        2176,
+                        149
+                    ],
+                    [
+                        1858,
+                        156
+                    ],
+                    [
+                        1616,
+                        160
+                    ],
+                    [
+                        1347,
+                        156
+                    ],
+                    [
+                        924,
+                        157
+                    ],
+                    [
+                        588,
+                        162
+                    ],
+                    [
+                        549,
+                        157
+                    ],
+                    [
+                        324,
+                        156
+                    ],
+                    [
+                        154,
+                        156
+                    ]
+                ],
+                "area": 374825.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            152,
+            178,
+            1981,
+            31
+        ],
+        "components": [
+            {
+                "bbox": [
+                    152,
+                    178,
+                    1981,
+                    31
+                ],
+                "poly": [
+                    [
+                        152,
+                        178
+                    ],
+                    [
+                        159,
+                        202
+                    ],
+                    [
+                        320,
+                        206
+                    ],
+                    [
+                        558,
+                        204
+                    ],
+                    [
+                        898,
+                        204
+                    ],
+                    [
+                        1067,
+                        204
+                    ],
+                    [
+                        1252,
+                        200
+                    ],
+                    [
+                        1346,
+                        202
+                    ],
+                    [
+                        1669,
+                        208
+                    ],
+                    [
+                        1854,
+                        204
+                    ],
+                    [
+                        2053,
+                        203
+                    ],
+                    [
+                        2132,
+                        195
+                    ],
+                    [
+                        2132,
+                        178
+                    ],
+                    [
+                        1945,
+                        178
+                    ],
+                    [
+                        1606,
+                        179
+                    ],
+                    [
+                        1249,
+                        179
+                    ],
+                    [
+                        892,
+                        182
+                    ],
+                    [
+                        219,
+                        179
+                    ],
+                    [
+                        156,
+                        178
+                    ]
+                ],
+                "area": 409141.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            2203,
+            37,
+            53,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2203,
+                    37,
+                    53,
+                    16
+                ],
+                "poly": [
+                    [
+                        2203,
+                        45
+                    ],
+                    [
+                        2220,
+                        51
+                    ],
+                    [
+                        2244,
+                        52
+                    ],
+                    [
+                        2255,
+                        49
+                    ],
+                    [
+                        2242,
+                        37
+                    ],
+                    [
+                        2216,
+                        39
+                    ]
+                ],
+                "area": 33212.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            53,
+            57,
+            50,
+            30
+        ],
+        "components": [
+            {
+                "bbox": [
+                    53,
+                    57,
+                    50,
+                    30
+                ],
+                "poly": [
+                    [
+                        53,
+                        61
+                    ],
+                    [
+                        57,
+                        83
+                    ],
+                    [
+                        91,
+                        86
+                    ],
+                    [
+                        102,
+                        70
+                    ],
+                    [
+                        90,
+                        57
+                    ],
+                    [
+                        89,
+                        57
+                    ]
+                ],
+                "area": 4463.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SAPTA%20LAKSHANA%20VYAKHYA/OIMYS/2262/14.jpg-1",
+        "bbox": [
+            1,
+            2,
+            2353,
+            228
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1,
+                    2,
+                    2353,
+                    228
+                ],
+                "poly": [
+                    [
+                        2,
+                        43
+                    ],
+                    [
+                        1,
+                        210
+                    ],
+                    [
+                        61,
+                        227
+                    ],
+                    [
+                        340,
+                        226
+                    ],
+                    [
+                        614,
+                        228
+                    ],
+                    [
+                        1040,
+                        228
+                    ],
+                    [
+                        1280,
+                        228
+                    ],
+                    [
+                        1773,
+                        229
+                    ],
+                    [
+                        1927,
+                        227
+                    ],
+                    [
+                        2185,
+                        214
+                    ],
+                    [
+                        2323,
+                        200
+                    ],
+                    [
+                        2349,
+                        185
+                    ],
+                    [
+                        2353,
+                        101
+                    ],
+                    [
+                        2340,
+                        33
+                    ],
+                    [
+                        2197,
+                        17
+                    ],
+                    [
+                        1928,
+                        11
+                    ],
+                    [
+                        1571,
+                        5
+                    ],
+                    [
+                        1206,
+                        2
+                    ],
+                    [
+                        934,
+                        4
+                    ],
+                    [
+                        301,
+                        14
+                    ],
+                    [
+                        74,
+                        26
+                    ],
+                    [
+                        17,
+                        32
+                    ],
+                    [
+                        6,
+                        36
+                    ]
+                ],
+                "area": 527961.0
+            }
+        ],
+        "split": "train"
+    }
+]

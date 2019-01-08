@@ -1,0 +1,1712 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            252,
+            9,
+            294,
+            171
+        ],
+        "components": [
+            {
+                "bbox": [
+                    252,
+                    9,
+                    294,
+                    171
+                ],
+                "poly": [
+                    [
+                        283,
+                        9
+                    ],
+                    [
+                        252,
+                        135
+                    ],
+                    [
+                        404,
+                        179
+                    ],
+                    [
+                        467,
+                        26
+                    ],
+                    [
+                        545,
+                        29
+                    ],
+                    [
+                        538,
+                        9
+                    ],
+                    [
+                        291,
+                        9
+                    ]
+                ],
+                "area": 66038.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            559,
+            3,
+            268,
+            175
+        ],
+        "components": [
+            {
+                "bbox": [
+                    559,
+                    3,
+                    268,
+                    175
+                ],
+                "poly": [
+                    [
+                        772,
+                        85
+                    ],
+                    [
+                        787,
+                        100
+                    ],
+                    [
+                        804,
+                        118
+                    ],
+                    [
+                        804,
+                        135
+                    ],
+                    [
+                        790,
+                        131
+                    ],
+                    [
+                        770,
+                        140
+                    ],
+                    [
+                        743,
+                        146
+                    ],
+                    [
+                        717,
+                        164
+                    ],
+                    [
+                        714,
+                        177
+                    ],
+                    [
+                        693,
+                        175
+                    ],
+                    [
+                        666,
+                        167
+                    ],
+                    [
+                        632,
+                        153
+                    ],
+                    [
+                        637,
+                        128
+                    ],
+                    [
+                        635,
+                        116
+                    ],
+                    [
+                        663,
+                        106
+                    ],
+                    [
+                        663,
+                        83
+                    ],
+                    [
+                        688,
+                        66
+                    ],
+                    [
+                        683,
+                        44
+                    ],
+                    [
+                        651,
+                        27
+                    ],
+                    [
+                        615,
+                        34
+                    ],
+                    [
+                        603,
+                        43
+                    ],
+                    [
+                        593,
+                        27
+                    ],
+                    [
+                        566,
+                        20
+                    ],
+                    [
+                        559,
+                        10
+                    ],
+                    [
+                        594,
+                        10
+                    ],
+                    [
+                        613,
+                        7
+                    ],
+                    [
+                        634,
+                        3
+                    ],
+                    [
+                        659,
+                        3
+                    ],
+                    [
+                        693,
+                        3
+                    ],
+                    [
+                        731,
+                        5
+                    ],
+                    [
+                        770,
+                        5
+                    ],
+                    [
+                        761,
+                        20
+                    ],
+                    [
+                        751,
+                        29
+                    ],
+                    [
+                        749,
+                        53
+                    ],
+                    [
+                        760,
+                        72
+                    ],
+                    [
+                        787,
+                        58
+                    ],
+                    [
+                        818,
+                        63
+                    ],
+                    [
+                        826,
+                        72
+                    ],
+                    [
+                        823,
+                        78
+                    ],
+                    [
+                        797,
+                        77
+                    ],
+                    [
+                        775,
+                        80
+                    ]
+                ],
+                "area": 149757.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            2458,
+            102,
+            69,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2458,
+                    102,
+                    69,
+                    47
+                ],
+                "poly": [
+                    [
+                        2485,
+                        128
+                    ],
+                    [
+                        2460,
+                        136
+                    ],
+                    [
+                        2458,
+                        145
+                    ],
+                    [
+                        2470,
+                        148
+                    ],
+                    [
+                        2495,
+                        145
+                    ],
+                    [
+                        2495,
+                        135
+                    ],
+                    [
+                        2499,
+                        128
+                    ],
+                    [
+                        2507,
+                        119
+                    ],
+                    [
+                        2519,
+                        114
+                    ],
+                    [
+                        2526,
+                        112
+                    ],
+                    [
+                        2521,
+                        106
+                    ],
+                    [
+                        2507,
+                        102
+                    ],
+                    [
+                        2490,
+                        111
+                    ],
+                    [
+                        2487,
+                        118
+                    ]
+                ],
+                "area": 119433.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            2426,
+            164,
+            87,
+            67
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2426,
+                    164,
+                    87,
+                    67
+                ],
+                "poly": [
+                    [
+                        2426,
+                        170
+                    ],
+                    [
+                        2434,
+                        230
+                    ],
+                    [
+                        2492,
+                        221
+                    ],
+                    [
+                        2512,
+                        198
+                    ],
+                    [
+                        2506,
+                        165
+                    ],
+                    [
+                        2448,
+                        164
+                    ]
+                ],
+                "area": 174125.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            1066,
+            56,
+            46,
+            25
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1066,
+                    56,
+                    46,
+                    25
+                ],
+                "poly": [
+                    [
+                        1073,
+                        80
+                    ],
+                    [
+                        1099,
+                        78
+                    ],
+                    [
+                        1111,
+                        65
+                    ],
+                    [
+                        1111,
+                        56
+                    ],
+                    [
+                        1087,
+                        58
+                    ],
+                    [
+                        1066,
+                        66
+                    ]
+                ],
+                "area": 28695.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            1334,
+            31,
+            25,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1334,
+                    31,
+                    25,
+                    35
+                ],
+                "poly": [
+                    [
+                        1341,
+                        37
+                    ],
+                    [
+                        1334,
+                        56
+                    ],
+                    [
+                        1335,
+                        65
+                    ],
+                    [
+                        1349,
+                        65
+                    ],
+                    [
+                        1358,
+                        63
+                    ],
+                    [
+                        1352,
+                        51
+                    ],
+                    [
+                        1349,
+                        31
+                    ]
+                ],
+                "area": 46514.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            2352,
+            121,
+            34,
+            40
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2352,
+                    121,
+                    34,
+                    40
+                ],
+                "poly": [
+                    [
+                        2364,
+                        158
+                    ],
+                    [
+                        2381,
+                        150
+                    ],
+                    [
+                        2383,
+                        140
+                    ],
+                    [
+                        2385,
+                        121
+                    ],
+                    [
+                        2378,
+                        124
+                    ],
+                    [
+                        2364,
+                        141
+                    ],
+                    [
+                        2352,
+                        152
+                    ],
+                    [
+                        2357,
+                        160
+                    ]
+                ],
+                "area": 96507.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            1519,
+            146,
+            29,
+            39
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1519,
+                    146,
+                    29,
+                    39
+                ],
+                "poly": [
+                    [
+                        1538,
+                        182
+                    ],
+                    [
+                        1528,
+                        184
+                    ],
+                    [
+                        1521,
+                        162
+                    ],
+                    [
+                        1519,
+                        146
+                    ],
+                    [
+                        1547,
+                        148
+                    ],
+                    [
+                        1533,
+                        160
+                    ]
+                ],
+                "area": 57924.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            1610,
+            150,
+            23,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1610,
+                    150,
+                    23,
+                    38
+                ],
+                "poly": [
+                    [
+                        1615,
+                        187
+                    ],
+                    [
+                        1627,
+                        182
+                    ],
+                    [
+                        1632,
+                        175
+                    ],
+                    [
+                        1632,
+                        162
+                    ],
+                    [
+                        1630,
+                        155
+                    ],
+                    [
+                        1625,
+                        152
+                    ],
+                    [
+                        1610,
+                        150
+                    ],
+                    [
+                        1620,
+                        175
+                    ],
+                    [
+                        1611,
+                        184
+                    ]
+                ],
+                "area": 59510.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            1490,
+            215,
+            37,
+            21
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1490,
+                    215,
+                    37,
+                    21
+                ],
+                "poly": [
+                    [
+                        1496,
+                        221
+                    ],
+                    [
+                        1490,
+                        233
+                    ],
+                    [
+                        1504,
+                        235
+                    ],
+                    [
+                        1519,
+                        232
+                    ],
+                    [
+                        1526,
+                        227
+                    ],
+                    [
+                        1524,
+                        218
+                    ],
+                    [
+                        1511,
+                        215
+                    ]
+                ],
+                "area": 32062.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            37,
+            78,
+            131,
+            37
+        ],
+        "components": [
+            {
+                "bbox": [
+                    37,
+                    78,
+                    131,
+                    37
+                ],
+                "poly": [
+                    [
+                        63,
+                        83
+                    ],
+                    [
+                        44,
+                        85
+                    ],
+                    [
+                        37,
+                        100
+                    ],
+                    [
+                        68,
+                        109
+                    ],
+                    [
+                        129,
+                        114
+                    ],
+                    [
+                        167,
+                        114
+                    ],
+                    [
+                        157,
+                        95
+                    ],
+                    [
+                        106,
+                        95
+                    ],
+                    [
+                        100,
+                        80
+                    ],
+                    [
+                        61,
+                        78
+                    ],
+                    [
+                        61,
+                        94
+                    ]
+                ],
+                "area": 14509.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            175,
+            9,
+            2108,
+            104
+        ],
+        "components": [
+            {
+                "bbox": [
+                    175,
+                    9,
+                    2108,
+                    104
+                ],
+                "poly": [
+                    [
+                        175,
+                        9
+                    ],
+                    [
+                        177,
+                        48
+                    ],
+                    [
+                        252,
+                        56
+                    ],
+                    [
+                        593,
+                        68
+                    ],
+                    [
+                        913,
+                        73
+                    ],
+                    [
+                        937,
+                        68
+                    ],
+                    [
+                        940,
+                        90
+                    ],
+                    [
+                        956,
+                        95
+                    ],
+                    [
+                        981,
+                        83
+                    ],
+                    [
+                        1024,
+                        97
+                    ],
+                    [
+                        1048,
+                        80
+                    ],
+                    [
+                        1085,
+                        85
+                    ],
+                    [
+                        1094,
+                        90
+                    ],
+                    [
+                        1119,
+                        99
+                    ],
+                    [
+                        1151,
+                        89
+                    ],
+                    [
+                        1187,
+                        90
+                    ],
+                    [
+                        1277,
+                        85
+                    ],
+                    [
+                        1395,
+                        87
+                    ],
+                    [
+                        1478,
+                        90
+                    ],
+                    [
+                        1482,
+                        102
+                    ],
+                    [
+                        1496,
+                        100
+                    ],
+                    [
+                        1533,
+                        89
+                    ],
+                    [
+                        1622,
+                        94
+                    ],
+                    [
+                        1685,
+                        87
+                    ],
+                    [
+                        1928,
+                        97
+                    ],
+                    [
+                        2035,
+                        100
+                    ],
+                    [
+                        2054,
+                        102
+                    ],
+                    [
+                        2076,
+                        112
+                    ],
+                    [
+                        2107,
+                        99
+                    ],
+                    [
+                        2179,
+                        109
+                    ],
+                    [
+                        2282,
+                        104
+                    ],
+                    [
+                        2272,
+                        68
+                    ],
+                    [
+                        2156,
+                        56
+                    ],
+                    [
+                        2001,
+                        43
+                    ],
+                    [
+                        1794,
+                        49
+                    ],
+                    [
+                        1674,
+                        41
+                    ],
+                    [
+                        1496,
+                        39
+                    ],
+                    [
+                        1397,
+                        41
+                    ],
+                    [
+                        1191,
+                        41
+                    ],
+                    [
+                        949,
+                        27
+                    ],
+                    [
+                        804,
+                        24
+                    ],
+                    [
+                        538,
+                        22
+                    ],
+                    [
+                        179,
+                        9
+                    ],
+                    [
+                        182,
+                        9
+                    ]
+                ],
+                "area": 255236.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            208,
+            72,
+            2099,
+            82
+        ],
+        "components": [
+            {
+                "bbox": [
+                    208,
+                    72,
+                    2099,
+                    82
+                ],
+                "poly": [
+                    [
+                        208,
+                        72
+                    ],
+                    [
+                        218,
+                        104
+                    ],
+                    [
+                        598,
+                        116
+                    ],
+                    [
+                        864,
+                        116
+                    ],
+                    [
+                        889,
+                        138
+                    ],
+                    [
+                        928,
+                        138
+                    ],
+                    [
+                        988,
+                        128
+                    ],
+                    [
+                        1172,
+                        128
+                    ],
+                    [
+                        1414,
+                        135
+                    ],
+                    [
+                        1446,
+                        143
+                    ],
+                    [
+                        1514,
+                        135
+                    ],
+                    [
+                        1649,
+                        136
+                    ],
+                    [
+                        1942,
+                        138
+                    ],
+                    [
+                        2029,
+                        145
+                    ],
+                    [
+                        2221,
+                        153
+                    ],
+                    [
+                        2306,
+                        153
+                    ],
+                    [
+                        2306,
+                        111
+                    ],
+                    [
+                        2042,
+                        106
+                    ],
+                    [
+                        1792,
+                        99
+                    ],
+                    [
+                        1492,
+                        97
+                    ],
+                    [
+                        1269,
+                        92
+                    ],
+                    [
+                        1085,
+                        87
+                    ],
+                    [
+                        836,
+                        83
+                    ],
+                    [
+                        591,
+                        80
+                    ],
+                    [
+                        497,
+                        75
+                    ],
+                    [
+                        443,
+                        73
+                    ],
+                    [
+                        210,
+                        72
+                    ],
+                    [
+                        208,
+                        72
+                    ]
+                ],
+                "area": 251999.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            203,
+            104,
+            2091,
+            112
+        ],
+        "components": [
+            {
+                "bbox": [
+                    203,
+                    104,
+                    2091,
+                    112
+                ],
+                "poly": [
+                    [
+                        206,
+                        121
+                    ],
+                    [
+                        210,
+                        146
+                    ],
+                    [
+                        497,
+                        157
+                    ],
+                    [
+                        703,
+                        155
+                    ],
+                    [
+                        886,
+                        174
+                    ],
+                    [
+                        1146,
+                        181
+                    ],
+                    [
+                        1174,
+                        191
+                    ],
+                    [
+                        1199,
+                        194
+                    ],
+                    [
+                        1201,
+                        208
+                    ],
+                    [
+                        1226,
+                        210
+                    ],
+                    [
+                        1235,
+                        199
+                    ],
+                    [
+                        1247,
+                        181
+                    ],
+                    [
+                        1312,
+                        177
+                    ],
+                    [
+                        1313,
+                        191
+                    ],
+                    [
+                        1358,
+                        191
+                    ],
+                    [
+                        1375,
+                        175
+                    ],
+                    [
+                        1499,
+                        184
+                    ],
+                    [
+                        1606,
+                        186
+                    ],
+                    [
+                        1666,
+                        184
+                    ],
+                    [
+                        1678,
+                        186
+                    ],
+                    [
+                        1691,
+                        194
+                    ],
+                    [
+                        1737,
+                        199
+                    ],
+                    [
+                        1770,
+                        196
+                    ],
+                    [
+                        1838,
+                        182
+                    ],
+                    [
+                        1908,
+                        194
+                    ],
+                    [
+                        1926,
+                        201
+                    ],
+                    [
+                        1945,
+                        203
+                    ],
+                    [
+                        2000,
+                        196
+                    ],
+                    [
+                        2035,
+                        199
+                    ],
+                    [
+                        2041,
+                        210
+                    ],
+                    [
+                        2058,
+                        206
+                    ],
+                    [
+                        2075,
+                        203
+                    ],
+                    [
+                        2085,
+                        215
+                    ],
+                    [
+                        2114,
+                        203
+                    ],
+                    [
+                        2153,
+                        204
+                    ],
+                    [
+                        2213,
+                        196
+                    ],
+                    [
+                        2284,
+                        204
+                    ],
+                    [
+                        2293,
+                        169
+                    ],
+                    [
+                        2110,
+                        157
+                    ],
+                    [
+                        1826,
+                        146
+                    ],
+                    [
+                        1511,
+                        141
+                    ],
+                    [
+                        1208,
+                        133
+                    ],
+                    [
+                        765,
+                        128
+                    ],
+                    [
+                        581,
+                        118
+                    ],
+                    [
+                        393,
+                        109
+                    ],
+                    [
+                        203,
+                        104
+                    ]
+                ],
+                "area": 416087.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_16",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            206,
+            152,
+            2164,
+            94
+        ],
+        "components": [
+            {
+                "bbox": [
+                    206,
+                    152,
+                    2164,
+                    94
+                ],
+                "poly": [
+                    [
+                        210,
+                        158
+                    ],
+                    [
+                        218,
+                        177
+                    ],
+                    [
+                        305,
+                        184
+                    ],
+                    [
+                        445,
+                        199
+                    ],
+                    [
+                        547,
+                        203
+                    ],
+                    [
+                        784,
+                        211
+                    ],
+                    [
+                        857,
+                        223
+                    ],
+                    [
+                        937,
+                        218
+                    ],
+                    [
+                        1032,
+                        216
+                    ],
+                    [
+                        1172,
+                        230
+                    ],
+                    [
+                        1368,
+                        227
+                    ],
+                    [
+                        1470,
+                        221
+                    ],
+                    [
+                        1642,
+                        225
+                    ],
+                    [
+                        1920,
+                        235
+                    ],
+                    [
+                        2083,
+                        242
+                    ],
+                    [
+                        2192,
+                        233
+                    ],
+                    [
+                        2317,
+                        245
+                    ],
+                    [
+                        2369,
+                        242
+                    ],
+                    [
+                        2356,
+                        204
+                    ],
+                    [
+                        2093,
+                        204
+                    ],
+                    [
+                        1734,
+                        196
+                    ],
+                    [
+                        1552,
+                        189
+                    ],
+                    [
+                        1361,
+                        184
+                    ],
+                    [
+                        1104,
+                        181
+                    ],
+                    [
+                        552,
+                        162
+                    ],
+                    [
+                        385,
+                        158
+                    ],
+                    [
+                        206,
+                        152
+                    ]
+                ],
+                "area": 419867.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_17",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            2218,
+            56,
+            202,
+            49
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2218,
+                    56,
+                    202,
+                    49
+                ],
+                "poly": [
+                    [
+                        2419,
+                        56
+                    ],
+                    [
+                        2412,
+                        83
+                    ],
+                    [
+                        2395,
+                        99
+                    ],
+                    [
+                        2383,
+                        104
+                    ],
+                    [
+                        2363,
+                        99
+                    ],
+                    [
+                        2328,
+                        99
+                    ],
+                    [
+                        2288,
+                        89
+                    ],
+                    [
+                        2250,
+                        80
+                    ],
+                    [
+                        2218,
+                        61
+                    ],
+                    [
+                        2228,
+                        58
+                    ],
+                    [
+                        2262,
+                        68
+                    ],
+                    [
+                        2296,
+                        80
+                    ],
+                    [
+                        2334,
+                        82
+                    ],
+                    [
+                        2369,
+                        85
+                    ],
+                    [
+                        2381,
+                        89
+                    ],
+                    [
+                        2395,
+                        83
+                    ],
+                    [
+                        2398,
+                        77
+                    ]
+                ],
+                "area": 178780.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1_18",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/GOML/991/19.jpg-1",
+        "bbox": [
+            2,
+            2,
+            2528,
+            254
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2,
+                    2,
+                    2528,
+                    254
+                ],
+                "poly": [
+                    [
+                        3,
+                        7
+                    ],
+                    [
+                        2,
+                        170
+                    ],
+                    [
+                        269,
+                        194
+                    ],
+                    [
+                        499,
+                        215
+                    ],
+                    [
+                        709,
+                        228
+                    ],
+                    [
+                        956,
+                        238
+                    ],
+                    [
+                        1148,
+                        238
+                    ],
+                    [
+                        1450,
+                        237
+                    ],
+                    [
+                        1620,
+                        242
+                    ],
+                    [
+                        1903,
+                        244
+                    ],
+                    [
+                        1962,
+                        252
+                    ],
+                    [
+                        2151,
+                        255
+                    ],
+                    [
+                        2175,
+                        255
+                    ],
+                    [
+                        2179,
+                        245
+                    ],
+                    [
+                        2202,
+                        247
+                    ],
+                    [
+                        2252,
+                        247
+                    ],
+                    [
+                        2265,
+                        255
+                    ],
+                    [
+                        2385,
+                        254
+                    ],
+                    [
+                        2500,
+                        250
+                    ],
+                    [
+                        2518,
+                        242
+                    ],
+                    [
+                        2529,
+                        220
+                    ],
+                    [
+                        2529,
+                        85
+                    ],
+                    [
+                        2519,
+                        56
+                    ],
+                    [
+                        2448,
+                        49
+                    ],
+                    [
+                        2173,
+                        46
+                    ],
+                    [
+                        1804,
+                        29
+                    ],
+                    [
+                        1460,
+                        24
+                    ],
+                    [
+                        903,
+                        12
+                    ],
+                    [
+                        826,
+                        5
+                    ],
+                    [
+                        724,
+                        7
+                    ],
+                    [
+                        477,
+                        2
+                    ],
+                    [
+                        363,
+                        9
+                    ],
+                    [
+                        121,
+                        7
+                    ]
+                ],
+                "area": 558916.5
+            }
+        ],
+        "split": "train"
+    }
+]

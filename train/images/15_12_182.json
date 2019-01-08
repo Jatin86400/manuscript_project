@@ -1,0 +1,1056 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            66,
+            16,
+            1998,
+            67
+        ],
+        "components": [
+            {
+                "bbox": [
+                    66,
+                    16,
+                    1998,
+                    67
+                ],
+                "poly": [
+                    [
+                        69,
+                        56
+                    ],
+                    [
+                        70,
+                        82
+                    ],
+                    [
+                        430,
+                        71
+                    ],
+                    [
+                        805,
+                        66
+                    ],
+                    [
+                        1798,
+                        50
+                    ],
+                    [
+                        2025,
+                        45
+                    ],
+                    [
+                        2058,
+                        44
+                    ],
+                    [
+                        2063,
+                        16
+                    ],
+                    [
+                        1028,
+                        35
+                    ],
+                    [
+                        126,
+                        55
+                    ],
+                    [
+                        66,
+                        57
+                    ]
+                ],
+                "area": 166295.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            68,
+            49,
+            1946,
+            60
+        ],
+        "components": [
+            {
+                "bbox": [
+                    68,
+                    49,
+                    1946,
+                    60
+                ],
+                "poly": [
+                    [
+                        71,
+                        87
+                    ],
+                    [
+                        76,
+                        108
+                    ],
+                    [
+                        530,
+                        101
+                    ],
+                    [
+                        857,
+                        93
+                    ],
+                    [
+                        1633,
+                        82
+                    ],
+                    [
+                        1875,
+                        77
+                    ],
+                    [
+                        1975,
+                        74
+                    ],
+                    [
+                        2013,
+                        69
+                    ],
+                    [
+                        2013,
+                        49
+                    ],
+                    [
+                        1118,
+                        64
+                    ],
+                    [
+                        355,
+                        76
+                    ],
+                    [
+                        68,
+                        85
+                    ]
+                ],
+                "area": 212593.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            71,
+            73,
+            1837,
+            63
+        ],
+        "components": [
+            {
+                "bbox": [
+                    71,
+                    73,
+                    1837,
+                    63
+                ],
+                "poly": [
+                    [
+                        74,
+                        113
+                    ],
+                    [
+                        77,
+                        135
+                    ],
+                    [
+                        610,
+                        127
+                    ],
+                    [
+                        831,
+                        122
+                    ],
+                    [
+                        1793,
+                        109
+                    ],
+                    [
+                        1907,
+                        109
+                    ],
+                    [
+                        1903,
+                        73
+                    ],
+                    [
+                        1059,
+                        92
+                    ],
+                    [
+                        71,
+                        112
+                    ]
+                ],
+                "area": 261948.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            638,
+            108,
+            44,
+            41
+        ],
+        "components": [
+            {
+                "bbox": [
+                    638,
+                    108,
+                    44,
+                    41
+                ],
+                "poly": [
+                    [
+                        647,
+                        140
+                    ],
+                    [
+                        661,
+                        148
+                    ],
+                    [
+                        673,
+                        144
+                    ],
+                    [
+                        677,
+                        140
+                    ],
+                    [
+                        681,
+                        129
+                    ],
+                    [
+                        680,
+                        120
+                    ],
+                    [
+                        675,
+                        114
+                    ],
+                    [
+                        667,
+                        109
+                    ],
+                    [
+                        663,
+                        108
+                    ],
+                    [
+                        651,
+                        110
+                    ],
+                    [
+                        639,
+                        122
+                    ],
+                    [
+                        638,
+                        134
+                    ],
+                    [
+                        642,
+                        139
+                    ]
+                ],
+                "area": 26668.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            1486,
+            87,
+            40,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1486,
+                    87,
+                    40,
+                    38
+                ],
+                "poly": [
+                    [
+                        1497,
+                        122
+                    ],
+                    [
+                        1504,
+                        124
+                    ],
+                    [
+                        1514,
+                        124
+                    ],
+                    [
+                        1520,
+                        119
+                    ],
+                    [
+                        1525,
+                        108
+                    ],
+                    [
+                        1523,
+                        98
+                    ],
+                    [
+                        1517,
+                        92
+                    ],
+                    [
+                        1509,
+                        87
+                    ],
+                    [
+                        1492,
+                        91
+                    ],
+                    [
+                        1487,
+                        102
+                    ],
+                    [
+                        1486,
+                        113
+                    ],
+                    [
+                        1490,
+                        118
+                    ]
+                ],
+                "area": 56197.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            1402,
+            105,
+            66,
+            66
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1402,
+                    105,
+                    66,
+                    66
+                ],
+                "poly": [
+                    [
+                        1402,
+                        142
+                    ],
+                    [
+                        1420,
+                        170
+                    ],
+                    [
+                        1467,
+                        129
+                    ],
+                    [
+                        1442,
+                        105
+                    ],
+                    [
+                        1402,
+                        143
+                    ]
+                ],
+                "area": 97645.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            282,
+            182,
+            59,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    282,
+                    182,
+                    59,
+                    32
+                ],
+                "poly": [
+                    [
+                        287,
+                        189
+                    ],
+                    [
+                        282,
+                        206
+                    ],
+                    [
+                        303,
+                        213
+                    ],
+                    [
+                        325,
+                        213
+                    ],
+                    [
+                        330,
+                        209
+                    ],
+                    [
+                        333,
+                        212
+                    ],
+                    [
+                        340,
+                        203
+                    ],
+                    [
+                        336,
+                        197
+                    ],
+                    [
+                        334,
+                        192
+                    ],
+                    [
+                        332,
+                        182
+                    ],
+                    [
+                        314,
+                        186
+                    ],
+                    [
+                        308,
+                        191
+                    ],
+                    [
+                        291,
+                        192
+                    ]
+                ],
+                "area": 18245.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            165,
+            61,
+            69,
+            28
+        ],
+        "components": [
+            {
+                "bbox": [
+                    165,
+                    61,
+                    69,
+                    28
+                ],
+                "poly": [
+                    [
+                        172,
+                        69
+                    ],
+                    [
+                        166,
+                        72
+                    ],
+                    [
+                        166,
+                        80
+                    ],
+                    [
+                        177,
+                        88
+                    ],
+                    [
+                        182,
+                        80
+                    ],
+                    [
+                        187,
+                        70
+                    ],
+                    [
+                        195,
+                        71
+                    ],
+                    [
+                        204,
+                        69
+                    ],
+                    [
+                        203,
+                        76
+                    ],
+                    [
+                        212,
+                        85
+                    ],
+                    [
+                        228,
+                        79
+                    ],
+                    [
+                        232,
+                        73
+                    ],
+                    [
+                        233,
+                        68
+                    ],
+                    [
+                        226,
+                        66
+                    ],
+                    [
+                        215,
+                        69
+                    ],
+                    [
+                        209,
+                        62
+                    ],
+                    [
+                        191,
+                        61
+                    ],
+                    [
+                        177,
+                        64
+                    ],
+                    [
+                        165,
+                        74
+                    ]
+                ],
+                "area": 12546.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            1538,
+            154,
+            46,
+            24
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1538,
+                    154,
+                    46,
+                    24
+                ],
+                "poly": [
+                    [
+                        1542,
+                        168
+                    ],
+                    [
+                        1551,
+                        166
+                    ],
+                    [
+                        1562,
+                        154
+                    ],
+                    [
+                        1583,
+                        156
+                    ],
+                    [
+                        1581,
+                        160
+                    ],
+                    [
+                        1579,
+                        165
+                    ],
+                    [
+                        1571,
+                        165
+                    ],
+                    [
+                        1560,
+                        172
+                    ],
+                    [
+                        1554,
+                        177
+                    ],
+                    [
+                        1538,
+                        173
+                    ],
+                    [
+                        1538,
+                        173
+                    ]
+                ],
+                "area": 37371.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            1815,
+            55,
+            17,
+            20
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1815,
+                    55,
+                    17,
+                    20
+                ],
+                "poly": [
+                    [
+                        1816,
+                        69
+                    ],
+                    [
+                        1821,
+                        67
+                    ],
+                    [
+                        1824,
+                        72
+                    ],
+                    [
+                        1827,
+                        74
+                    ],
+                    [
+                        1828,
+                        66
+                    ],
+                    [
+                        1829,
+                        59
+                    ],
+                    [
+                        1831,
+                        59
+                    ],
+                    [
+                        1830,
+                        56
+                    ],
+                    [
+                        1821,
+                        55
+                    ],
+                    [
+                        1815,
+                        61
+                    ],
+                    [
+                        1815,
+                        67
+                    ]
+                ],
+                "area": 38226.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/9.jpg-1",
+        "bbox": [
+            17,
+            8,
+            2051,
+            222
+        ],
+        "components": [
+            {
+                "bbox": [
+                    17,
+                    8,
+                    2051,
+                    222
+                ],
+                "poly": [
+                    [
+                        17,
+                        52
+                    ],
+                    [
+                        24,
+                        61
+                    ],
+                    [
+                        33,
+                        66
+                    ],
+                    [
+                        61,
+                        63
+                    ],
+                    [
+                        60,
+                        96
+                    ],
+                    [
+                        92,
+                        96
+                    ],
+                    [
+                        90,
+                        102
+                    ],
+                    [
+                        68,
+                        111
+                    ],
+                    [
+                        49,
+                        126
+                    ],
+                    [
+                        47,
+                        124
+                    ],
+                    [
+                        58,
+                        130
+                    ],
+                    [
+                        66,
+                        147
+                    ],
+                    [
+                        71,
+                        146
+                    ],
+                    [
+                        92,
+                        140
+                    ],
+                    [
+                        92,
+                        148
+                    ],
+                    [
+                        96,
+                        156
+                    ],
+                    [
+                        104,
+                        160
+                    ],
+                    [
+                        106,
+                        169
+                    ],
+                    [
+                        96,
+                        169
+                    ],
+                    [
+                        98,
+                        191
+                    ],
+                    [
+                        93,
+                        197
+                    ],
+                    [
+                        102,
+                        212
+                    ],
+                    [
+                        167,
+                        216
+                    ],
+                    [
+                        190,
+                        220
+                    ],
+                    [
+                        210,
+                        229
+                    ],
+                    [
+                        248,
+                        225
+                    ],
+                    [
+                        976,
+                        217
+                    ],
+                    [
+                        2041,
+                        182
+                    ],
+                    [
+                        2029,
+                        161
+                    ],
+                    [
+                        1993,
+                        166
+                    ],
+                    [
+                        1986,
+                        159
+                    ],
+                    [
+                        1955,
+                        161
+                    ],
+                    [
+                        1937,
+                        169
+                    ],
+                    [
+                        1922,
+                        166
+                    ],
+                    [
+                        1922,
+                        157
+                    ],
+                    [
+                        1920,
+                        152
+                    ],
+                    [
+                        1911,
+                        149
+                    ],
+                    [
+                        1905,
+                        150
+                    ],
+                    [
+                        1912,
+                        143
+                    ],
+                    [
+                        1931,
+                        142
+                    ],
+                    [
+                        1935,
+                        140
+                    ],
+                    [
+                        1932,
+                        135
+                    ],
+                    [
+                        1944,
+                        123
+                    ],
+                    [
+                        1944,
+                        114
+                    ],
+                    [
+                        1946,
+                        108
+                    ],
+                    [
+                        1944,
+                        104
+                    ],
+                    [
+                        1942,
+                        86
+                    ],
+                    [
+                        1939,
+                        77
+                    ],
+                    [
+                        1947,
+                        69
+                    ],
+                    [
+                        1956,
+                        66
+                    ],
+                    [
+                        1972,
+                        68
+                    ],
+                    [
+                        1994,
+                        61
+                    ],
+                    [
+                        2006,
+                        59
+                    ],
+                    [
+                        2021,
+                        58
+                    ],
+                    [
+                        2018,
+                        51
+                    ],
+                    [
+                        2015,
+                        45
+                    ],
+                    [
+                        2036,
+                        43
+                    ],
+                    [
+                        2046,
+                        40
+                    ],
+                    [
+                        2045,
+                        35
+                    ],
+                    [
+                        2062,
+                        31
+                    ],
+                    [
+                        2066,
+                        20
+                    ],
+                    [
+                        2067,
+                        8
+                    ],
+                    [
+                        2030,
+                        11
+                    ],
+                    [
+                        2020,
+                        10
+                    ],
+                    [
+                        2017,
+                        17
+                    ],
+                    [
+                        2012,
+                        14
+                    ],
+                    [
+                        2004,
+                        8
+                    ],
+                    [
+                        1418,
+                        14
+                    ],
+                    [
+                        1394,
+                        23
+                    ],
+                    [
+                        1349,
+                        23
+                    ],
+                    [
+                        1307,
+                        16
+                    ],
+                    [
+                        1244,
+                        15
+                    ],
+                    [
+                        1178,
+                        15
+                    ],
+                    [
+                        1056,
+                        18
+                    ],
+                    [
+                        256,
+                        37
+                    ],
+                    [
+                        61,
+                        46
+                    ]
+                ],
+                "area": 527280.5
+            }
+        ],
+        "split": "train"
+    }
+]

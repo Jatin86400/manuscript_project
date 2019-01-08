@@ -1,0 +1,734 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            132,
+            29,
+            2535,
+            50
+        ],
+        "components": [
+            {
+                "bbox": [
+                    132,
+                    29,
+                    2535,
+                    50
+                ],
+                "poly": [
+                    [
+                        132,
+                        42
+                    ],
+                    [
+                        137,
+                        71
+                    ],
+                    [
+                        355,
+                        65
+                    ],
+                    [
+                        641,
+                        65
+                    ],
+                    [
+                        884,
+                        69
+                    ],
+                    [
+                        1189,
+                        73
+                    ],
+                    [
+                        1470,
+                        73
+                    ],
+                    [
+                        1725,
+                        61
+                    ],
+                    [
+                        1865,
+                        61
+                    ],
+                    [
+                        2055,
+                        65
+                    ],
+                    [
+                        2359,
+                        69
+                    ],
+                    [
+                        2603,
+                        78
+                    ],
+                    [
+                        2666,
+                        74
+                    ],
+                    [
+                        2643,
+                        42
+                    ],
+                    [
+                        1466,
+                        44
+                    ],
+                    [
+                        1128,
+                        38
+                    ],
+                    [
+                        763,
+                        38
+                    ],
+                    [
+                        550,
+                        36
+                    ],
+                    [
+                        414,
+                        29
+                    ],
+                    [
+                        219,
+                        32
+                    ],
+                    [
+                        155,
+                        36
+                    ]
+                ],
+                "area": 173708.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            136,
+            69,
+            2478,
+            48
+        ],
+        "components": [
+            {
+                "bbox": [
+                    136,
+                    69,
+                    2478,
+                    48
+                ],
+                "poly": [
+                    [
+                        136,
+                        84
+                    ],
+                    [
+                        136,
+                        111
+                    ],
+                    [
+                        265,
+                        105
+                    ],
+                    [
+                        447,
+                        113
+                    ],
+                    [
+                        666,
+                        107
+                    ],
+                    [
+                        907,
+                        101
+                    ],
+                    [
+                        1202,
+                        103
+                    ],
+                    [
+                        1578,
+                        103
+                    ],
+                    [
+                        1935,
+                        94
+                    ],
+                    [
+                        2076,
+                        97
+                    ],
+                    [
+                        2514,
+                        111
+                    ],
+                    [
+                        2613,
+                        116
+                    ],
+                    [
+                        2613,
+                        80
+                    ],
+                    [
+                        1914,
+                        69
+                    ],
+                    [
+                        1387,
+                        76
+                    ],
+                    [
+                        863,
+                        73
+                    ],
+                    [
+                        576,
+                        76
+                    ],
+                    [
+                        141,
+                        80
+                    ]
+                ],
+                "area": 249840.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            137,
+            111,
+            721,
+            41
+        ],
+        "components": [
+            {
+                "bbox": [
+                    137,
+                    111,
+                    721,
+                    41
+                ],
+                "poly": [
+                    [
+                        137,
+                        116
+                    ],
+                    [
+                        141,
+                        149
+                    ],
+                    [
+                        292,
+                        143
+                    ],
+                    [
+                        405,
+                        151
+                    ],
+                    [
+                        567,
+                        145
+                    ],
+                    [
+                        790,
+                        147
+                    ],
+                    [
+                        851,
+                        145
+                    ],
+                    [
+                        857,
+                        111
+                    ],
+                    [
+                        424,
+                        115
+                    ],
+                    [
+                        389,
+                        118
+                    ]
+                ],
+                "area": 112707.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            1006,
+            107,
+            793,
+            49
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1006,
+                    107,
+                    793,
+                    49
+                ],
+                "poly": [
+                    [
+                        1006,
+                        113
+                    ],
+                    [
+                        1010,
+                        139
+                    ],
+                    [
+                        1067,
+                        145
+                    ],
+                    [
+                        1265,
+                        149
+                    ],
+                    [
+                        1450,
+                        155
+                    ],
+                    [
+                        1681,
+                        147
+                    ],
+                    [
+                        1798,
+                        147
+                    ],
+                    [
+                        1762,
+                        107
+                    ],
+                    [
+                        1481,
+                        115
+                    ],
+                    [
+                        1189,
+                        115
+                    ]
+                ],
+                "area": 149813.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            1991,
+            95,
+            41,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1991,
+                    95,
+                    41,
+                    38
+                ],
+                "poly": [
+                    [
+                        1991,
+                        111
+                    ],
+                    [
+                        1994,
+                        124
+                    ],
+                    [
+                        2004,
+                        128
+                    ],
+                    [
+                        2019,
+                        132
+                    ],
+                    [
+                        2029,
+                        124
+                    ],
+                    [
+                        2031,
+                        111
+                    ],
+                    [
+                        2027,
+                        95
+                    ],
+                    [
+                        2013,
+                        95
+                    ],
+                    [
+                        1996,
+                        97
+                    ]
+                ],
+                "area": 74965.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            924,
+            94,
+            54,
+            52
+        ],
+        "components": [
+            {
+                "bbox": [
+                    924,
+                    94,
+                    54,
+                    52
+                ],
+                "poly": [
+                    [
+                        924,
+                        126
+                    ],
+                    [
+                        929,
+                        141
+                    ],
+                    [
+                        947,
+                        145
+                    ],
+                    [
+                        956,
+                        145
+                    ],
+                    [
+                        964,
+                        139
+                    ],
+                    [
+                        973,
+                        124
+                    ],
+                    [
+                        977,
+                        111
+                    ],
+                    [
+                        964,
+                        97
+                    ],
+                    [
+                        950,
+                        94
+                    ],
+                    [
+                        931,
+                        101
+                    ],
+                    [
+                        924,
+                        109
+                    ]
+                ],
+                "area": 48766.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            6,
+            65,
+            192,
+            33
+        ],
+        "components": [
+            {
+                "bbox": [
+                    6,
+                    65,
+                    192,
+                    33
+                ],
+                "poly": [
+                    [
+                        10,
+                        65
+                    ],
+                    [
+                        42,
+                        67
+                    ],
+                    [
+                        65,
+                        67
+                    ],
+                    [
+                        84,
+                        73
+                    ],
+                    [
+                        92,
+                        82
+                    ],
+                    [
+                        122,
+                        80
+                    ],
+                    [
+                        156,
+                        82
+                    ],
+                    [
+                        185,
+                        86
+                    ],
+                    [
+                        197,
+                        88
+                    ],
+                    [
+                        191,
+                        94
+                    ],
+                    [
+                        176,
+                        95
+                    ],
+                    [
+                        137,
+                        90
+                    ],
+                    [
+                        111,
+                        88
+                    ],
+                    [
+                        92,
+                        97
+                    ],
+                    [
+                        76,
+                        90
+                    ],
+                    [
+                        69,
+                        76
+                    ],
+                    [
+                        50,
+                        76
+                    ],
+                    [
+                        6,
+                        82
+                    ]
+                ],
+                "area": 14962.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/MANGALA&SAMASYA%20PURANAM/GOML/1456/8.jpg-1",
+        "bbox": [
+            4,
+            6,
+            2831,
+            220
+        ],
+        "components": [
+            {
+                "bbox": [
+                    4,
+                    6,
+                    2831,
+                    220
+                ],
+                "poly": [
+                    [
+                        23,
+                        225
+                    ],
+                    [
+                        208,
+                        223
+                    ],
+                    [
+                        691,
+                        223
+                    ],
+                    [
+                        916,
+                        225
+                    ],
+                    [
+                        1311,
+                        219
+                    ],
+                    [
+                        1607,
+                        223
+                    ],
+                    [
+                        1777,
+                        219
+                    ],
+                    [
+                        1991,
+                        210
+                    ],
+                    [
+                        2262,
+                        216
+                    ],
+                    [
+                        2523,
+                        208
+                    ],
+                    [
+                        2739,
+                        193
+                    ],
+                    [
+                        2825,
+                        183
+                    ],
+                    [
+                        2834,
+                        137
+                    ],
+                    [
+                        2830,
+                        32
+                    ],
+                    [
+                        2294,
+                        8
+                    ],
+                    [
+                        2138,
+                        8
+                    ],
+                    [
+                        1861,
+                        10
+                    ],
+                    [
+                        1693,
+                        11
+                    ],
+                    [
+                        1552,
+                        17
+                    ],
+                    [
+                        1325,
+                        13
+                    ],
+                    [
+                        949,
+                        6
+                    ],
+                    [
+                        761,
+                        11
+                    ],
+                    [
+                        540,
+                        6
+                    ],
+                    [
+                        416,
+                        8
+                    ],
+                    [
+                        376,
+                        19
+                    ],
+                    [
+                        300,
+                        8
+                    ],
+                    [
+                        168,
+                        21
+                    ],
+                    [
+                        61,
+                        27
+                    ],
+                    [
+                        32,
+                        21
+                    ],
+                    [
+                        10,
+                        42
+                    ],
+                    [
+                        10,
+                        73
+                    ],
+                    [
+                        4,
+                        107
+                    ],
+                    [
+                        4,
+                        158
+                    ],
+                    [
+                        15,
+                        206
+                    ]
+                ],
+                "area": 622626.5
+            }
+        ],
+        "split": "train"
+    }
+]

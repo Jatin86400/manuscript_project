@@ -1,0 +1,1792 @@
+[
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_1",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            86,
+            107,
+            32,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    86,
+                    107,
+                    32,
+                    14
+                ],
+                "poly": [
+                    [
+                        87,
+                        107
+                    ],
+                    [
+                        86,
+                        120
+                    ],
+                    [
+                        117,
+                        120
+                    ],
+                    [
+                        116,
+                        107
+                    ]
+                ],
+                "area": 4731.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_2",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            128,
+            105,
+            546,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    128,
+                    105,
+                    546,
+                    14
+                ],
+                "poly": [
+                    [
+                        128,
+                        108
+                    ],
+                    [
+                        129,
+                        118
+                    ],
+                    [
+                        449,
+                        118
+                    ],
+                    [
+                        672,
+                        117
+                    ],
+                    [
+                        673,
+                        108
+                    ],
+                    [
+                        671,
+                        105
+                    ],
+                    [
+                        213,
+                        106
+                    ],
+                    [
+                        128,
+                        108
+                    ]
+                ],
+                "area": 65930.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_3",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            129,
+            120,
+            544,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    129,
+                    120,
+                    544,
+                    15
+                ],
+                "poly": [
+                    [
+                        130,
+                        124
+                    ],
+                    [
+                        129,
+                        133
+                    ],
+                    [
+                        449,
+                        134
+                    ],
+                    [
+                        672,
+                        132
+                    ],
+                    [
+                        671,
+                        120
+                    ],
+                    [
+                        216,
+                        123
+                    ],
+                    [
+                        129,
+                        124
+                    ]
+                ],
+                "area": 75045.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_4",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            129,
+            135,
+            544,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    129,
+                    135,
+                    544,
+                    14
+                ],
+                "poly": [
+                    [
+                        130,
+                        139
+                    ],
+                    [
+                        130,
+                        148
+                    ],
+                    [
+                        471,
+                        148
+                    ],
+                    [
+                        672,
+                        145
+                    ],
+                    [
+                        671,
+                        135
+                    ],
+                    [
+                        214,
+                        136
+                    ],
+                    [
+                        130,
+                        138
+                    ],
+                    [
+                        129,
+                        138
+                    ]
+                ],
+                "area": 81869.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_5",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            130,
+            149,
+            540,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    130,
+                    149,
+                    540,
+                    14
+                ],
+                "poly": [
+                    [
+                        131,
+                        152
+                    ],
+                    [
+                        130,
+                        160
+                    ],
+                    [
+                        310,
+                        162
+                    ],
+                    [
+                        449,
+                        162
+                    ],
+                    [
+                        668,
+                        160
+                    ],
+                    [
+                        669,
+                        150
+                    ],
+                    [
+                        213,
+                        149
+                    ],
+                    [
+                        130,
+                        151
+                    ]
+                ],
+                "area": 88009.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_6",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            131,
+            163,
+            541,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    131,
+                    163,
+                    541,
+                    14
+                ],
+                "poly": [
+                    [
+                        131,
+                        165
+                    ],
+                    [
+                        132,
+                        174
+                    ],
+                    [
+                        504,
+                        174
+                    ],
+                    [
+                        671,
+                        176
+                    ],
+                    [
+                        669,
+                        163
+                    ],
+                    [
+                        215,
+                        163
+                    ],
+                    [
+                        131,
+                        165
+                    ]
+                ],
+                "area": 95143.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_7",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            131,
+            176,
+            540,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    131,
+                    176,
+                    540,
+                    15
+                ],
+                "poly": [
+                    [
+                        132,
+                        176
+                    ],
+                    [
+                        132,
+                        187
+                    ],
+                    [
+                        448,
+                        190
+                    ],
+                    [
+                        670,
+                        189
+                    ],
+                    [
+                        669,
+                        177
+                    ],
+                    [
+                        213,
+                        176
+                    ],
+                    [
+                        131,
+                        177
+                    ]
+                ],
+                "area": 102811.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_8",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            131,
+            191,
+            407,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    131,
+                    191,
+                    407,
+                    13
+                ],
+                "poly": [
+                    [
+                        133,
+                        203
+                    ],
+                    [
+                        237,
+                        201
+                    ],
+                    [
+                        446,
+                        203
+                    ],
+                    [
+                        537,
+                        203
+                    ],
+                    [
+                        537,
+                        192
+                    ],
+                    [
+                        218,
+                        191
+                    ],
+                    [
+                        131,
+                        191
+                    ],
+                    [
+                        133,
+                        203
+                    ]
+                ],
+                "area": 82905.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_9",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            235,
+            204,
+            321,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    235,
+                    204,
+                    321,
+                    14
+                ],
+                "poly": [
+                    [
+                        235,
+                        205
+                    ],
+                    [
+                        236,
+                        215
+                    ],
+                    [
+                        449,
+                        217
+                    ],
+                    [
+                        554,
+                        215
+                    ],
+                    [
+                        555,
+                        204
+                    ],
+                    [
+                        235,
+                        204
+                    ]
+                ],
+                "area": 71487.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_10",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            133,
+            216,
+            542,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    133,
+                    216,
+                    542,
+                    15
+                ],
+                "poly": [
+                    [
+                        133,
+                        220
+                    ],
+                    [
+                        134,
+                        229
+                    ],
+                    [
+                        529,
+                        230
+                    ],
+                    [
+                        674,
+                        229
+                    ],
+                    [
+                        672,
+                        216
+                    ],
+                    [
+                        218,
+                        219
+                    ],
+                    [
+                        134,
+                        221
+                    ]
+                ],
+                "area": 126240.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_11",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            131,
+            232,
+            547,
+            12
+        ],
+        "components": [
+            {
+                "bbox": [
+                    131,
+                    232,
+                    547,
+                    12
+                ],
+                "poly": [
+                    [
+                        131,
+                        234
+                    ],
+                    [
+                        132,
+                        243
+                    ],
+                    [
+                        577,
+                        243
+                    ],
+                    [
+                        677,
+                        243
+                    ],
+                    [
+                        677,
+                        232
+                    ],
+                    [
+                        215,
+                        233
+                    ],
+                    [
+                        131,
+                        234
+                    ]
+                ],
+                "area": 134237.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_12",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            131,
+            246,
+            545,
+            12
+        ],
+        "components": [
+            {
+                "bbox": [
+                    131,
+                    246,
+                    545,
+                    12
+                ],
+                "poly": [
+                    [
+                        131,
+                        247
+                    ],
+                    [
+                        131,
+                        255
+                    ],
+                    [
+                        447,
+                        257
+                    ],
+                    [
+                        675,
+                        257
+                    ],
+                    [
+                        674,
+                        246
+                    ],
+                    [
+                        214,
+                        246
+                    ],
+                    [
+                        131,
+                        248
+                    ],
+                    [
+                        131,
+                        248
+                    ]
+                ],
+                "area": 140633.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_13",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            132,
+            257,
+            537,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    132,
+                    257,
+                    537,
+                    14
+                ],
+                "poly": [
+                    [
+                        132,
+                        261
+                    ],
+                    [
+                        133,
+                        270
+                    ],
+                    [
+                        453,
+                        270
+                    ],
+                    [
+                        668,
+                        270
+                    ],
+                    [
+                        668,
+                        259
+                    ],
+                    [
+                        219,
+                        257
+                    ],
+                    [
+                        132,
+                        259
+                    ]
+                ],
+                "area": 145370.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_14",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            130,
+            270,
+            544,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    130,
+                    270,
+                    544,
+                    15
+                ],
+                "poly": [
+                    [
+                        131,
+                        274
+                    ],
+                    [
+                        131,
+                        283
+                    ],
+                    [
+                        541,
+                        284
+                    ],
+                    [
+                        673,
+                        284
+                    ],
+                    [
+                        671,
+                        270
+                    ],
+                    [
+                        215,
+                        273
+                    ],
+                    [
+                        130,
+                        273
+                    ]
+                ],
+                "area": 155950.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_15",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            124,
+            404,
+            549,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    124,
+                    404,
+                    549,
+                    14
+                ],
+                "poly": [
+                    [
+                        125,
+                        407
+                    ],
+                    [
+                        126,
+                        417
+                    ],
+                    [
+                        497,
+                        417
+                    ],
+                    [
+                        672,
+                        415
+                    ],
+                    [
+                        672,
+                        404
+                    ],
+                    [
+                        217,
+                        405
+                    ],
+                    [
+                        124,
+                        406
+                    ],
+                    [
+                        124,
+                        407
+                    ]
+                ],
+                "area": 229908.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_16",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            125,
+            419,
+            555,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    125,
+                    419,
+                    555,
+                    13
+                ],
+                "poly": [
+                    [
+                        126,
+                        420
+                    ],
+                    [
+                        126,
+                        429
+                    ],
+                    [
+                        448,
+                        431
+                    ],
+                    [
+                        679,
+                        431
+                    ],
+                    [
+                        678,
+                        420
+                    ],
+                    [
+                        599,
+                        419
+                    ],
+                    [
+                        214,
+                        419
+                    ],
+                    [
+                        126,
+                        419
+                    ],
+                    [
+                        125,
+                        419
+                    ]
+                ],
+                "area": 238510.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_17",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            126,
+            432,
+            549,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    126,
+                    432,
+                    549,
+                    14
+                ],
+                "poly": [
+                    [
+                        126,
+                        432
+                    ],
+                    [
+                        126,
+                        445
+                    ],
+                    [
+                        448,
+                        445
+                    ],
+                    [
+                        674,
+                        444
+                    ],
+                    [
+                        673,
+                        433
+                    ],
+                    [
+                        226,
+                        432
+                    ],
+                    [
+                        126,
+                        432
+                    ]
+                ],
+                "area": 244497.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_18",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            126,
+            446,
+            552,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    126,
+                    446,
+                    552,
+                    13
+                ],
+                "poly": [
+                    [
+                        126,
+                        447
+                    ],
+                    [
+                        126,
+                        458
+                    ],
+                    [
+                        446,
+                        458
+                    ],
+                    [
+                        677,
+                        458
+                    ],
+                    [
+                        676,
+                        446
+                    ],
+                    [
+                        215,
+                        446
+                    ],
+                    [
+                        127,
+                        447
+                    ]
+                ],
+                "area": 253463.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_19",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            126,
+            460,
+            547,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    126,
+                    460,
+                    547,
+                    14
+                ],
+                "poly": [
+                    [
+                        126,
+                        463
+                    ],
+                    [
+                        127,
+                        472
+                    ],
+                    [
+                        294,
+                        473
+                    ],
+                    [
+                        440,
+                        473
+                    ],
+                    [
+                        672,
+                        471
+                    ],
+                    [
+                        671,
+                        460
+                    ],
+                    [
+                        215,
+                        461
+                    ],
+                    [
+                        126,
+                        463
+                    ]
+                ],
+                "area": 258926.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_20",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            177,
+            474,
+            450,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    177,
+                    474,
+                    450,
+                    13
+                ],
+                "poly": [
+                    [
+                        177,
+                        475
+                    ],
+                    [
+                        178,
+                        486
+                    ],
+                    [
+                        444,
+                        486
+                    ],
+                    [
+                        626,
+                        486
+                    ],
+                    [
+                        622,
+                        474
+                    ],
+                    [
+                        217,
+                        474
+                    ],
+                    [
+                        178,
+                        475
+                    ]
+                ],
+                "area": 217958.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_21",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            177,
+            488,
+            454,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    177,
+                    488,
+                    454,
+                    13
+                ],
+                "poly": [
+                    [
+                        177,
+                        489
+                    ],
+                    [
+                        178,
+                        499
+                    ],
+                    [
+                        507,
+                        500
+                    ],
+                    [
+                        630,
+                        500
+                    ],
+                    [
+                        629,
+                        489
+                    ],
+                    [
+                        222,
+                        488
+                    ],
+                    [
+                        177,
+                        490
+                    ]
+                ],
+                "area": 227089.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_22",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            176,
+            501,
+            452,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    176,
+                    501,
+                    452,
+                    13
+                ],
+                "poly": [
+                    [
+                        176,
+                        503
+                    ],
+                    [
+                        177,
+                        513
+                    ],
+                    [
+                        446,
+                        513
+                    ],
+                    [
+                        627,
+                        512
+                    ],
+                    [
+                        626,
+                        501
+                    ],
+                    [
+                        216,
+                        502
+                    ],
+                    [
+                        176,
+                        504
+                    ]
+                ],
+                "area": 232831.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_23",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            176,
+            515,
+            453,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    176,
+                    515,
+                    453,
+                    13
+                ],
+                "poly": [
+                    [
+                        176,
+                        519
+                    ],
+                    [
+                        177,
+                        527
+                    ],
+                    [
+                        566,
+                        527
+                    ],
+                    [
+                        598,
+                        526
+                    ],
+                    [
+                        628,
+                        526
+                    ],
+                    [
+                        625,
+                        515
+                    ],
+                    [
+                        217,
+                        517
+                    ],
+                    [
+                        176,
+                        518
+                    ]
+                ],
+                "area": 238696.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_24",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            127,
+            525,
+            553,
+            19
+        ],
+        "components": [
+            {
+                "bbox": [
+                    127,
+                    525,
+                    553,
+                    19
+                ],
+                "poly": [
+                    [
+                        128,
+                        532
+                    ],
+                    [
+                        129,
+                        543
+                    ],
+                    [
+                        548,
+                        540
+                    ],
+                    [
+                        679,
+                        539
+                    ],
+                    [
+                        677,
+                        525
+                    ],
+                    [
+                        238,
+                        529
+                    ],
+                    [
+                        127,
+                        532
+                    ]
+                ],
+                "area": 300822.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_25",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            128,
+            542,
+            546,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    128,
+                    542,
+                    546,
+                    15
+                ],
+                "poly": [
+                    [
+                        128,
+                        545
+                    ],
+                    [
+                        130,
+                        556
+                    ],
+                    [
+                        446,
+                        555
+                    ],
+                    [
+                        673,
+                        554
+                    ],
+                    [
+                        672,
+                        542
+                    ],
+                    [
+                        220,
+                        544
+                    ],
+                    [
+                        129,
+                        545
+                    ]
+                ],
+                "area": 303347.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_26",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            126,
+            555,
+            552,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    126,
+                    555,
+                    552,
+                    16
+                ],
+                "poly": [
+                    [
+                        126,
+                        560
+                    ],
+                    [
+                        128,
+                        569
+                    ],
+                    [
+                        555,
+                        570
+                    ],
+                    [
+                        677,
+                        568
+                    ],
+                    [
+                        674,
+                        555
+                    ],
+                    [
+                        126,
+                        559
+                    ]
+                ],
+                "area": 313779.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Character Line Segment",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_27",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            127,
+            570,
+            551,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    127,
+                    570,
+                    551,
+                    16
+                ],
+                "poly": [
+                    [
+                        127,
+                        574
+                    ],
+                    [
+                        130,
+                        585
+                    ],
+                    [
+                        677,
+                        585
+                    ],
+                    [
+                        675,
+                        570
+                    ],
+                    [
+                        128,
+                        572
+                    ]
+                ],
+                "area": 321636.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Page Boundary",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_28",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            67,
+            358,
+            663,
+            277
+        ],
+        "components": [
+            {
+                "bbox": [
+                    67,
+                    358,
+                    663,
+                    277
+                ],
+                "poly": [
+                    [
+                        721,
+                        630
+                    ],
+                    [
+                        469,
+                        633
+                    ],
+                    [
+                        423,
+                        632
+                    ],
+                    [
+                        309,
+                        634
+                    ],
+                    [
+                        309,
+                        631
+                    ],
+                    [
+                        293,
+                        632
+                    ],
+                    [
+                        286,
+                        633
+                    ],
+                    [
+                        194,
+                        634
+                    ],
+                    [
+                        74,
+                        630
+                    ],
+                    [
+                        71,
+                        627
+                    ],
+                    [
+                        70,
+                        618
+                    ],
+                    [
+                        68,
+                        606
+                    ],
+                    [
+                        70,
+                        516
+                    ],
+                    [
+                        71,
+                        504
+                    ],
+                    [
+                        71,
+                        493
+                    ],
+                    [
+                        69,
+                        482
+                    ],
+                    [
+                        68,
+                        455
+                    ],
+                    [
+                        70,
+                        442
+                    ],
+                    [
+                        71,
+                        429
+                    ],
+                    [
+                        68,
+                        424
+                    ],
+                    [
+                        67,
+                        387
+                    ],
+                    [
+                        72,
+                        364
+                    ],
+                    [
+                        77,
+                        358
+                    ],
+                    [
+                        80,
+                        361
+                    ],
+                    [
+                        96,
+                        360
+                    ],
+                    [
+                        149,
+                        359
+                    ],
+                    [
+                        241,
+                        358
+                    ],
+                    [
+                        330,
+                        360
+                    ],
+                    [
+                        415,
+                        360
+                    ],
+                    [
+                        496,
+                        360
+                    ],
+                    [
+                        584,
+                        360
+                    ],
+                    [
+                        655,
+                        360
+                    ],
+                    [
+                        691,
+                        361
+                    ],
+                    [
+                        720,
+                        360
+                    ],
+                    [
+                        726,
+                        364
+                    ],
+                    [
+                        727,
+                        382
+                    ],
+                    [
+                        728,
+                        441
+                    ],
+                    [
+                        728,
+                        492
+                    ],
+                    [
+                        721,
+                        494
+                    ],
+                    [
+                        728,
+                        507
+                    ],
+                    [
+                        729,
+                        607
+                    ],
+                    [
+                        729,
+                        621
+                    ],
+                    [
+                        726,
+                        627
+                    ]
+                ],
+                "area": 433097.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0",
+        "label": "Page Boundary",
+        "instance_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1_29",
+        "image_id": "https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=indic_ms_coll_390_item_1787_wk1_body0052&svc.level=4&svc.rotate=0-1",
+        "bbox": [
+            70,
+            58,
+            663,
+            274
+        ],
+        "components": [
+            {
+                "bbox": [
+                    70,
+                    58,
+                    663,
+                    274
+                ],
+                "poly": [
+                    [
+                        732,
+                        74
+                    ],
+                    [
+                        730,
+                        320
+                    ],
+                    [
+                        729,
+                        326
+                    ],
+                    [
+                        726,
+                        331
+                    ],
+                    [
+                        83,
+                        331
+                    ],
+                    [
+                        73,
+                        326
+                    ],
+                    [
+                        72,
+                        320
+                    ],
+                    [
+                        71,
+                        317
+                    ],
+                    [
+                        71,
+                        209
+                    ],
+                    [
+                        71,
+                        191
+                    ],
+                    [
+                        70,
+                        167
+                    ],
+                    [
+                        71,
+                        114
+                    ],
+                    [
+                        71,
+                        85
+                    ],
+                    [
+                        72,
+                        66
+                    ],
+                    [
+                        76,
+                        61
+                    ],
+                    [
+                        121,
+                        59
+                    ],
+                    [
+                        229,
+                        59
+                    ],
+                    [
+                        353,
+                        58
+                    ],
+                    [
+                        456,
+                        60
+                    ],
+                    [
+                        555,
+                        59
+                    ],
+                    [
+                        648,
+                        59
+                    ],
+                    [
+                        712,
+                        60
+                    ],
+                    [
+                        722,
+                        61
+                    ],
+                    [
+                        728,
+                        67
+                    ]
+                ],
+                "area": 234969.5
+            }
+        ],
+        "split": "train"
+    }
+]

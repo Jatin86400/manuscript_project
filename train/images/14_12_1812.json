@@ -1,0 +1,2064 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            913,
+            79,
+            50,
+            51
+        ],
+        "components": [
+            {
+                "bbox": [
+                    913,
+                    79,
+                    50,
+                    51
+                ],
+                "poly": [
+                    [
+                        925,
+                        84
+                    ],
+                    [
+                        917,
+                        93
+                    ],
+                    [
+                        913,
+                        112
+                    ],
+                    [
+                        919,
+                        119
+                    ],
+                    [
+                        922,
+                        122
+                    ],
+                    [
+                        933,
+                        129
+                    ],
+                    [
+                        940,
+                        129
+                    ],
+                    [
+                        953,
+                        125
+                    ],
+                    [
+                        961,
+                        116
+                    ],
+                    [
+                        962,
+                        103
+                    ],
+                    [
+                        959,
+                        93
+                    ],
+                    [
+                        957,
+                        87
+                    ],
+                    [
+                        948,
+                        82
+                    ],
+                    [
+                        939,
+                        79
+                    ]
+                ],
+                "area": 47668.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            1981,
+            89,
+            48,
+            46
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1981,
+                    89,
+                    48,
+                    46
+                ],
+                "poly": [
+                    [
+                        1982,
+                        111
+                    ],
+                    [
+                        1984,
+                        123
+                    ],
+                    [
+                        1995,
+                        133
+                    ],
+                    [
+                        2000,
+                        134
+                    ],
+                    [
+                        2010,
+                        134
+                    ],
+                    [
+                        2021,
+                        129
+                    ],
+                    [
+                        2025,
+                        119
+                    ],
+                    [
+                        2028,
+                        106
+                    ],
+                    [
+                        2021,
+                        98
+                    ],
+                    [
+                        2013,
+                        92
+                    ],
+                    [
+                        1999,
+                        89
+                    ],
+                    [
+                        1986,
+                        99
+                    ],
+                    [
+                        1981,
+                        107
+                    ]
+                ],
+                "area": 90286.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            792,
+            125,
+            17,
+            80
+        ],
+        "components": [
+            {
+                "bbox": [
+                    792,
+                    125,
+                    17,
+                    80
+                ],
+                "poly": [
+                    [
+                        802,
+                        125
+                    ],
+                    [
+                        796,
+                        131
+                    ],
+                    [
+                        792,
+                        142
+                    ],
+                    [
+                        792,
+                        161
+                    ],
+                    [
+                        792,
+                        187
+                    ],
+                    [
+                        796,
+                        197
+                    ],
+                    [
+                        802,
+                        204
+                    ],
+                    [
+                        808,
+                        202
+                    ],
+                    [
+                        808,
+                        190
+                    ],
+                    [
+                        802,
+                        184
+                    ],
+                    [
+                        801,
+                        179
+                    ],
+                    [
+                        800,
+                        161
+                    ],
+                    [
+                        804,
+                        135
+                    ],
+                    [
+                        804,
+                        129
+                    ],
+                    [
+                        804,
+                        130
+                    ]
+                ],
+                "area": 63586.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            178,
+            15,
+            2481,
+            42
+        ],
+        "components": [
+            {
+                "bbox": [
+                    178,
+                    15,
+                    2481,
+                    42
+                ],
+                "poly": [
+                    [
+                        178,
+                        16
+                    ],
+                    [
+                        179,
+                        32
+                    ],
+                    [
+                        297,
+                        37
+                    ],
+                    [
+                        361,
+                        37
+                    ],
+                    [
+                        370,
+                        45
+                    ],
+                    [
+                        384,
+                        45
+                    ],
+                    [
+                        393,
+                        35
+                    ],
+                    [
+                        403,
+                        43
+                    ],
+                    [
+                        632,
+                        42
+                    ],
+                    [
+                        778,
+                        41
+                    ],
+                    [
+                        900,
+                        43
+                    ],
+                    [
+                        1011,
+                        41
+                    ],
+                    [
+                        1134,
+                        37
+                    ],
+                    [
+                        1179,
+                        37
+                    ],
+                    [
+                        1311,
+                        38
+                    ],
+                    [
+                        1485,
+                        37
+                    ],
+                    [
+                        1558,
+                        43
+                    ],
+                    [
+                        1757,
+                        48
+                    ],
+                    [
+                        1875,
+                        46
+                    ],
+                    [
+                        1972,
+                        50
+                    ],
+                    [
+                        2043,
+                        49
+                    ],
+                    [
+                        2105,
+                        54
+                    ],
+                    [
+                        2147,
+                        54
+                    ],
+                    [
+                        2238,
+                        52
+                    ],
+                    [
+                        2335,
+                        56
+                    ],
+                    [
+                        2434,
+                        56
+                    ],
+                    [
+                        2578,
+                        56
+                    ],
+                    [
+                        2658,
+                        55
+                    ],
+                    [
+                        2658,
+                        22
+                    ],
+                    [
+                        2428,
+                        25
+                    ],
+                    [
+                        2210,
+                        25
+                    ],
+                    [
+                        1974,
+                        22
+                    ],
+                    [
+                        1754,
+                        19
+                    ],
+                    [
+                        1649,
+                        18
+                    ],
+                    [
+                        716,
+                        15
+                    ],
+                    [
+                        181,
+                        16
+                    ]
+                ],
+                "area": 132273.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            181,
+            39,
+            2219,
+            51
+        ],
+        "components": [
+            {
+                "bbox": [
+                    181,
+                    39,
+                    2219,
+                    51
+                ],
+                "poly": [
+                    [
+                        181,
+                        40
+                    ],
+                    [
+                        181,
+                        62
+                    ],
+                    [
+                        354,
+                        62
+                    ],
+                    [
+                        492,
+                        65
+                    ],
+                    [
+                        650,
+                        64
+                    ],
+                    [
+                        773,
+                        67
+                    ],
+                    [
+                        914,
+                        68
+                    ],
+                    [
+                        1041,
+                        68
+                    ],
+                    [
+                        1068,
+                        69
+                    ],
+                    [
+                        1251,
+                        70
+                    ],
+                    [
+                        1543,
+                        70
+                    ],
+                    [
+                        1713,
+                        69
+                    ],
+                    [
+                        1722,
+                        77
+                    ],
+                    [
+                        1742,
+                        75
+                    ],
+                    [
+                        1909,
+                        77
+                    ],
+                    [
+                        1966,
+                        77
+                    ],
+                    [
+                        2085,
+                        73
+                    ],
+                    [
+                        2088,
+                        83
+                    ],
+                    [
+                        2124,
+                        84
+                    ],
+                    [
+                        2164,
+                        78
+                    ],
+                    [
+                        2164,
+                        89
+                    ],
+                    [
+                        2187,
+                        86
+                    ],
+                    [
+                        2201,
+                        78
+                    ],
+                    [
+                        2399,
+                        81
+                    ],
+                    [
+                        2396,
+                        60
+                    ],
+                    [
+                        1825,
+                        49
+                    ],
+                    [
+                        305,
+                        39
+                    ],
+                    [
+                        183,
+                        40
+                    ]
+                ],
+                "area": 183944.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            182,
+            64,
+            708,
+            36
+        ],
+        "components": [
+            {
+                "bbox": [
+                    182,
+                    64,
+                    708,
+                    36
+                ],
+                "poly": [
+                    [
+                        183,
+                        69
+                    ],
+                    [
+                        182,
+                        91
+                    ],
+                    [
+                        203,
+                        94
+                    ],
+                    [
+                        291,
+                        91
+                    ],
+                    [
+                        394,
+                        90
+                    ],
+                    [
+                        562,
+                        87
+                    ],
+                    [
+                        579,
+                        94
+                    ],
+                    [
+                        650,
+                        91
+                    ],
+                    [
+                        664,
+                        99
+                    ],
+                    [
+                        745,
+                        97
+                    ],
+                    [
+                        831,
+                        93
+                    ],
+                    [
+                        889,
+                        93
+                    ],
+                    [
+                        886,
+                        69
+                    ],
+                    [
+                        688,
+                        69
+                    ],
+                    [
+                        609,
+                        64
+                    ],
+                    [
+                        232,
+                        65
+                    ],
+                    [
+                        186,
+                        65
+                    ]
+                ],
+                "area": 73279.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            981,
+            69,
+            970,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    981,
+                    69,
+                    970,
+                    32
+                ],
+                "poly": [
+                    [
+                        981,
+                        73
+                    ],
+                    [
+                        983,
+                        93
+                    ],
+                    [
+                        1059,
+                        97
+                    ],
+                    [
+                        1173,
+                        97
+                    ],
+                    [
+                        1244,
+                        93
+                    ],
+                    [
+                        1375,
+                        89
+                    ],
+                    [
+                        1457,
+                        91
+                    ],
+                    [
+                        1612,
+                        97
+                    ],
+                    [
+                        1746,
+                        93
+                    ],
+                    [
+                        1861,
+                        100
+                    ],
+                    [
+                        1950,
+                        98
+                    ],
+                    [
+                        1949,
+                        77
+                    ],
+                    [
+                        1658,
+                        72
+                    ],
+                    [
+                        1491,
+                        71
+                    ],
+                    [
+                        1329,
+                        69
+                    ],
+                    [
+                        981,
+                        74
+                    ]
+                ],
+                "area": 104975.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            2047,
+            82,
+            625,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2047,
+                    82,
+                    625,
+                    32
+                ],
+                "poly": [
+                    [
+                        2047,
+                        82
+                    ],
+                    [
+                        2047,
+                        98
+                    ],
+                    [
+                        2182,
+                        102
+                    ],
+                    [
+                        2181,
+                        113
+                    ],
+                    [
+                        2204,
+                        111
+                    ],
+                    [
+                        2207,
+                        107
+                    ],
+                    [
+                        2342,
+                        105
+                    ],
+                    [
+                        2430,
+                        104
+                    ],
+                    [
+                        2514,
+                        101
+                    ],
+                    [
+                        2515,
+                        111
+                    ],
+                    [
+                        2537,
+                        111
+                    ],
+                    [
+                        2543,
+                        103
+                    ],
+                    [
+                        2566,
+                        101
+                    ],
+                    [
+                        2567,
+                        109
+                    ],
+                    [
+                        2583,
+                        112
+                    ],
+                    [
+                        2604,
+                        103
+                    ],
+                    [
+                        2671,
+                        103
+                    ],
+                    [
+                        2667,
+                        82
+                    ],
+                    [
+                        2193,
+                        85
+                    ],
+                    [
+                        2049,
+                        82
+                    ]
+                ],
+                "area": 173815.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            2694,
+            105,
+            96,
+            113
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2694,
+                    105,
+                    96,
+                    113
+                ],
+                "poly": [
+                    [
+                        2694,
+                        113
+                    ],
+                    [
+                        2695,
+                        193
+                    ],
+                    [
+                        2772,
+                        217
+                    ],
+                    [
+                        2789,
+                        183
+                    ],
+                    [
+                        2779,
+                        106
+                    ],
+                    [
+                        2699,
+                        105
+                    ]
+                ],
+                "area": 301952.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            177,
+            91,
+            723,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    177,
+                    91,
+                    723,
+                    38
+                ],
+                "poly": [
+                    [
+                        177,
+                        100
+                    ],
+                    [
+                        177,
+                        124
+                    ],
+                    [
+                        298,
+                        114
+                    ],
+                    [
+                        301,
+                        123
+                    ],
+                    [
+                        329,
+                        127
+                    ],
+                    [
+                        338,
+                        113
+                    ],
+                    [
+                        409,
+                        115
+                    ],
+                    [
+                        415,
+                        122
+                    ],
+                    [
+                        440,
+                        124
+                    ],
+                    [
+                        449,
+                        109
+                    ],
+                    [
+                        460,
+                        109
+                    ],
+                    [
+                        458,
+                        118
+                    ],
+                    [
+                        653,
+                        117
+                    ],
+                    [
+                        656,
+                        128
+                    ],
+                    [
+                        700,
+                        126
+                    ],
+                    [
+                        899,
+                        122
+                    ],
+                    [
+                        895,
+                        99
+                    ],
+                    [
+                        545,
+                        91
+                    ],
+                    [
+                        334,
+                        91
+                    ],
+                    [
+                        181,
+                        100
+                    ]
+                ],
+                "area": 102845.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            983,
+            93,
+            979,
+            34
+        ],
+        "components": [
+            {
+                "bbox": [
+                    983,
+                    93,
+                    979,
+                    34
+                ],
+                "poly": [
+                    [
+                        983,
+                        101
+                    ],
+                    [
+                        983,
+                        114
+                    ],
+                    [
+                        1007,
+                        126
+                    ],
+                    [
+                        1103,
+                        122
+                    ],
+                    [
+                        1282,
+                        123
+                    ],
+                    [
+                        1470,
+                        121
+                    ],
+                    [
+                        1675,
+                        119
+                    ],
+                    [
+                        1776,
+                        123
+                    ],
+                    [
+                        1906,
+                        123
+                    ],
+                    [
+                        1960,
+                        125
+                    ],
+                    [
+                        1961,
+                        100
+                    ],
+                    [
+                        1555,
+                        99
+                    ],
+                    [
+                        1375,
+                        93
+                    ],
+                    [
+                        1126,
+                        104
+                    ],
+                    [
+                        1052,
+                        100
+                    ]
+                ],
+                "area": 140975.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            2046,
+            105,
+            627,
+            27
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2046,
+                    105,
+                    627,
+                    27
+                ],
+                "poly": [
+                    [
+                        2047,
+                        105
+                    ],
+                    [
+                        2046,
+                        125
+                    ],
+                    [
+                        2158,
+                        127
+                    ],
+                    [
+                        2321,
+                        131
+                    ],
+                    [
+                        2468,
+                        129
+                    ],
+                    [
+                        2562,
+                        129
+                    ],
+                    [
+                        2671,
+                        129
+                    ],
+                    [
+                        2672,
+                        105
+                    ],
+                    [
+                        2300,
+                        108
+                    ],
+                    [
+                        2147,
+                        105
+                    ]
+                ],
+                "area": 122270.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            179,
+            112,
+            734,
+            49
+        ],
+        "components": [
+            {
+                "bbox": [
+                    179,
+                    112,
+                    734,
+                    49
+                ],
+                "poly": [
+                    [
+                        179,
+                        128
+                    ],
+                    [
+                        179,
+                        147
+                    ],
+                    [
+                        288,
+                        148
+                    ],
+                    [
+                        423,
+                        146
+                    ],
+                    [
+                        512,
+                        143
+                    ],
+                    [
+                        513,
+                        154
+                    ],
+                    [
+                        547,
+                        153
+                    ],
+                    [
+                        549,
+                        144
+                    ],
+                    [
+                        722,
+                        149
+                    ],
+                    [
+                        755,
+                        148
+                    ],
+                    [
+                        757,
+                        156
+                    ],
+                    [
+                        785,
+                        160
+                    ],
+                    [
+                        784,
+                        148
+                    ],
+                    [
+                        912,
+                        146
+                    ],
+                    [
+                        908,
+                        125
+                    ],
+                    [
+                        597,
+                        121
+                    ],
+                    [
+                        458,
+                        125
+                    ],
+                    [
+                        341,
+                        125
+                    ],
+                    [
+                        289,
+                        124
+                    ],
+                    [
+                        268,
+                        114
+                    ],
+                    [
+                        235,
+                        112
+                    ],
+                    [
+                        234,
+                        128
+                    ],
+                    [
+                        226,
+                        128
+                    ]
+                ],
+                "area": 121709.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            969,
+            123,
+            993,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    969,
+                    123,
+                    993,
+                    32
+                ],
+                "poly": [
+                    [
+                        969,
+                        123
+                    ],
+                    [
+                        971,
+                        149
+                    ],
+                    [
+                        1018,
+                        152
+                    ],
+                    [
+                        1260,
+                        144
+                    ],
+                    [
+                        1264,
+                        149
+                    ],
+                    [
+                        1383,
+                        148
+                    ],
+                    [
+                        1566,
+                        145
+                    ],
+                    [
+                        1676,
+                        148
+                    ],
+                    [
+                        1794,
+                        148
+                    ],
+                    [
+                        1815,
+                        148
+                    ],
+                    [
+                        1883,
+                        146
+                    ],
+                    [
+                        1892,
+                        153
+                    ],
+                    [
+                        1919,
+                        154
+                    ],
+                    [
+                        1923,
+                        149
+                    ],
+                    [
+                        1961,
+                        146
+                    ],
+                    [
+                        1958,
+                        126
+                    ],
+                    [
+                        1746,
+                        127
+                    ],
+                    [
+                        970,
+                        123
+                    ]
+                ],
+                "area": 185163.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            2042,
+            126,
+            626,
+            29
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2042,
+                    126,
+                    626,
+                    29
+                ],
+                "poly": [
+                    [
+                        2042,
+                        128
+                    ],
+                    [
+                        2046,
+                        148
+                    ],
+                    [
+                        2134,
+                        151
+                    ],
+                    [
+                        2189,
+                        150
+                    ],
+                    [
+                        2313,
+                        151
+                    ],
+                    [
+                        2484,
+                        154
+                    ],
+                    [
+                        2664,
+                        150
+                    ],
+                    [
+                        2667,
+                        130
+                    ],
+                    [
+                        2470,
+                        129
+                    ],
+                    [
+                        2250,
+                        133
+                    ],
+                    [
+                        2182,
+                        128
+                    ],
+                    [
+                        2085,
+                        126
+                    ]
+                ],
+                "area": 132690.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_16",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            178,
+            148,
+            2491,
+            43
+        ],
+        "components": [
+            {
+                "bbox": [
+                    178,
+                    148,
+                    2491,
+                    43
+                ],
+                "poly": [
+                    [
+                        178,
+                        148
+                    ],
+                    [
+                        180,
+                        170
+                    ],
+                    [
+                        244,
+                        170
+                    ],
+                    [
+                        389,
+                        171
+                    ],
+                    [
+                        508,
+                        169
+                    ],
+                    [
+                        644,
+                        174
+                    ],
+                    [
+                        730,
+                        174
+                    ],
+                    [
+                        915,
+                        178
+                    ],
+                    [
+                        981,
+                        176
+                    ],
+                    [
+                        1138,
+                        170
+                    ],
+                    [
+                        1267,
+                        169
+                    ],
+                    [
+                        1451,
+                        171
+                    ],
+                    [
+                        1594,
+                        174
+                    ],
+                    [
+                        1722,
+                        176
+                    ],
+                    [
+                        1846,
+                        176
+                    ],
+                    [
+                        1979,
+                        181
+                    ],
+                    [
+                        2031,
+                        181
+                    ],
+                    [
+                        2138,
+                        173
+                    ],
+                    [
+                        2143,
+                        190
+                    ],
+                    [
+                        2190,
+                        177
+                    ],
+                    [
+                        2193,
+                        190
+                    ],
+                    [
+                        2216,
+                        188
+                    ],
+                    [
+                        2221,
+                        178
+                    ],
+                    [
+                        2386,
+                        177
+                    ],
+                    [
+                        2528,
+                        172
+                    ],
+                    [
+                        2590,
+                        170
+                    ],
+                    [
+                        2593,
+                        185
+                    ],
+                    [
+                        2626,
+                        183
+                    ],
+                    [
+                        2636,
+                        170
+                    ],
+                    [
+                        2668,
+                        168
+                    ],
+                    [
+                        2666,
+                        151
+                    ],
+                    [
+                        2357,
+                        155
+                    ],
+                    [
+                        2053,
+                        153
+                    ],
+                    [
+                        1829,
+                        152
+                    ],
+                    [
+                        1349,
+                        149
+                    ],
+                    [
+                        712,
+                        152
+                    ],
+                    [
+                        180,
+                        150
+                    ],
+                    [
+                        180,
+                        151
+                    ]
+                ],
+                "area": 539830.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_17",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            181,
+            173,
+            2481,
+            43
+        ],
+        "components": [
+            {
+                "bbox": [
+                    181,
+                    173,
+                    2481,
+                    43
+                ],
+                "poly": [
+                    [
+                        181,
+                        173
+                    ],
+                    [
+                        186,
+                        189
+                    ],
+                    [
+                        247,
+                        190
+                    ],
+                    [
+                        584,
+                        194
+                    ],
+                    [
+                        761,
+                        198
+                    ],
+                    [
+                        929,
+                        200
+                    ],
+                    [
+                        1311,
+                        199
+                    ],
+                    [
+                        1427,
+                        208
+                    ],
+                    [
+                        1437,
+                        199
+                    ],
+                    [
+                        1729,
+                        202
+                    ],
+                    [
+                        1850,
+                        203
+                    ],
+                    [
+                        2033,
+                        203
+                    ],
+                    [
+                        2035,
+                        210
+                    ],
+                    [
+                        2067,
+                        215
+                    ],
+                    [
+                        2070,
+                        200
+                    ],
+                    [
+                        2510,
+                        203
+                    ],
+                    [
+                        2643,
+                        203
+                    ],
+                    [
+                        2661,
+                        201
+                    ],
+                    [
+                        2661,
+                        178
+                    ],
+                    [
+                        2275,
+                        174
+                    ],
+                    [
+                        1922,
+                        179
+                    ],
+                    [
+                        1443,
+                        177
+                    ],
+                    [
+                        1201,
+                        174
+                    ],
+                    [
+                        438,
+                        173
+                    ],
+                    [
+                        432,
+                        176
+                    ],
+                    [
+                        432,
+                        177
+                    ]
+                ],
+                "area": 506762.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Decorator",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_18",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            57,
+            79,
+            92,
+            53
+        ],
+        "components": [
+            {
+                "bbox": [
+                    57,
+                    79,
+                    92,
+                    53
+                ],
+                "poly": [
+                    [
+                        146,
+                        115
+                    ],
+                    [
+                        148,
+                        79
+                    ],
+                    [
+                        62,
+                        81
+                    ],
+                    [
+                        57,
+                        101
+                    ],
+                    [
+                        57,
+                        123
+                    ],
+                    [
+                        74,
+                        131
+                    ],
+                    [
+                        89,
+                        123
+                    ],
+                    [
+                        89,
+                        121
+                    ]
+                ],
+                "area": 13638.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_19",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            23,
+            78,
+            28,
+            30
+        ],
+        "components": [
+            {
+                "bbox": [
+                    23,
+                    78,
+                    28,
+                    30
+                ],
+                "poly": [
+                    [
+                        23,
+                        80
+                    ],
+                    [
+                        26,
+                        102
+                    ],
+                    [
+                        44,
+                        107
+                    ],
+                    [
+                        50,
+                        97
+                    ],
+                    [
+                        49,
+                        84
+                    ],
+                    [
+                        41,
+                        78
+                    ]
+                ],
+                "area": 2735.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_20",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            60,
+            47,
+            41,
+            28
+        ],
+        "components": [
+            {
+                "bbox": [
+                    60,
+                    47,
+                    41,
+                    28
+                ],
+                "poly": [
+                    [
+                        61,
+                        55
+                    ],
+                    [
+                        60,
+                        74
+                    ],
+                    [
+                        93,
+                        72
+                    ],
+                    [
+                        100,
+                        55
+                    ],
+                    [
+                        74,
+                        47
+                    ]
+                ],
+                "area": 3847.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1_21",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANTA%20PRADIPIKA/GOML/1456/3.jpg-1",
+        "bbox": [
+            2,
+            5,
+            2827,
+            227
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2,
+                    5,
+                    2827,
+                    227
+                ],
+                "poly": [
+                    [
+                        2,
+                        183
+                    ],
+                    [
+                        247,
+                        205
+                    ],
+                    [
+                        497,
+                        208
+                    ],
+                    [
+                        720,
+                        220
+                    ],
+                    [
+                        872,
+                        222
+                    ],
+                    [
+                        940,
+                        225
+                    ],
+                    [
+                        1257,
+                        229
+                    ],
+                    [
+                        1437,
+                        231
+                    ],
+                    [
+                        1616,
+                        229
+                    ],
+                    [
+                        1835,
+                        228
+                    ],
+                    [
+                        2022,
+                        228
+                    ],
+                    [
+                        2459,
+                        230
+                    ],
+                    [
+                        2694,
+                        229
+                    ],
+                    [
+                        2818,
+                        226
+                    ],
+                    [
+                        2828,
+                        215
+                    ],
+                    [
+                        2825,
+                        51
+                    ],
+                    [
+                        2792,
+                        29
+                    ],
+                    [
+                        2788,
+                        30
+                    ],
+                    [
+                        2627,
+                        21
+                    ],
+                    [
+                        2481,
+                        15
+                    ],
+                    [
+                        2412,
+                        18
+                    ],
+                    [
+                        2337,
+                        17
+                    ],
+                    [
+                        2286,
+                        19
+                    ],
+                    [
+                        1958,
+                        13
+                    ],
+                    [
+                        1715,
+                        11
+                    ],
+                    [
+                        817,
+                        6
+                    ],
+                    [
+                        412,
+                        5
+                    ],
+                    [
+                        219,
+                        5
+                    ],
+                    [
+                        120,
+                        9
+                    ],
+                    [
+                        36,
+                        5
+                    ],
+                    [
+                        9,
+                        8
+                    ],
+                    [
+                        2,
+                        16
+                    ],
+                    [
+                        2,
+                        15
+                    ]
+                ],
+                "area": 617986.5
+            }
+        ],
+        "split": "train"
+    }
+]

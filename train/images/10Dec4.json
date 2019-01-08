@@ -1,0 +1,1308 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            219,
+            1,
+            2926,
+            86
+        ],
+        "components": [
+            {
+                "bbox": [
+                    219,
+                    1,
+                    2926,
+                    86
+                ],
+                "poly": [
+                    [
+                        219,
+                        48
+                    ],
+                    [
+                        900,
+                        23
+                    ],
+                    [
+                        1291,
+                        11
+                    ],
+                    [
+                        1927,
+                        7
+                    ],
+                    [
+                        2434,
+                        3
+                    ],
+                    [
+                        2857,
+                        3
+                    ],
+                    [
+                        3111,
+                        3
+                    ],
+                    [
+                        3144,
+                        1
+                    ],
+                    [
+                        3104,
+                        49
+                    ],
+                    [
+                        2646,
+                        32
+                    ],
+                    [
+                        2299,
+                        38
+                    ],
+                    [
+                        1991,
+                        45
+                    ],
+                    [
+                        1570,
+                        55
+                    ],
+                    [
+                        1248,
+                        58
+                    ],
+                    [
+                        832,
+                        72
+                    ],
+                    [
+                        478,
+                        85
+                    ],
+                    [
+                        220,
+                        86
+                    ]
+                ],
+                "area": 247820.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            196,
+            37,
+            2881,
+            102
+        ],
+        "components": [
+            {
+                "bbox": [
+                    196,
+                    37,
+                    2881,
+                    102
+                ],
+                "poly": [
+                    [
+                        214,
+                        100
+                    ],
+                    [
+                        472,
+                        92
+                    ],
+                    [
+                        781,
+                        83
+                    ],
+                    [
+                        1533,
+                        63
+                    ],
+                    [
+                        2068,
+                        48
+                    ],
+                    [
+                        2400,
+                        39
+                    ],
+                    [
+                        2587,
+                        37
+                    ],
+                    [
+                        2739,
+                        39
+                    ],
+                    [
+                        3072,
+                        52
+                    ],
+                    [
+                        3076,
+                        59
+                    ],
+                    [
+                        2797,
+                        78
+                    ],
+                    [
+                        2753,
+                        92
+                    ],
+                    [
+                        2667,
+                        85
+                    ],
+                    [
+                        2604,
+                        69
+                    ],
+                    [
+                        2283,
+                        89
+                    ],
+                    [
+                        1718,
+                        107
+                    ],
+                    [
+                        1329,
+                        126
+                    ],
+                    [
+                        951,
+                        137
+                    ],
+                    [
+                        604,
+                        134
+                    ],
+                    [
+                        271,
+                        138
+                    ],
+                    [
+                        196,
+                        138
+                    ]
+                ],
+                "area": 433114.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Hole(Virtual)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            901,
+            189,
+            90,
+            87
+        ],
+        "components": [
+            {
+                "bbox": [
+                    901,
+                    189,
+                    90,
+                    87
+                ],
+                "poly": [
+                    [
+                        921,
+                        196
+                    ],
+                    [
+                        953,
+                        189
+                    ],
+                    [
+                        982,
+                        200
+                    ],
+                    [
+                        990,
+                        241
+                    ],
+                    [
+                        979,
+                        267
+                    ],
+                    [
+                        934,
+                        275
+                    ],
+                    [
+                        904,
+                        254
+                    ],
+                    [
+                        901,
+                        224
+                    ],
+                    [
+                        905,
+                        210
+                    ],
+                    [
+                        914,
+                        200
+                    ]
+                ],
+                "area": 85924.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Hole(Virtual)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            2286,
+            164,
+            89,
+            84
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2286,
+                    164,
+                    89,
+                    84
+                ],
+                "poly": [
+                    [
+                        2293,
+                        182
+                    ],
+                    [
+                        2341,
+                        164
+                    ],
+                    [
+                        2354,
+                        181
+                    ],
+                    [
+                        2374,
+                        205
+                    ],
+                    [
+                        2362,
+                        230
+                    ],
+                    [
+                        2338,
+                        247
+                    ],
+                    [
+                        2298,
+                        247
+                    ],
+                    [
+                        2288,
+                        190
+                    ],
+                    [
+                        2286,
+                        190
+                    ]
+                ],
+                "area": 203214.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            200,
+            92,
+            3010,
+            118
+        ],
+        "components": [
+            {
+                "bbox": [
+                    200,
+                    92,
+                    3010,
+                    118
+                ],
+                "poly": [
+                    [
+                        214,
+                        176
+                    ],
+                    [
+                        272,
+                        171
+                    ],
+                    [
+                        446,
+                        166
+                    ],
+                    [
+                        580,
+                        165
+                    ],
+                    [
+                        821,
+                        164
+                    ],
+                    [
+                        1152,
+                        152
+                    ],
+                    [
+                        1527,
+                        148
+                    ],
+                    [
+                        1747,
+                        138
+                    ],
+                    [
+                        2271,
+                        126
+                    ],
+                    [
+                        2774,
+                        111
+                    ],
+                    [
+                        3178,
+                        92
+                    ],
+                    [
+                        3209,
+                        130
+                    ],
+                    [
+                        3202,
+                        134
+                    ],
+                    [
+                        3106,
+                        148
+                    ],
+                    [
+                        2633,
+                        157
+                    ],
+                    [
+                        2154,
+                        182
+                    ],
+                    [
+                        1639,
+                        181
+                    ],
+                    [
+                        1066,
+                        205
+                    ],
+                    [
+                        755,
+                        205
+                    ],
+                    [
+                        489,
+                        207
+                    ],
+                    [
+                        200,
+                        209
+                    ]
+                ],
+                "area": 710176.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            193,
+            154,
+            2928,
+            104
+        ],
+        "components": [
+            {
+                "bbox": [
+                    193,
+                    154,
+                    2928,
+                    104
+                ],
+                "poly": [
+                    [
+                        195,
+                        223
+                    ],
+                    [
+                        384,
+                        216
+                    ],
+                    [
+                        804,
+                        209
+                    ],
+                    [
+                        1127,
+                        210
+                    ],
+                    [
+                        1639,
+                        189
+                    ],
+                    [
+                        1828,
+                        188
+                    ],
+                    [
+                        2283,
+                        185
+                    ],
+                    [
+                        2702,
+                        162
+                    ],
+                    [
+                        3120,
+                        154
+                    ],
+                    [
+                        3116,
+                        195
+                    ],
+                    [
+                        3082,
+                        205
+                    ],
+                    [
+                        2618,
+                        209
+                    ],
+                    [
+                        2419,
+                        213
+                    ],
+                    [
+                        2011,
+                        226
+                    ],
+                    [
+                        1568,
+                        227
+                    ],
+                    [
+                        1041,
+                        247
+                    ],
+                    [
+                        650,
+                        244
+                    ],
+                    [
+                        341,
+                        251
+                    ],
+                    [
+                        197,
+                        252
+                    ],
+                    [
+                        193,
+                        257
+                    ]
+                ],
+                "area": 799405.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            203,
+            207,
+            2949,
+            92
+        ],
+        "components": [
+            {
+                "bbox": [
+                    203,
+                    207,
+                    2949,
+                    92
+                ],
+                "poly": [
+                    [
+                        203,
+                        264
+                    ],
+                    [
+                        379,
+                        255
+                    ],
+                    [
+                        812,
+                        250
+                    ],
+                    [
+                        1286,
+                        244
+                    ],
+                    [
+                        1924,
+                        230
+                    ],
+                    [
+                        2336,
+                        223
+                    ],
+                    [
+                        2829,
+                        213
+                    ],
+                    [
+                        3142,
+                        207
+                    ],
+                    [
+                        3151,
+                        224
+                    ],
+                    [
+                        3142,
+                        247
+                    ],
+                    [
+                        3131,
+                        251
+                    ],
+                    [
+                        2491,
+                        265
+                    ],
+                    [
+                        1774,
+                        279
+                    ],
+                    [
+                        793,
+                        298
+                    ],
+                    [
+                        330,
+                        296
+                    ],
+                    [
+                        209,
+                        293
+                    ]
+                ],
+                "area": 918209.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            210,
+            260,
+            2907,
+            81
+        ],
+        "components": [
+            {
+                "bbox": [
+                    210,
+                    260,
+                    2907,
+                    81
+                ],
+                "poly": [
+                    [
+                        212,
+                        299
+                    ],
+                    [
+                        281,
+                        296
+                    ],
+                    [
+                        492,
+                        302
+                    ],
+                    [
+                        793,
+                        303
+                    ],
+                    [
+                        1244,
+                        293
+                    ],
+                    [
+                        1550,
+                        292
+                    ],
+                    [
+                        1946,
+                        283
+                    ],
+                    [
+                        2362,
+                        275
+                    ],
+                    [
+                        2722,
+                        268
+                    ],
+                    [
+                        3113,
+                        260
+                    ],
+                    [
+                        3116,
+                        289
+                    ],
+                    [
+                        2646,
+                        315
+                    ],
+                    [
+                        2151,
+                        324
+                    ],
+                    [
+                        1628,
+                        327
+                    ],
+                    [
+                        1281,
+                        334
+                    ],
+                    [
+                        931,
+                        337
+                    ],
+                    [
+                        485,
+                        340
+                    ],
+                    [
+                        210,
+                        333
+                    ]
+                ],
+                "area": 1035754.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            199,
+            292,
+            2987,
+            98
+        ],
+        "components": [
+            {
+                "bbox": [
+                    199,
+                    292,
+                    2987,
+                    98
+                ],
+                "poly": [
+                    [
+                        199,
+                        340
+                    ],
+                    [
+                        199,
+                        374
+                    ],
+                    [
+                        592,
+                        389
+                    ],
+                    [
+                        959,
+                        381
+                    ],
+                    [
+                        1503,
+                        378
+                    ],
+                    [
+                        1801,
+                        377
+                    ],
+                    [
+                        2406,
+                        360
+                    ],
+                    [
+                        2929,
+                        347
+                    ],
+                    [
+                        3148,
+                        337
+                    ],
+                    [
+                        3185,
+                        323
+                    ],
+                    [
+                        3161,
+                        292
+                    ],
+                    [
+                        2787,
+                        313
+                    ],
+                    [
+                        2409,
+                        323
+                    ],
+                    [
+                        2137,
+                        327
+                    ],
+                    [
+                        1747,
+                        331
+                    ],
+                    [
+                        1224,
+                        337
+                    ],
+                    [
+                        897,
+                        340
+                    ],
+                    [
+                        700,
+                        343
+                    ],
+                    [
+                        408,
+                        344
+                    ],
+                    [
+                        202,
+                        340
+                    ]
+                ],
+                "area": 1223602.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            203,
+            340,
+            2971,
+            77
+        ],
+        "components": [
+            {
+                "bbox": [
+                    203,
+                    340,
+                    2971,
+                    77
+                ],
+                "poly": [
+                    [
+                        203,
+                        378
+                    ],
+                    [
+                        410,
+                        384
+                    ],
+                    [
+                        635,
+                        393
+                    ],
+                    [
+                        863,
+                        388
+                    ],
+                    [
+                        1158,
+                        385
+                    ],
+                    [
+                        1553,
+                        384
+                    ],
+                    [
+                        1945,
+                        378
+                    ],
+                    [
+                        2288,
+                        368
+                    ],
+                    [
+                        2801,
+                        355
+                    ],
+                    [
+                        3172,
+                        340
+                    ],
+                    [
+                        3173,
+                        368
+                    ],
+                    [
+                        2969,
+                        384
+                    ],
+                    [
+                        2656,
+                        405
+                    ],
+                    [
+                        2054,
+                        412
+                    ],
+                    [
+                        1694,
+                        413
+                    ],
+                    [
+                        1398,
+                        412
+                    ],
+                    [
+                        955,
+                        415
+                    ],
+                    [
+                        554,
+                        416
+                    ],
+                    [
+                        203,
+                        415
+                    ]
+                ],
+                "area": 1330618.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            31,
+            78,
+            73,
+            287
+        ],
+        "components": [
+            {
+                "bbox": [
+                    31,
+                    78,
+                    73,
+                    287
+                ],
+                "poly": [
+                    [
+                        52,
+                        78
+                    ],
+                    [
+                        37,
+                        92
+                    ],
+                    [
+                        31,
+                        358
+                    ],
+                    [
+                        72,
+                        364
+                    ],
+                    [
+                        86,
+                        354
+                    ],
+                    [
+                        102,
+                        324
+                    ],
+                    [
+                        103,
+                        292
+                    ],
+                    [
+                        79,
+                        128
+                    ],
+                    [
+                        78,
+                        82
+                    ],
+                    [
+                        51,
+                        79
+                    ]
+                ],
+                "area": 29966.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            7,
+            265,
+            127,
+            34
+        ],
+        "components": [
+            {
+                "bbox": [
+                    7,
+                    265,
+                    127,
+                    34
+                ],
+                "poly": [
+                    [
+                        7,
+                        269
+                    ],
+                    [
+                        39,
+                        267
+                    ],
+                    [
+                        126,
+                        265
+                    ],
+                    [
+                        133,
+                        289
+                    ],
+                    [
+                        118,
+                        293
+                    ],
+                    [
+                        13,
+                        298
+                    ],
+                    [
+                        8,
+                        298
+                    ]
+                ],
+                "area": 35438.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            52,
+            94,
+            89,
+            30
+        ],
+        "components": [
+            {
+                "bbox": [
+                    52,
+                    94,
+                    89,
+                    30
+                ],
+                "poly": [
+                    [
+                        65,
+                        102
+                    ],
+                    [
+                        94,
+                        97
+                    ],
+                    [
+                        121,
+                        94
+                    ],
+                    [
+                        140,
+                        109
+                    ],
+                    [
+                        133,
+                        117
+                    ],
+                    [
+                        111,
+                        120
+                    ],
+                    [
+                        102,
+                        118
+                    ],
+                    [
+                        79,
+                        118
+                    ],
+                    [
+                        61,
+                        123
+                    ],
+                    [
+                        52,
+                        109
+                    ],
+                    [
+                        55,
+                        106
+                    ]
+                ],
+                "area": 9588.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            3169,
+            1,
+            77,
+            63
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3169,
+                    1,
+                    77,
+                    63
+                ],
+                "poly": [
+                    [
+                        3214,
+                        1
+                    ],
+                    [
+                        3182,
+                        11
+                    ],
+                    [
+                        3169,
+                        39
+                    ],
+                    [
+                        3175,
+                        63
+                    ],
+                    [
+                        3214,
+                        61
+                    ],
+                    [
+                        3237,
+                        58
+                    ],
+                    [
+                        3245,
+                        54
+                    ],
+                    [
+                        3233,
+                        25
+                    ],
+                    [
+                        3214,
+                        6
+                    ]
+                ],
+                "area": 200488.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AMARUKA%20SATAKAM/KUML/2346/1.jpg-1",
+        "bbox": [
+            206,
+            72,
+            2868,
+            94
+        ],
+        "components": [
+            {
+                "bbox": [
+                    206,
+                    72,
+                    2868,
+                    94
+                ],
+                "poly": [
+                    [
+                        214,
+                        142
+                    ],
+                    [
+                        464,
+                        140
+                    ],
+                    [
+                        780,
+                        138
+                    ],
+                    [
+                        1097,
+                        138
+                    ],
+                    [
+                        1433,
+                        126
+                    ],
+                    [
+                        1991,
+                        107
+                    ],
+                    [
+                        2568,
+                        82
+                    ],
+                    [
+                        2660,
+                        90
+                    ],
+                    [
+                        2763,
+                        103
+                    ],
+                    [
+                        2848,
+                        79
+                    ],
+                    [
+                        3073,
+                        72
+                    ],
+                    [
+                        3073,
+                        87
+                    ],
+                    [
+                        2805,
+                        106
+                    ],
+                    [
+                        2419,
+                        114
+                    ],
+                    [
+                        1832,
+                        130
+                    ],
+                    [
+                        1481,
+                        142
+                    ],
+                    [
+                        939,
+                        154
+                    ],
+                    [
+                        708,
+                        159
+                    ],
+                    [
+                        327,
+                        162
+                    ],
+                    [
+                        220,
+                        164
+                    ],
+                    [
+                        206,
+                        165
+                    ]
+                ],
+                "area": 566585.5
+            }
+        ],
+        "split": "train"
+    }
+]

@@ -1,0 +1,474 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            226,
+            117,
+            44,
+            39
+        ],
+        "components": [
+            {
+                "bbox": [
+                    226,
+                    117,
+                    44,
+                    39
+                ],
+                "poly": [
+                    [
+                        239,
+                        119
+                    ],
+                    [
+                        226,
+                        138
+                    ],
+                    [
+                        236,
+                        151
+                    ],
+                    [
+                        255,
+                        155
+                    ],
+                    [
+                        267,
+                        147
+                    ],
+                    [
+                        269,
+                        131
+                    ],
+                    [
+                        269,
+                        125
+                    ],
+                    [
+                        255,
+                        117
+                    ]
+                ],
+                "area": 11217.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            149,
+            110,
+            17,
+            59
+        ],
+        "components": [
+            {
+                "bbox": [
+                    149,
+                    110,
+                    17,
+                    59
+                ],
+                "poly": [
+                    [
+                        154,
+                        119
+                    ],
+                    [
+                        153,
+                        136
+                    ],
+                    [
+                        153,
+                        145
+                    ],
+                    [
+                        149,
+                        160
+                    ],
+                    [
+                        153,
+                        168
+                    ],
+                    [
+                        157,
+                        168
+                    ],
+                    [
+                        161,
+                        150
+                    ],
+                    [
+                        162,
+                        135
+                    ],
+                    [
+                        165,
+                        112
+                    ],
+                    [
+                        165,
+                        110
+                    ],
+                    [
+                        161,
+                        113
+                    ]
+                ],
+                "area": 10714.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            5,
+            155,
+            53,
+            19
+        ],
+        "components": [
+            {
+                "bbox": [
+                    5,
+                    155,
+                    53,
+                    19
+                ],
+                "poly": [
+                    [
+                        50,
+                        173
+                    ],
+                    [
+                        57,
+                        169
+                    ],
+                    [
+                        50,
+                        166
+                    ],
+                    [
+                        31,
+                        162
+                    ],
+                    [
+                        26,
+                        155
+                    ],
+                    [
+                        18,
+                        155
+                    ],
+                    [
+                        5,
+                        164
+                    ],
+                    [
+                        20,
+                        169
+                    ],
+                    [
+                        35,
+                        173
+                    ]
+                ],
+                "area": 8436.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            932,
+            220,
+            11,
+            10
+        ],
+        "components": [
+            {
+                "bbox": [
+                    932,
+                    220,
+                    11,
+                    10
+                ],
+                "poly": [
+                    [
+                        940,
+                        220
+                    ],
+                    [
+                        932,
+                        221
+                    ],
+                    [
+                        932,
+                        225
+                    ],
+                    [
+                        935,
+                        229
+                    ],
+                    [
+                        939,
+                        229
+                    ],
+                    [
+                        942,
+                        228
+                    ]
+                ],
+                "area": 9551.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            501,
+            109,
+            643,
+            69
+        ],
+        "components": [
+            {
+                "bbox": [
+                    501,
+                    109,
+                    643,
+                    69
+                ],
+                "poly": [
+                    [
+                        501,
+                        118
+                    ],
+                    [
+                        501,
+                        159
+                    ],
+                    [
+                        550,
+                        159
+                    ],
+                    [
+                        566,
+                        173
+                    ],
+                    [
+                        601,
+                        170
+                    ],
+                    [
+                        653,
+                        162
+                    ],
+                    [
+                        766,
+                        155
+                    ],
+                    [
+                        861,
+                        158
+                    ],
+                    [
+                        885,
+                        158
+                    ],
+                    [
+                        892,
+                        173
+                    ],
+                    [
+                        904,
+                        177
+                    ],
+                    [
+                        919,
+                        177
+                    ],
+                    [
+                        936,
+                        161
+                    ],
+                    [
+                        978,
+                        159
+                    ],
+                    [
+                        998,
+                        168
+                    ],
+                    [
+                        1015,
+                        171
+                    ],
+                    [
+                        1026,
+                        155
+                    ],
+                    [
+                        1078,
+                        154
+                    ],
+                    [
+                        1143,
+                        152
+                    ],
+                    [
+                        1143,
+                        120
+                    ],
+                    [
+                        1103,
+                        115
+                    ],
+                    [
+                        1002,
+                        115
+                    ],
+                    [
+                        817,
+                        109
+                    ],
+                    [
+                        711,
+                        113
+                    ],
+                    [
+                        546,
+                        117
+                    ]
+                ],
+                "area": 144136.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/14.jpg-1",
+        "bbox": [
+            1,
+            27,
+            1348,
+            233
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1,
+                    27,
+                    1348,
+                    233
+                ],
+                "poly": [
+                    [
+                        3,
+                        27
+                    ],
+                    [
+                        1,
+                        222
+                    ],
+                    [
+                        123,
+                        226
+                    ],
+                    [
+                        290,
+                        232
+                    ],
+                    [
+                        444,
+                        239
+                    ],
+                    [
+                        706,
+                        248
+                    ],
+                    [
+                        836,
+                        255
+                    ],
+                    [
+                        930,
+                        247
+                    ],
+                    [
+                        1118,
+                        251
+                    ],
+                    [
+                        1249,
+                        258
+                    ],
+                    [
+                        1324,
+                        258
+                    ],
+                    [
+                        1348,
+                        259
+                    ],
+                    [
+                        1347,
+                        63
+                    ],
+                    [
+                        1242,
+                        59
+                    ],
+                    [
+                        1043,
+                        45
+                    ],
+                    [
+                        938,
+                        42
+                    ],
+                    [
+                        701,
+                        42
+                    ],
+                    [
+                        563,
+                        42
+                    ],
+                    [
+                        382,
+                        41
+                    ],
+                    [
+                        161,
+                        30
+                    ]
+                ],
+                "area": 305656.0
+            }
+        ],
+        "split": "train"
+    }
+]

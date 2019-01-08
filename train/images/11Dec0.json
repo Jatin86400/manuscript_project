@@ -1,0 +1,1026 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            433,
+            75,
+            42,
+            41
+        ],
+        "components": [
+            {
+                "bbox": [
+                    433,
+                    75,
+                    42,
+                    41
+                ],
+                "poly": [
+                    [
+                        444,
+                        75
+                    ],
+                    [
+                        459,
+                        75
+                    ],
+                    [
+                        472,
+                        82
+                    ],
+                    [
+                        474,
+                        92
+                    ],
+                    [
+                        472,
+                        100
+                    ],
+                    [
+                        462,
+                        112
+                    ],
+                    [
+                        450,
+                        115
+                    ],
+                    [
+                        437,
+                        107
+                    ],
+                    [
+                        433,
+                        94
+                    ],
+                    [
+                        435,
+                        80
+                    ]
+                ],
+                "area": 18896.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            1053,
+            67,
+            36,
+            37
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1053,
+                    67,
+                    36,
+                    37
+                ],
+                "poly": [
+                    [
+                        1063,
+                        68
+                    ],
+                    [
+                        1079,
+                        67
+                    ],
+                    [
+                        1088,
+                        79
+                    ],
+                    [
+                        1086,
+                        92
+                    ],
+                    [
+                        1080,
+                        98
+                    ],
+                    [
+                        1070,
+                        103
+                    ],
+                    [
+                        1056,
+                        97
+                    ],
+                    [
+                        1053,
+                        79
+                    ],
+                    [
+                        1054,
+                        76
+                    ]
+                ],
+                "area": 39147.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            1388,
+            67,
+            42,
+            42
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1388,
+                    67,
+                    42,
+                    42
+                ],
+                "poly": [
+                    [
+                        1410,
+                        67
+                    ],
+                    [
+                        1425,
+                        78
+                    ],
+                    [
+                        1429,
+                        94
+                    ],
+                    [
+                        1422,
+                        103
+                    ],
+                    [
+                        1409,
+                        108
+                    ],
+                    [
+                        1394,
+                        104
+                    ],
+                    [
+                        1389,
+                        91
+                    ],
+                    [
+                        1388,
+                        76
+                    ]
+                ],
+                "area": 57743.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            86,
+            17,
+            1349,
+            30
+        ],
+        "components": [
+            {
+                "bbox": [
+                    86,
+                    17,
+                    1349,
+                    30
+                ],
+                "poly": [
+                    [
+                        92,
+                        32
+                    ],
+                    [
+                        276,
+                        25
+                    ],
+                    [
+                        482,
+                        17
+                    ],
+                    [
+                        660,
+                        18
+                    ],
+                    [
+                        936,
+                        19
+                    ],
+                    [
+                        1282,
+                        17
+                    ],
+                    [
+                        1434,
+                        20
+                    ],
+                    [
+                        1429,
+                        35
+                    ],
+                    [
+                        1349,
+                        33
+                    ],
+                    [
+                        1201,
+                        35
+                    ],
+                    [
+                        1068,
+                        34
+                    ],
+                    [
+                        898,
+                        35
+                    ],
+                    [
+                        757,
+                        36
+                    ],
+                    [
+                        610,
+                        37
+                    ],
+                    [
+                        464,
+                        38
+                    ],
+                    [
+                        285,
+                        39
+                    ],
+                    [
+                        122,
+                        46
+                    ],
+                    [
+                        86,
+                        45
+                    ]
+                ],
+                "area": 53218.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            81,
+            35,
+            1351,
+            29
+        ],
+        "components": [
+            {
+                "bbox": [
+                    81,
+                    35,
+                    1351,
+                    29
+                ],
+                "poly": [
+                    [
+                        86,
+                        47
+                    ],
+                    [
+                        123,
+                        48
+                    ],
+                    [
+                        292,
+                        41
+                    ],
+                    [
+                        494,
+                        39
+                    ],
+                    [
+                        655,
+                        38
+                    ],
+                    [
+                        873,
+                        37
+                    ],
+                    [
+                        1065,
+                        35
+                    ],
+                    [
+                        1271,
+                        36
+                    ],
+                    [
+                        1335,
+                        35
+                    ],
+                    [
+                        1395,
+                        35
+                    ],
+                    [
+                        1431,
+                        38
+                    ],
+                    [
+                        1430,
+                        46
+                    ],
+                    [
+                        1364,
+                        47
+                    ],
+                    [
+                        1269,
+                        48
+                    ],
+                    [
+                        1157,
+                        50
+                    ],
+                    [
+                        1002,
+                        51
+                    ],
+                    [
+                        872,
+                        51
+                    ],
+                    [
+                        765,
+                        52
+                    ],
+                    [
+                        655,
+                        52
+                    ],
+                    [
+                        540,
+                        54
+                    ],
+                    [
+                        326,
+                        57
+                    ],
+                    [
+                        212,
+                        58
+                    ],
+                    [
+                        81,
+                        63
+                    ]
+                ],
+                "area": 76819.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            76,
+            48,
+            1358,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    76,
+                    48,
+                    1358,
+                    32
+                ],
+                "poly": [
+                    [
+                        80,
+                        66
+                    ],
+                    [
+                        137,
+                        62
+                    ],
+                    [
+                        239,
+                        59
+                    ],
+                    [
+                        360,
+                        58
+                    ],
+                    [
+                        483,
+                        56
+                    ],
+                    [
+                        655,
+                        54
+                    ],
+                    [
+                        791,
+                        54
+                    ],
+                    [
+                        910,
+                        52
+                    ],
+                    [
+                        1025,
+                        52
+                    ],
+                    [
+                        1183,
+                        51
+                    ],
+                    [
+                        1273,
+                        50
+                    ],
+                    [
+                        1394,
+                        48
+                    ],
+                    [
+                        1433,
+                        48
+                    ],
+                    [
+                        1433,
+                        58
+                    ],
+                    [
+                        1426,
+                        60
+                    ],
+                    [
+                        1360,
+                        62
+                    ],
+                    [
+                        1286,
+                        64
+                    ],
+                    [
+                        1162,
+                        64
+                    ],
+                    [
+                        985,
+                        66
+                    ],
+                    [
+                        800,
+                        69
+                    ],
+                    [
+                        692,
+                        70
+                    ],
+                    [
+                        531,
+                        71
+                    ],
+                    [
+                        433,
+                        73
+                    ],
+                    [
+                        318,
+                        73
+                    ],
+                    [
+                        172,
+                        76
+                    ],
+                    [
+                        76,
+                        79
+                    ]
+                ],
+                "area": 104646.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            74,
+            64,
+            1318,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    74,
+                    64,
+                    1318,
+                    38
+                ],
+                "poly": [
+                    [
+                        76,
+                        81
+                    ],
+                    [
+                        191,
+                        77
+                    ],
+                    [
+                        349,
+                        74
+                    ],
+                    [
+                        487,
+                        74
+                    ],
+                    [
+                        578,
+                        72
+                    ],
+                    [
+                        729,
+                        71
+                    ],
+                    [
+                        907,
+                        70
+                    ],
+                    [
+                        1049,
+                        68
+                    ],
+                    [
+                        1229,
+                        66
+                    ],
+                    [
+                        1338,
+                        65
+                    ],
+                    [
+                        1391,
+                        64
+                    ],
+                    [
+                        1385,
+                        83
+                    ],
+                    [
+                        1367,
+                        86
+                    ],
+                    [
+                        1224,
+                        83
+                    ],
+                    [
+                        1093,
+                        87
+                    ],
+                    [
+                        968,
+                        87
+                    ],
+                    [
+                        788,
+                        89
+                    ],
+                    [
+                        661,
+                        90
+                    ],
+                    [
+                        494,
+                        89
+                    ],
+                    [
+                        331,
+                        90
+                    ],
+                    [
+                        175,
+                        92
+                    ],
+                    [
+                        96,
+                        96
+                    ],
+                    [
+                        89,
+                        101
+                    ],
+                    [
+                        74,
+                        95
+                    ]
+                ],
+                "area": 128391.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            80,
+            85,
+            1301,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    80,
+                    85,
+                    1301,
+                    32
+                ],
+                "poly": [
+                    [
+                        82,
+                        103
+                    ],
+                    [
+                        93,
+                        102
+                    ],
+                    [
+                        102,
+                        98
+                    ],
+                    [
+                        249,
+                        93
+                    ],
+                    [
+                        407,
+                        93
+                    ],
+                    [
+                        523,
+                        91
+                    ],
+                    [
+                        630,
+                        92
+                    ],
+                    [
+                        856,
+                        91
+                    ],
+                    [
+                        1018,
+                        89
+                    ],
+                    [
+                        1167,
+                        88
+                    ],
+                    [
+                        1232,
+                        85
+                    ],
+                    [
+                        1364,
+                        88
+                    ],
+                    [
+                        1380,
+                        87
+                    ],
+                    [
+                        1380,
+                        100
+                    ],
+                    [
+                        1365,
+                        102
+                    ],
+                    [
+                        1199,
+                        104
+                    ],
+                    [
+                        1003,
+                        105
+                    ],
+                    [
+                        851,
+                        108
+                    ],
+                    [
+                        748,
+                        110
+                    ],
+                    [
+                        600,
+                        110
+                    ],
+                    [
+                        486,
+                        110
+                    ],
+                    [
+                        343,
+                        111
+                    ],
+                    [
+                        223,
+                        110
+                    ],
+                    [
+                        80,
+                        116
+                    ]
+                ],
+                "area": 148098.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            80,
+            103,
+            1303,
+            31
+        ],
+        "components": [
+            {
+                "bbox": [
+                    80,
+                    103,
+                    1303,
+                    31
+                ],
+                "poly": [
+                    [
+                        82,
+                        118
+                    ],
+                    [
+                        166,
+                        114
+                    ],
+                    [
+                        237,
+                        112
+                    ],
+                    [
+                        407,
+                        112
+                    ],
+                    [
+                        623,
+                        111
+                    ],
+                    [
+                        751,
+                        111
+                    ],
+                    [
+                        823,
+                        110
+                    ],
+                    [
+                        961,
+                        107
+                    ],
+                    [
+                        1189,
+                        106
+                    ],
+                    [
+                        1374,
+                        103
+                    ],
+                    [
+                        1381,
+                        103
+                    ],
+                    [
+                        1382,
+                        114
+                    ],
+                    [
+                        1336,
+                        118
+                    ],
+                    [
+                        1266,
+                        122
+                    ],
+                    [
+                        1116,
+                        122
+                    ],
+                    [
+                        1056,
+                        126
+                    ],
+                    [
+                        971,
+                        126
+                    ],
+                    [
+                        861,
+                        126
+                    ],
+                    [
+                        687,
+                        126
+                    ],
+                    [
+                        591,
+                        128
+                    ],
+                    [
+                        421,
+                        130
+                    ],
+                    [
+                        270,
+                        133
+                    ],
+                    [
+                        178,
+                        129
+                    ],
+                    [
+                        80,
+                        131
+                    ]
+                ],
+                "area": 175481.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/HARIDINA%20TILAKA%20VYAKHYA/GOML/1342/28.jpg-1",
+        "bbox": [
+            79,
+            119,
+            1359,
+            37
+        ],
+        "components": [
+            {
+                "bbox": [
+                    79,
+                    119,
+                    1359,
+                    37
+                ],
+                "poly": [
+                    [
+                        79,
+                        137
+                    ],
+                    [
+                        142,
+                        133
+                    ],
+                    [
+                        175,
+                        131
+                    ],
+                    [
+                        225,
+                        132
+                    ],
+                    [
+                        230,
+                        134
+                    ],
+                    [
+                        346,
+                        133
+                    ],
+                    [
+                        503,
+                        130
+                    ],
+                    [
+                        708,
+                        127
+                    ],
+                    [
+                        784,
+                        127
+                    ],
+                    [
+                        928,
+                        127
+                    ],
+                    [
+                        1048,
+                        127
+                    ],
+                    [
+                        1121,
+                        123
+                    ],
+                    [
+                        1208,
+                        123
+                    ],
+                    [
+                        1283,
+                        124
+                    ],
+                    [
+                        1315,
+                        120
+                    ],
+                    [
+                        1395,
+                        119
+                    ],
+                    [
+                        1437,
+                        124
+                    ],
+                    [
+                        1432,
+                        139
+                    ],
+                    [
+                        1423,
+                        142
+                    ],
+                    [
+                        1040,
+                        142
+                    ],
+                    [
+                        715,
+                        146
+                    ],
+                    [
+                        462,
+                        151
+                    ],
+                    [
+                        244,
+                        154
+                    ],
+                    [
+                        87,
+                        155
+                    ],
+                    [
+                        80,
+                        153
+                    ]
+                ],
+                "area": 208552.5
+            }
+        ],
+        "split": "train"
+    }
+]

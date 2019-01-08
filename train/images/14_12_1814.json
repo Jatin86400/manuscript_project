@@ -1,0 +1,1444 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            460,
+            75,
+            54,
+            52
+        ],
+        "components": [
+            {
+                "bbox": [
+                    460,
+                    75,
+                    54,
+                    52
+                ],
+                "poly": [
+                    [
+                        464,
+                        88
+                    ],
+                    [
+                        460,
+                        100
+                    ],
+                    [
+                        462,
+                        113
+                    ],
+                    [
+                        471,
+                        121
+                    ],
+                    [
+                        484,
+                        126
+                    ],
+                    [
+                        497,
+                        126
+                    ],
+                    [
+                        503,
+                        124
+                    ],
+                    [
+                        505,
+                        119
+                    ],
+                    [
+                        513,
+                        110
+                    ],
+                    [
+                        513,
+                        100
+                    ],
+                    [
+                        511,
+                        88
+                    ],
+                    [
+                        502,
+                        81
+                    ],
+                    [
+                        493,
+                        75
+                    ],
+                    [
+                        479,
+                        75
+                    ],
+                    [
+                        471,
+                        78
+                    ]
+                ],
+                "area": 25653.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1444,
+            106,
+            53,
+            50
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1444,
+                    106,
+                    53,
+                    50
+                ],
+                "poly": [
+                    [
+                        1445,
+                        122
+                    ],
+                    [
+                        1444,
+                        137
+                    ],
+                    [
+                        1450,
+                        148
+                    ],
+                    [
+                        1459,
+                        155
+                    ],
+                    [
+                        1474,
+                        155
+                    ],
+                    [
+                        1482,
+                        153
+                    ],
+                    [
+                        1490,
+                        146
+                    ],
+                    [
+                        1494,
+                        137
+                    ],
+                    [
+                        1496,
+                        125
+                    ],
+                    [
+                        1491,
+                        116
+                    ],
+                    [
+                        1483,
+                        110
+                    ],
+                    [
+                        1477,
+                        107
+                    ],
+                    [
+                        1467,
+                        106
+                    ],
+                    [
+                        1447,
+                        111
+                    ],
+                    [
+                        1447,
+                        112
+                    ]
+                ],
+                "area": 73316.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1936,
+            59,
+            66,
+            39
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1936,
+                    59,
+                    66,
+                    39
+                ],
+                "poly": [
+                    [
+                        1936,
+                        75
+                    ],
+                    [
+                        1946,
+                        84
+                    ],
+                    [
+                        1962,
+                        93
+                    ],
+                    [
+                        1991,
+                        97
+                    ],
+                    [
+                        1996,
+                        94
+                    ],
+                    [
+                        2000,
+                        88
+                    ],
+                    [
+                        2001,
+                        81
+                    ],
+                    [
+                        1985,
+                        78
+                    ],
+                    [
+                        1963,
+                        74
+                    ],
+                    [
+                        1955,
+                        66
+                    ],
+                    [
+                        1950,
+                        62
+                    ],
+                    [
+                        1940,
+                        59
+                    ],
+                    [
+                        1938,
+                        59
+                    ]
+                ],
+                "area": 70450.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            2007,
+            69,
+            60,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2007,
+                    69,
+                    60,
+                    32
+                ],
+                "poly": [
+                    [
+                        2014,
+                        92
+                    ],
+                    [
+                        2013,
+                        94
+                    ],
+                    [
+                        2022,
+                        94
+                    ],
+                    [
+                        2030,
+                        99
+                    ],
+                    [
+                        2041,
+                        100
+                    ],
+                    [
+                        2061,
+                        99
+                    ],
+                    [
+                        2064,
+                        95
+                    ],
+                    [
+                        2066,
+                        86
+                    ],
+                    [
+                        2061,
+                        80
+                    ],
+                    [
+                        2058,
+                        73
+                    ],
+                    [
+                        2040,
+                        72
+                    ],
+                    [
+                        2019,
+                        69
+                    ],
+                    [
+                        2010,
+                        74
+                    ],
+                    [
+                        2007,
+                        82
+                    ]
+                ],
+                "area": 62316.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1704,
+            131,
+            40,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1704,
+                    131,
+                    40,
+                    35
+                ],
+                "poly": [
+                    [
+                        1704,
+                        137
+                    ],
+                    [
+                        1707,
+                        147
+                    ],
+                    [
+                        1724,
+                        155
+                    ],
+                    [
+                        1732,
+                        165
+                    ],
+                    [
+                        1743,
+                        155
+                    ],
+                    [
+                        1740,
+                        145
+                    ],
+                    [
+                        1729,
+                        136
+                    ],
+                    [
+                        1716,
+                        131
+                    ],
+                    [
+                        1715,
+                        131
+                    ]
+                ],
+                "area": 56345.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1637,
+            95,
+            73,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1637,
+                    95,
+                    73,
+                    35
+                ],
+                "poly": [
+                    [
+                        1637,
+                        100
+                    ],
+                    [
+                        1637,
+                        115
+                    ],
+                    [
+                        1656,
+                        127
+                    ],
+                    [
+                        1675,
+                        129
+                    ],
+                    [
+                        1690,
+                        126
+                    ],
+                    [
+                        1702,
+                        116
+                    ],
+                    [
+                        1709,
+                        107
+                    ],
+                    [
+                        1706,
+                        99
+                    ],
+                    [
+                        1697,
+                        95
+                    ],
+                    [
+                        1672,
+                        106
+                    ],
+                    [
+                        1666,
+                        107
+                    ],
+                    [
+                        1658,
+                        103
+                    ],
+                    [
+                        1648,
+                        98
+                    ]
+                ],
+                "area": 72245.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1389,
+            37,
+            22,
+            72
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1389,
+                    37,
+                    22,
+                    72
+                ],
+                "poly": [
+                    [
+                        1389,
+                        40
+                    ],
+                    [
+                        1393,
+                        69
+                    ],
+                    [
+                        1389,
+                        90
+                    ],
+                    [
+                        1394,
+                        108
+                    ],
+                    [
+                        1402,
+                        103
+                    ],
+                    [
+                        1408,
+                        87
+                    ],
+                    [
+                        1410,
+                        67
+                    ],
+                    [
+                        1409,
+                        53
+                    ],
+                    [
+                        1407,
+                        39
+                    ],
+                    [
+                        1398,
+                        37
+                    ]
+                ],
+                "area": 99851.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            433,
+            150,
+            12,
+            41
+        ],
+        "components": [
+            {
+                "bbox": [
+                    433,
+                    150,
+                    12,
+                    41
+                ],
+                "poly": [
+                    [
+                        435,
+                        150
+                    ],
+                    [
+                        436,
+                        168
+                    ],
+                    [
+                        434,
+                        180
+                    ],
+                    [
+                        433,
+                        187
+                    ],
+                    [
+                        439,
+                        190
+                    ],
+                    [
+                        443,
+                        184
+                    ],
+                    [
+                        444,
+                        172
+                    ],
+                    [
+                        444,
+                        162
+                    ],
+                    [
+                        444,
+                        151
+                    ]
+                ],
+                "area": 17888.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            608,
+            135,
+            20,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    608,
+                    135,
+                    20,
+                    14
+                ],
+                "poly": [
+                    [
+                        615,
+                        145
+                    ],
+                    [
+                        622,
+                        148
+                    ],
+                    [
+                        626,
+                        145
+                    ],
+                    [
+                        627,
+                        139
+                    ],
+                    [
+                        619,
+                        136
+                    ],
+                    [
+                        612,
+                        135
+                    ],
+                    [
+                        608,
+                        140
+                    ],
+                    [
+                        608,
+                        143
+                    ]
+                ],
+                "area": 6965.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            630,
+            145,
+            30,
+            21
+        ],
+        "components": [
+            {
+                "bbox": [
+                    630,
+                    145,
+                    30,
+                    21
+                ],
+                "poly": [
+                    [
+                        631,
+                        156
+                    ],
+                    [
+                        643,
+                        165
+                    ],
+                    [
+                        653,
+                        164
+                    ],
+                    [
+                        659,
+                        157
+                    ],
+                    [
+                        659,
+                        151
+                    ],
+                    [
+                        654,
+                        149
+                    ],
+                    [
+                        648,
+                        155
+                    ],
+                    [
+                        645,
+                        152
+                    ],
+                    [
+                        635,
+                        145
+                    ],
+                    [
+                        630,
+                        146
+                    ]
+                ],
+                "area": 16489.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            73,
+            21,
+            225,
+            97
+        ],
+        "components": [
+            {
+                "bbox": [
+                    73,
+                    21,
+                    225,
+                    97
+                ],
+                "poly": [
+                    [
+                        295,
+                        27
+                    ],
+                    [
+                        272,
+                        58
+                    ],
+                    [
+                        244,
+                        78
+                    ],
+                    [
+                        242,
+                        96
+                    ],
+                    [
+                        243,
+                        106
+                    ],
+                    [
+                        210,
+                        107
+                    ],
+                    [
+                        166,
+                        109
+                    ],
+                    [
+                        134,
+                        117
+                    ],
+                    [
+                        98,
+                        116
+                    ],
+                    [
+                        73,
+                        105
+                    ],
+                    [
+                        104,
+                        99
+                    ],
+                    [
+                        137,
+                        101
+                    ],
+                    [
+                        170,
+                        93
+                    ],
+                    [
+                        189,
+                        85
+                    ],
+                    [
+                        203,
+                        92
+                    ],
+                    [
+                        203,
+                        78
+                    ],
+                    [
+                        221,
+                        77
+                    ],
+                    [
+                        225,
+                        62
+                    ],
+                    [
+                        233,
+                        62
+                    ],
+                    [
+                        249,
+                        56
+                    ],
+                    [
+                        263,
+                        46
+                    ],
+                    [
+                        276,
+                        32
+                    ],
+                    [
+                        286,
+                        21
+                    ],
+                    [
+                        297,
+                        21
+                    ]
+                ],
+                "area": 40825.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1325,
+            39,
+            169,
+            167
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1325,
+                    39,
+                    169,
+                    167
+                ],
+                "poly": [
+                    [
+                        1328,
+                        44
+                    ],
+                    [
+                        1327,
+                        94
+                    ],
+                    [
+                        1330,
+                        126
+                    ],
+                    [
+                        1332,
+                        148
+                    ],
+                    [
+                        1325,
+                        167
+                    ],
+                    [
+                        1340,
+                        178
+                    ],
+                    [
+                        1340,
+                        189
+                    ],
+                    [
+                        1371,
+                        205
+                    ],
+                    [
+                        1413,
+                        201
+                    ],
+                    [
+                        1492,
+                        174
+                    ],
+                    [
+                        1455,
+                        164
+                    ],
+                    [
+                        1420,
+                        156
+                    ],
+                    [
+                        1418,
+                        127
+                    ],
+                    [
+                        1416,
+                        98
+                    ],
+                    [
+                        1458,
+                        107
+                    ],
+                    [
+                        1485,
+                        105
+                    ],
+                    [
+                        1477,
+                        81
+                    ],
+                    [
+                        1493,
+                        56
+                    ],
+                    [
+                        1486,
+                        40
+                    ],
+                    [
+                        1431,
+                        39
+                    ],
+                    [
+                        1375,
+                        39
+                    ]
+                ],
+                "area": 246583.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            1403,
+            203,
+            56,
+            23
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1403,
+                    203,
+                    56,
+                    23
+                ],
+                "poly": [
+                    [
+                        1437,
+                        203
+                    ],
+                    [
+                        1407,
+                        210
+                    ],
+                    [
+                        1403,
+                        218
+                    ],
+                    [
+                        1413,
+                        222
+                    ],
+                    [
+                        1417,
+                        218
+                    ],
+                    [
+                        1421,
+                        225
+                    ],
+                    [
+                        1434,
+                        222
+                    ],
+                    [
+                        1442,
+                        223
+                    ],
+                    [
+                        1451,
+                        219
+                    ],
+                    [
+                        1458,
+                        216
+                    ],
+                    [
+                        1443,
+                        210
+                    ]
+                ],
+                "area": 41402.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            896,
+            64,
+            16,
+            17
+        ],
+        "components": [
+            {
+                "bbox": [
+                    896,
+                    64,
+                    16,
+                    17
+                ],
+                "poly": [
+                    [
+                        896,
+                        69
+                    ],
+                    [
+                        902,
+                        78
+                    ],
+                    [
+                        909,
+                        80
+                    ],
+                    [
+                        911,
+                        76
+                    ],
+                    [
+                        911,
+                        69
+                    ],
+                    [
+                        904,
+                        65
+                    ],
+                    [
+                        898,
+                        64
+                    ]
+                ],
+                "area": 13687.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ARUNA%20SAMANAM/GOML/991/1.jpg-1",
+        "bbox": [
+            70,
+            18,
+            2189,
+            233
+        ],
+        "components": [
+            {
+                "bbox": [
+                    70,
+                    18,
+                    2189,
+                    233
+                ],
+                "poly": [
+                    [
+                        77,
+                        126
+                    ],
+                    [
+                        73,
+                        131
+                    ],
+                    [
+                        70,
+                        132
+                    ],
+                    [
+                        75,
+                        140
+                    ],
+                    [
+                        83,
+                        142
+                    ],
+                    [
+                        88,
+                        148
+                    ],
+                    [
+                        88,
+                        161
+                    ],
+                    [
+                        90,
+                        178
+                    ],
+                    [
+                        94,
+                        185
+                    ],
+                    [
+                        185,
+                        196
+                    ],
+                    [
+                        275,
+                        202
+                    ],
+                    [
+                        379,
+                        207
+                    ],
+                    [
+                        532,
+                        210
+                    ],
+                    [
+                        674,
+                        215
+                    ],
+                    [
+                        803,
+                        218
+                    ],
+                    [
+                        916,
+                        222
+                    ],
+                    [
+                        967,
+                        224
+                    ],
+                    [
+                        1437,
+                        240
+                    ],
+                    [
+                        1592,
+                        242
+                    ],
+                    [
+                        1717,
+                        246
+                    ],
+                    [
+                        1774,
+                        250
+                    ],
+                    [
+                        1876,
+                        241
+                    ],
+                    [
+                        2019,
+                        238
+                    ],
+                    [
+                        2074,
+                        237
+                    ],
+                    [
+                        2134,
+                        235
+                    ],
+                    [
+                        2243,
+                        224
+                    ],
+                    [
+                        2247,
+                        219
+                    ],
+                    [
+                        2252,
+                        193
+                    ],
+                    [
+                        2256,
+                        167
+                    ],
+                    [
+                        2258,
+                        152
+                    ],
+                    [
+                        2258,
+                        133
+                    ],
+                    [
+                        2254,
+                        109
+                    ],
+                    [
+                        2252,
+                        88
+                    ],
+                    [
+                        2247,
+                        79
+                    ],
+                    [
+                        2224,
+                        67
+                    ],
+                    [
+                        2072,
+                        59
+                    ],
+                    [
+                        1934,
+                        50
+                    ],
+                    [
+                        1801,
+                        44
+                    ],
+                    [
+                        1572,
+                        33
+                    ],
+                    [
+                        1378,
+                        26
+                    ],
+                    [
+                        1008,
+                        18
+                    ],
+                    [
+                        944,
+                        27
+                    ],
+                    [
+                        932,
+                        32
+                    ],
+                    [
+                        889,
+                        36
+                    ],
+                    [
+                        861,
+                        36
+                    ],
+                    [
+                        812,
+                        34
+                    ],
+                    [
+                        794,
+                        41
+                    ],
+                    [
+                        771,
+                        56
+                    ],
+                    [
+                        698,
+                        63
+                    ],
+                    [
+                        605,
+                        65
+                    ],
+                    [
+                        595,
+                        66
+                    ],
+                    [
+                        570,
+                        59
+                    ],
+                    [
+                        538,
+                        60
+                    ],
+                    [
+                        445,
+                        64
+                    ],
+                    [
+                        388,
+                        62
+                    ],
+                    [
+                        376,
+                        53
+                    ],
+                    [
+                        362,
+                        51
+                    ],
+                    [
+                        353,
+                        45
+                    ],
+                    [
+                        340,
+                        37
+                    ],
+                    [
+                        314,
+                        27
+                    ],
+                    [
+                        300,
+                        22
+                    ],
+                    [
+                        289,
+                        24
+                    ],
+                    [
+                        274,
+                        40
+                    ],
+                    [
+                        260,
+                        58
+                    ],
+                    [
+                        241,
+                        68
+                    ],
+                    [
+                        232,
+                        66
+                    ],
+                    [
+                        228,
+                        72
+                    ],
+                    [
+                        235,
+                        78
+                    ],
+                    [
+                        241,
+                        87
+                    ],
+                    [
+                        232,
+                        86
+                    ],
+                    [
+                        217,
+                        80
+                    ],
+                    [
+                        205,
+                        84
+                    ],
+                    [
+                        203,
+                        91
+                    ],
+                    [
+                        214,
+                        96
+                    ],
+                    [
+                        212,
+                        101
+                    ],
+                    [
+                        206,
+                        101
+                    ],
+                    [
+                        190,
+                        94
+                    ],
+                    [
+                        172,
+                        92
+                    ],
+                    [
+                        146,
+                        100
+                    ],
+                    [
+                        140,
+                        108
+                    ],
+                    [
+                        120,
+                        108
+                    ],
+                    [
+                        97,
+                        109
+                    ],
+                    [
+                        85,
+                        107
+                    ],
+                    [
+                        78,
+                        110
+                    ]
+                ],
+                "area": 504053.0
+            }
+        ],
+        "split": "train"
+    }
+]

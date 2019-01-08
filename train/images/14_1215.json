@@ -1,0 +1,2644 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            48,
+            78,
+            56,
+            33
+        ],
+        "components": [
+            {
+                "bbox": [
+                    48,
+                    78,
+                    56,
+                    33
+                ],
+                "poly": [
+                    [
+                        71,
+                        86
+                    ],
+                    [
+                        56,
+                        87
+                    ],
+                    [
+                        51,
+                        91
+                    ],
+                    [
+                        48,
+                        97
+                    ],
+                    [
+                        49,
+                        99
+                    ],
+                    [
+                        54,
+                        104
+                    ],
+                    [
+                        59,
+                        107
+                    ],
+                    [
+                        72,
+                        110
+                    ],
+                    [
+                        89,
+                        110
+                    ],
+                    [
+                        95,
+                        107
+                    ],
+                    [
+                        102,
+                        100
+                    ],
+                    [
+                        103,
+                        91
+                    ],
+                    [
+                        100,
+                        84
+                    ],
+                    [
+                        96,
+                        80
+                    ],
+                    [
+                        91,
+                        78
+                    ],
+                    [
+                        84,
+                        78
+                    ],
+                    [
+                        74,
+                        82
+                    ],
+                    [
+                        70,
+                        85
+                    ]
+                ],
+                "area": 6299.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            164,
+            110,
+            45,
+            34
+        ],
+        "components": [
+            {
+                "bbox": [
+                    164,
+                    110,
+                    45,
+                    34
+                ],
+                "poly": [
+                    [
+                        169,
+                        129
+                    ],
+                    [
+                        173,
+                        141
+                    ],
+                    [
+                        180,
+                        143
+                    ],
+                    [
+                        205,
+                        143
+                    ],
+                    [
+                        208,
+                        137
+                    ],
+                    [
+                        206,
+                        130
+                    ],
+                    [
+                        193,
+                        129
+                    ],
+                    [
+                        175,
+                        110
+                    ],
+                    [
+                        168,
+                        112
+                    ],
+                    [
+                        164,
+                        114
+                    ],
+                    [
+                        165,
+                        123
+                    ],
+                    [
+                        168,
+                        129
+                    ]
+                ],
+                "area": 7707.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            133,
+            114,
+            12,
+            12
+        ],
+        "components": [
+            {
+                "bbox": [
+                    133,
+                    114,
+                    12,
+                    12
+                ],
+                "poly": [
+                    [
+                        138,
+                        124
+                    ],
+                    [
+                        144,
+                        124
+                    ],
+                    [
+                        144,
+                        119
+                    ],
+                    [
+                        141,
+                        115
+                    ],
+                    [
+                        136,
+                        114
+                    ],
+                    [
+                        133,
+                        116
+                    ],
+                    [
+                        133,
+                        121
+                    ],
+                    [
+                        136,
+                        124
+                    ],
+                    [
+                        140,
+                        125
+                    ]
+                ],
+                "area": 1951.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            145,
+            94,
+            9,
+            10
+        ],
+        "components": [
+            {
+                "bbox": [
+                    145,
+                    94,
+                    9,
+                    10
+                ],
+                "poly": [
+                    [
+                        150,
+                        103
+                    ],
+                    [
+                        153,
+                        100
+                    ],
+                    [
+                        153,
+                        95
+                    ],
+                    [
+                        150,
+                        94
+                    ],
+                    [
+                        145,
+                        96
+                    ],
+                    [
+                        146,
+                        103
+                    ],
+                    [
+                        151,
+                        102
+                    ]
+                ],
+                "area": 2129.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            188,
+            55,
+            81,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    188,
+                    55,
+                    81,
+                    15
+                ],
+                "poly": [
+                    [
+                        224,
+                        56
+                    ],
+                    [
+                        198,
+                        57
+                    ],
+                    [
+                        188,
+                        62
+                    ],
+                    [
+                        221,
+                        69
+                    ],
+                    [
+                        263,
+                        69
+                    ],
+                    [
+                        267,
+                        66
+                    ],
+                    [
+                        268,
+                        61
+                    ],
+                    [
+                        265,
+                        56
+                    ],
+                    [
+                        260,
+                        55
+                    ],
+                    [
+                        224,
+                        55
+                    ]
+                ],
+                "area": 6355.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            315,
+            38,
+            38,
+            22
+        ],
+        "components": [
+            {
+                "bbox": [
+                    315,
+                    38,
+                    38,
+                    22
+                ],
+                "poly": [
+                    [
+                        335,
+                        58
+                    ],
+                    [
+                        348,
+                        57
+                    ],
+                    [
+                        352,
+                        53
+                    ],
+                    [
+                        352,
+                        49
+                    ],
+                    [
+                        340,
+                        46
+                    ],
+                    [
+                        325,
+                        38
+                    ],
+                    [
+                        317,
+                        38
+                    ],
+                    [
+                        315,
+                        42
+                    ],
+                    [
+                        317,
+                        50
+                    ],
+                    [
+                        330,
+                        58
+                    ],
+                    [
+                        334,
+                        59
+                    ],
+                    [
+                        336,
+                        58
+                    ]
+                ],
+                "area": 6596.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            360,
+            47,
+            17,
+            11
+        ],
+        "components": [
+            {
+                "bbox": [
+                    360,
+                    47,
+                    17,
+                    11
+                ],
+                "poly": [
+                    [
+                        369,
+                        56
+                    ],
+                    [
+                        376,
+                        54
+                    ],
+                    [
+                        376,
+                        49
+                    ],
+                    [
+                        372,
+                        47
+                    ],
+                    [
+                        365,
+                        47
+                    ],
+                    [
+                        362,
+                        49
+                    ],
+                    [
+                        360,
+                        51
+                    ],
+                    [
+                        361,
+                        57
+                    ],
+                    [
+                        369,
+                        56
+                    ],
+                    [
+                        371,
+                        57
+                    ]
+                ],
+                "area": 4514.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            531,
+            60,
+            12,
+            10
+        ],
+        "components": [
+            {
+                "bbox": [
+                    531,
+                    60,
+                    12,
+                    10
+                ],
+                "poly": [
+                    [
+                        538,
+                        69
+                    ],
+                    [
+                        542,
+                        67
+                    ],
+                    [
+                        541,
+                        63
+                    ],
+                    [
+                        536,
+                        60
+                    ],
+                    [
+                        532,
+                        61
+                    ],
+                    [
+                        531,
+                        63
+                    ],
+                    [
+                        532,
+                        67
+                    ],
+                    [
+                        536,
+                        69
+                    ],
+                    [
+                        538,
+                        69
+                    ]
+                ],
+                "area": 4828.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            537,
+            145,
+            39,
+            56
+        ],
+        "components": [
+            {
+                "bbox": [
+                    537,
+                    145,
+                    39,
+                    56
+                ],
+                "poly": [
+                    [
+                        547,
+                        196
+                    ],
+                    [
+                        556,
+                        196
+                    ],
+                    [
+                        563,
+                        199
+                    ],
+                    [
+                        572,
+                        200
+                    ],
+                    [
+                        575,
+                        195
+                    ],
+                    [
+                        574,
+                        180
+                    ],
+                    [
+                        569,
+                        167
+                    ],
+                    [
+                        567,
+                        154
+                    ],
+                    [
+                        564,
+                        147
+                    ],
+                    [
+                        560,
+                        145
+                    ],
+                    [
+                        555,
+                        145
+                    ],
+                    [
+                        550,
+                        148
+                    ],
+                    [
+                        550,
+                        152
+                    ],
+                    [
+                        554,
+                        164
+                    ],
+                    [
+                        554,
+                        173
+                    ],
+                    [
+                        548,
+                        183
+                    ],
+                    [
+                        537,
+                        190
+                    ],
+                    [
+                        538,
+                        196
+                    ],
+                    [
+                        544,
+                        198
+                    ],
+                    [
+                        546,
+                        197
+                    ],
+                    [
+                        547,
+                        195
+                    ]
+                ],
+                "area": 33739.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            415,
+            184,
+            84,
+            28
+        ],
+        "components": [
+            {
+                "bbox": [
+                    415,
+                    184,
+                    84,
+                    28
+                ],
+                "poly": [
+                    [
+                        452,
+                        198
+                    ],
+                    [
+                        438,
+                        203
+                    ],
+                    [
+                        423,
+                        211
+                    ],
+                    [
+                        415,
+                        207
+                    ],
+                    [
+                        415,
+                        201
+                    ],
+                    [
+                        421,
+                        192
+                    ],
+                    [
+                        430,
+                        187
+                    ],
+                    [
+                        440,
+                        185
+                    ],
+                    [
+                        452,
+                        184
+                    ],
+                    [
+                        489,
+                        186
+                    ],
+                    [
+                        495,
+                        188
+                    ],
+                    [
+                        498,
+                        193
+                    ],
+                    [
+                        497,
+                        198
+                    ],
+                    [
+                        490,
+                        202
+                    ],
+                    [
+                        455,
+                        203
+                    ],
+                    [
+                        451,
+                        199
+                    ]
+                ],
+                "area": 25733.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            482,
+            206,
+            15,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    482,
+                    206,
+                    15,
+                    13
+                ],
+                "poly": [
+                    [
+                        484,
+                        209
+                    ],
+                    [
+                        491,
+                        206
+                    ],
+                    [
+                        495,
+                        209
+                    ],
+                    [
+                        496,
+                        214
+                    ],
+                    [
+                        492,
+                        218
+                    ],
+                    [
+                        484,
+                        218
+                    ],
+                    [
+                        482,
+                        213
+                    ],
+                    [
+                        485,
+                        209
+                    ]
+                ],
+                "area": 7587.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            376,
+            190,
+            17,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    376,
+                    190,
+                    17,
+                    16
+                ],
+                "poly": [
+                    [
+                        385,
+                        190
+                    ],
+                    [
+                        378,
+                        195
+                    ],
+                    [
+                        376,
+                        199
+                    ],
+                    [
+                        376,
+                        202
+                    ],
+                    [
+                        382,
+                        205
+                    ],
+                    [
+                        387,
+                        205
+                    ],
+                    [
+                        392,
+                        200
+                    ],
+                    [
+                        390,
+                        193
+                    ],
+                    [
+                        388,
+                        191
+                    ],
+                    [
+                        384,
+                        190
+                    ]
+                ],
+                "area": 6829.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            320,
+            192,
+            33,
+            14
+        ],
+        "components": [
+            {
+                "bbox": [
+                    320,
+                    192,
+                    33,
+                    14
+                ],
+                "poly": [
+                    [
+                        346,
+                        192
+                    ],
+                    [
+                        331,
+                        192
+                    ],
+                    [
+                        323,
+                        197
+                    ],
+                    [
+                        320,
+                        202
+                    ],
+                    [
+                        324,
+                        204
+                    ],
+                    [
+                        333,
+                        205
+                    ],
+                    [
+                        348,
+                        204
+                    ],
+                    [
+                        351,
+                        202
+                    ],
+                    [
+                        352,
+                        197
+                    ],
+                    [
+                        346,
+                        193
+                    ]
+                ],
+                "area": 8601.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            352,
+            188,
+            25,
+            22
+        ],
+        "components": [
+            {
+                "bbox": [
+                    352,
+                    188,
+                    25,
+                    22
+                ],
+                "poly": [
+                    [
+                        363,
+                        205
+                    ],
+                    [
+                        355,
+                        205
+                    ],
+                    [
+                        352,
+                        199
+                    ],
+                    [
+                        353,
+                        196
+                    ],
+                    [
+                        356,
+                        192
+                    ],
+                    [
+                        363,
+                        188
+                    ],
+                    [
+                        373,
+                        188
+                    ],
+                    [
+                        376,
+                        192
+                    ],
+                    [
+                        376,
+                        200
+                    ],
+                    [
+                        375,
+                        203
+                    ],
+                    [
+                        368,
+                        209
+                    ],
+                    [
+                        360,
+                        208
+                    ],
+                    [
+                        362,
+                        205
+                    ]
+                ],
+                "area": 11499.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            655,
+            100,
+            73,
+            46
+        ],
+        "components": [
+            {
+                "bbox": [
+                    655,
+                    100,
+                    73,
+                    46
+                ],
+                "poly": [
+                    [
+                        713,
+                        125
+                    ],
+                    [
+                        706,
+                        127
+                    ],
+                    [
+                        699,
+                        123
+                    ],
+                    [
+                        687,
+                        110
+                    ],
+                    [
+                        672,
+                        101
+                    ],
+                    [
+                        660,
+                        100
+                    ],
+                    [
+                        657,
+                        102
+                    ],
+                    [
+                        655,
+                        105
+                    ],
+                    [
+                        655,
+                        113
+                    ],
+                    [
+                        657,
+                        117
+                    ],
+                    [
+                        659,
+                        120
+                    ],
+                    [
+                        671,
+                        127
+                    ],
+                    [
+                        709,
+                        144
+                    ],
+                    [
+                        720,
+                        145
+                    ],
+                    [
+                        725,
+                        143
+                    ],
+                    [
+                        727,
+                        141
+                    ],
+                    [
+                        727,
+                        136
+                    ],
+                    [
+                        724,
+                        128
+                    ],
+                    [
+                        720,
+                        126
+                    ],
+                    [
+                        713,
+                        126
+                    ],
+                    [
+                        710,
+                        124
+                    ]
+                ],
+                "area": 28431.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_16",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            735,
+            146,
+            19,
+            13
+        ],
+        "components": [
+            {
+                "bbox": [
+                    735,
+                    146,
+                    19,
+                    13
+                ],
+                "poly": [
+                    [
+                        752,
+                        154
+                    ],
+                    [
+                        753,
+                        150
+                    ],
+                    [
+                        751,
+                        148
+                    ],
+                    [
+                        741,
+                        146
+                    ],
+                    [
+                        735,
+                        149
+                    ],
+                    [
+                        745,
+                        158
+                    ],
+                    [
+                        751,
+                        158
+                    ],
+                    [
+                        753,
+                        153
+                    ]
+                ],
+                "area": 9269.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_17",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            620,
+            25,
+            17,
+            11
+        ],
+        "components": [
+            {
+                "bbox": [
+                    620,
+                    25,
+                    17,
+                    11
+                ],
+                "poly": [
+                    [
+                        620,
+                        26
+                    ],
+                    [
+                        631,
+                        25
+                    ],
+                    [
+                        636,
+                        30
+                    ],
+                    [
+                        636,
+                        33
+                    ],
+                    [
+                        631,
+                        35
+                    ],
+                    [
+                        625,
+                        34
+                    ],
+                    [
+                        622,
+                        25
+                    ]
+                ],
+                "area": 6948.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_18",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            752,
+            20,
+            29,
+            44
+        ],
+        "components": [
+            {
+                "bbox": [
+                    752,
+                    20,
+                    29,
+                    44
+                ],
+                "poly": [
+                    [
+                        768,
+                        57
+                    ],
+                    [
+                        778,
+                        33
+                    ],
+                    [
+                        780,
+                        24
+                    ],
+                    [
+                        779,
+                        20
+                    ],
+                    [
+                        770,
+                        20
+                    ],
+                    [
+                        764,
+                        22
+                    ],
+                    [
+                        757,
+                        32
+                    ],
+                    [
+                        753,
+                        46
+                    ],
+                    [
+                        752,
+                        60
+                    ],
+                    [
+                        754,
+                        63
+                    ],
+                    [
+                        765,
+                        63
+                    ],
+                    [
+                        768,
+                        55
+                    ]
+                ],
+                "area": 35394.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_19",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            923,
+            185,
+            15,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    923,
+                    185,
+                    15,
+                    16
+                ],
+                "poly": [
+                    [
+                        927,
+                        198
+                    ],
+                    [
+                        933,
+                        200
+                    ],
+                    [
+                        937,
+                        196
+                    ],
+                    [
+                        930,
+                        185
+                    ],
+                    [
+                        925,
+                        186
+                    ],
+                    [
+                        923,
+                        191
+                    ],
+                    [
+                        923,
+                        196
+                    ],
+                    [
+                        926,
+                        198
+                    ]
+                ],
+                "area": 13528.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_20",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            971,
+            28,
+            17,
+            16
+        ],
+        "components": [
+            {
+                "bbox": [
+                    971,
+                    28,
+                    17,
+                    16
+                ],
+                "poly": [
+                    [
+                        979,
+                        42
+                    ],
+                    [
+                        985,
+                        42
+                    ],
+                    [
+                        987,
+                        37
+                    ],
+                    [
+                        987,
+                        30
+                    ],
+                    [
+                        983,
+                        28
+                    ],
+                    [
+                        974,
+                        30
+                    ],
+                    [
+                        971,
+                        36
+                    ],
+                    [
+                        971,
+                        40
+                    ],
+                    [
+                        972,
+                        42
+                    ],
+                    [
+                        980,
+                        43
+                    ]
+                ],
+                "area": 14767.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_21",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            727,
+            89,
+            54,
+            55
+        ],
+        "components": [
+            {
+                "bbox": [
+                    727,
+                    89,
+                    54,
+                    55
+                ],
+                "poly": [
+                    [
+                        753,
+                        143
+                    ],
+                    [
+                        764,
+                        140
+                    ],
+                    [
+                        772,
+                        136
+                    ],
+                    [
+                        777,
+                        129
+                    ],
+                    [
+                        780,
+                        119
+                    ],
+                    [
+                        780,
+                        110
+                    ],
+                    [
+                        776,
+                        98
+                    ],
+                    [
+                        768,
+                        92
+                    ],
+                    [
+                        761,
+                        89
+                    ],
+                    [
+                        747,
+                        89
+                    ],
+                    [
+                        739,
+                        92
+                    ],
+                    [
+                        731,
+                        98
+                    ],
+                    [
+                        727,
+                        108
+                    ],
+                    [
+                        727,
+                        116
+                    ],
+                    [
+                        731,
+                        131
+                    ],
+                    [
+                        743,
+                        141
+                    ],
+                    [
+                        754,
+                        143
+                    ]
+                ],
+                "area": 41497.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_22",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1250,
+            56,
+            17,
+            18
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1250,
+                    56,
+                    17,
+                    18
+                ],
+                "poly": [
+                    [
+                        1258,
+                        73
+                    ],
+                    [
+                        1263,
+                        71
+                    ],
+                    [
+                        1266,
+                        65
+                    ],
+                    [
+                        1263,
+                        58
+                    ],
+                    [
+                        1258,
+                        56
+                    ],
+                    [
+                        1252,
+                        60
+                    ],
+                    [
+                        1250,
+                        68
+                    ],
+                    [
+                        1252,
+                        73
+                    ],
+                    [
+                        1259,
+                        73
+                    ]
+                ],
+                "area": 21888.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_23",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1174,
+            174,
+            26,
+            22
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1174,
+                    174,
+                    26,
+                    22
+                ],
+                "poly": [
+                    [
+                        1179,
+                        181
+                    ],
+                    [
+                        1175,
+                        189
+                    ],
+                    [
+                        1174,
+                        194
+                    ],
+                    [
+                        1177,
+                        195
+                    ],
+                    [
+                        1183,
+                        194
+                    ],
+                    [
+                        1186,
+                        189
+                    ],
+                    [
+                        1197,
+                        186
+                    ],
+                    [
+                        1199,
+                        183
+                    ],
+                    [
+                        1197,
+                        175
+                    ],
+                    [
+                        1193,
+                        174
+                    ],
+                    [
+                        1181,
+                        175
+                    ],
+                    [
+                        1178,
+                        181
+                    ]
+                ],
+                "area": 28026.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_24",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1109,
+            192,
+            19,
+            15
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1109,
+                    192,
+                    19,
+                    15
+                ],
+                "poly": [
+                    [
+                        1117,
+                        204
+                    ],
+                    [
+                        1122,
+                        203
+                    ],
+                    [
+                        1127,
+                        195
+                    ],
+                    [
+                        1124,
+                        195
+                    ],
+                    [
+                        1120,
+                        192
+                    ],
+                    [
+                        1109,
+                        194
+                    ],
+                    [
+                        1109,
+                        197
+                    ],
+                    [
+                        1111,
+                        202
+                    ],
+                    [
+                        1118,
+                        206
+                    ],
+                    [
+                        1119,
+                        205
+                    ]
+                ],
+                "area": 16599.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_25",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1077,
+            168,
+            21,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1077,
+                    168,
+                    21,
+                    38
+                ],
+                "poly": [
+                    [
+                        1096,
+                        192
+                    ],
+                    [
+                        1092,
+                        202
+                    ],
+                    [
+                        1085,
+                        205
+                    ],
+                    [
+                        1082,
+                        200
+                    ],
+                    [
+                        1077,
+                        177
+                    ],
+                    [
+                        1077,
+                        171
+                    ],
+                    [
+                        1079,
+                        168
+                    ],
+                    [
+                        1083,
+                        168
+                    ],
+                    [
+                        1089,
+                        170
+                    ],
+                    [
+                        1093,
+                        179
+                    ],
+                    [
+                        1097,
+                        192
+                    ]
+                ],
+                "area": 39892.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_26",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1374,
+            93,
+            25,
+            12
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1374,
+                    93,
+                    25,
+                    12
+                ],
+                "poly": [
+                    [
+                        1393,
+                        94
+                    ],
+                    [
+                        1380,
+                        95
+                    ],
+                    [
+                        1376,
+                        97
+                    ],
+                    [
+                        1374,
+                        101
+                    ],
+                    [
+                        1384,
+                        104
+                    ],
+                    [
+                        1397,
+                        104
+                    ],
+                    [
+                        1398,
+                        102
+                    ],
+                    [
+                        1398,
+                        97
+                    ],
+                    [
+                        1397,
+                        95
+                    ],
+                    [
+                        1393,
+                        93
+                    ]
+                ],
+                "area": 16155.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_27",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1549,
+            85,
+            17,
+            24
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1549,
+                    85,
+                    17,
+                    24
+                ],
+                "poly": [
+                    [
+                        1564,
+                        86
+                    ],
+                    [
+                        1565,
+                        105
+                    ],
+                    [
+                        1562,
+                        108
+                    ],
+                    [
+                        1553,
+                        105
+                    ],
+                    [
+                        1550,
+                        102
+                    ],
+                    [
+                        1549,
+                        89
+                    ],
+                    [
+                        1550,
+                        87
+                    ],
+                    [
+                        1555,
+                        85
+                    ],
+                    [
+                        1563,
+                        87
+                    ]
+                ],
+                "area": 36774.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_28",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1552,
+            52,
+            48,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1552,
+                    52,
+                    48,
+                    35
+                ],
+                "poly": [
+                    [
+                        1574,
+                        72
+                    ],
+                    [
+                        1584,
+                        68
+                    ],
+                    [
+                        1591,
+                        71
+                    ],
+                    [
+                        1596,
+                        70
+                    ],
+                    [
+                        1599,
+                        65
+                    ],
+                    [
+                        1599,
+                        59
+                    ],
+                    [
+                        1596,
+                        53
+                    ],
+                    [
+                        1584,
+                        52
+                    ],
+                    [
+                        1566,
+                        60
+                    ],
+                    [
+                        1554,
+                        75
+                    ],
+                    [
+                        1552,
+                        80
+                    ],
+                    [
+                        1553,
+                        84
+                    ],
+                    [
+                        1557,
+                        86
+                    ],
+                    [
+                        1562,
+                        84
+                    ],
+                    [
+                        1567,
+                        81
+                    ],
+                    [
+                        1575,
+                        72
+                    ]
+                ],
+                "area": 59754.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_29",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            1565,
+            79,
+            49,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1565,
+                    79,
+                    49,
+                    47
+                ],
+                "poly": [
+                    [
+                        1600,
+                        122
+                    ],
+                    [
+                        1607,
+                        118
+                    ],
+                    [
+                        1611,
+                        111
+                    ],
+                    [
+                        1613,
+                        98
+                    ],
+                    [
+                        1612,
+                        91
+                    ],
+                    [
+                        1607,
+                        86
+                    ],
+                    [
+                        1595,
+                        81
+                    ],
+                    [
+                        1588,
+                        79
+                    ],
+                    [
+                        1580,
+                        80
+                    ],
+                    [
+                        1573,
+                        85
+                    ],
+                    [
+                        1565,
+                        96
+                    ],
+                    [
+                        1565,
+                        104
+                    ],
+                    [
+                        1570,
+                        116
+                    ],
+                    [
+                        1583,
+                        124
+                    ],
+                    [
+                        1598,
+                        125
+                    ],
+                    [
+                        1599,
+                        122
+                    ],
+                    [
+                        1603,
+                        122
+                    ]
+                ],
+                "area": 72554.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_30",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2016,
+            113,
+            21,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2016,
+                    113,
+                    21,
+                    35
+                ],
+                "poly": [
+                    [
+                        2032,
+                        128
+                    ],
+                    [
+                        2036,
+                        142
+                    ],
+                    [
+                        2028,
+                        147
+                    ],
+                    [
+                        2018,
+                        145
+                    ],
+                    [
+                        2016,
+                        138
+                    ],
+                    [
+                        2017,
+                        113
+                    ],
+                    [
+                        2023,
+                        113
+                    ],
+                    [
+                        2027,
+                        115
+                    ],
+                    [
+                        2032,
+                        120
+                    ],
+                    [
+                        2035,
+                        126
+                    ],
+                    [
+                        2035,
+                        128
+                    ],
+                    [
+                        2032,
+                        128
+                    ]
+                ],
+                "area": 68165.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_31",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2041,
+            100,
+            60,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2041,
+                    100,
+                    60,
+                    35
+                ],
+                "poly": [
+                    [
+                        2049,
+                        112
+                    ],
+                    [
+                        2041,
+                        108
+                    ],
+                    [
+                        2042,
+                        103
+                    ],
+                    [
+                        2053,
+                        100
+                    ],
+                    [
+                        2061,
+                        100
+                    ],
+                    [
+                        2091,
+                        106
+                    ],
+                    [
+                        2097,
+                        109
+                    ],
+                    [
+                        2098,
+                        119
+                    ],
+                    [
+                        2100,
+                        128
+                    ],
+                    [
+                        2094,
+                        131
+                    ],
+                    [
+                        2080,
+                        134
+                    ],
+                    [
+                        2069,
+                        134
+                    ],
+                    [
+                        2054,
+                        131
+                    ],
+                    [
+                        2050,
+                        130
+                    ],
+                    [
+                        2048,
+                        125
+                    ],
+                    [
+                        2049,
+                        111
+                    ]
+                ],
+                "area": 71700.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_32",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2111,
+            123,
+            55,
+            30
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2111,
+                    123,
+                    55,
+                    30
+                ],
+                "poly": [
+                    [
+                        2126,
+                        126
+                    ],
+                    [
+                        2119,
+                        127
+                    ],
+                    [
+                        2114,
+                        131
+                    ],
+                    [
+                        2112,
+                        134
+                    ],
+                    [
+                        2111,
+                        140
+                    ],
+                    [
+                        2121,
+                        150
+                    ],
+                    [
+                        2126,
+                        152
+                    ],
+                    [
+                        2134,
+                        149
+                    ],
+                    [
+                        2152,
+                        148
+                    ],
+                    [
+                        2164,
+                        146
+                    ],
+                    [
+                        2165,
+                        137
+                    ],
+                    [
+                        2158,
+                        123
+                    ],
+                    [
+                        2148,
+                        124
+                    ],
+                    [
+                        2138,
+                        132
+                    ],
+                    [
+                        2134,
+                        133
+                    ],
+                    [
+                        2129,
+                        133
+                    ],
+                    [
+                        2124,
+                        129
+                    ],
+                    [
+                        2123,
+                        127
+                    ],
+                    [
+                        2126,
+                        125
+                    ]
+                ],
+                "area": 83030.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_33",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2140,
+            113,
+            13,
+            12
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2140,
+                    113,
+                    13,
+                    12
+                ],
+                "poly": [
+                    [
+                        2144,
+                        121
+                    ],
+                    [
+                        2140,
+                        119
+                    ],
+                    [
+                        2142,
+                        115
+                    ],
+                    [
+                        2146,
+                        113
+                    ],
+                    [
+                        2152,
+                        118
+                    ],
+                    [
+                        2152,
+                        121
+                    ],
+                    [
+                        2150,
+                        124
+                    ],
+                    [
+                        2144,
+                        121
+                    ]
+                ],
+                "area": 23129.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_34",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2165,
+            96,
+            30,
+            35
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2165,
+                    96,
+                    30,
+                    35
+                ],
+                "poly": [
+                    [
+                        2187,
+                        130
+                    ],
+                    [
+                        2194,
+                        124
+                    ],
+                    [
+                        2183,
+                        102
+                    ],
+                    [
+                        2180,
+                        99
+                    ],
+                    [
+                        2173,
+                        96
+                    ],
+                    [
+                        2165,
+                        96
+                    ],
+                    [
+                        2165,
+                        106
+                    ],
+                    [
+                        2169,
+                        116
+                    ],
+                    [
+                        2182,
+                        130
+                    ],
+                    [
+                        2186,
+                        130
+                    ]
+                ],
+                "area": 73089.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1_35",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SHAMBHU%20SHIKSHA/SVUORI/952/2.jpg-1",
+        "bbox": [
+            2004,
+            21,
+            181,
+            43
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2004,
+                    21,
+                    181,
+                    43
+                ],
+                "poly": [
+                    [
+                        2145,
+                        62
+                    ],
+                    [
+                        2155,
+                        59
+                    ],
+                    [
+                        2172,
+                        63
+                    ],
+                    [
+                        2179,
+                        63
+                    ],
+                    [
+                        2182,
+                        60
+                    ],
+                    [
+                        2184,
+                        52
+                    ],
+                    [
+                        2176,
+                        48
+                    ],
+                    [
+                        2164,
+                        45
+                    ],
+                    [
+                        2133,
+                        45
+                    ],
+                    [
+                        2125,
+                        42
+                    ],
+                    [
+                        2117,
+                        36
+                    ],
+                    [
+                        2057,
+                        21
+                    ],
+                    [
+                        2033,
+                        21
+                    ],
+                    [
+                        2017,
+                        23
+                    ],
+                    [
+                        2009,
+                        27
+                    ],
+                    [
+                        2004,
+                        35
+                    ],
+                    [
+                        2004,
+                        43
+                    ],
+                    [
+                        2009,
+                        44
+                    ],
+                    [
+                        2016,
+                        45
+                    ],
+                    [
+                        2046,
+                        40
+                    ],
+                    [
+                        2067,
+                        40
+                    ],
+                    [
+                        2089,
+                        46
+                    ],
+                    [
+                        2100,
+                        51
+                    ],
+                    [
+                        2111,
+                        58
+                    ],
+                    [
+                        2122,
+                        61
+                    ],
+                    [
+                        2147,
+                        62
+                    ]
+                ],
+                "area": 103151.5
+            }
+        ],
+        "split": "train"
+    }
+]

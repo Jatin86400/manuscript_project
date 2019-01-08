@@ -1,0 +1,60 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/26.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/26.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/SANDHYAVANDANA%20BHASHYAM/GOML/991/26.jpg-1",
+        "bbox": [
+            747,
+            129,
+            36,
+            36
+        ],
+        "components": [
+            {
+                "bbox": [
+                    747,
+                    129,
+                    36,
+                    36
+                ],
+                "poly": [
+                    [
+                        758,
+                        132
+                    ],
+                    [
+                        747,
+                        138
+                    ],
+                    [
+                        749,
+                        153
+                    ],
+                    [
+                        757,
+                        164
+                    ],
+                    [
+                        771,
+                        164
+                    ],
+                    [
+                        782,
+                        154
+                    ],
+                    [
+                        782,
+                        138
+                    ],
+                    [
+                        771,
+                        129
+                    ]
+                ],
+                "area": 28888.0
+            }
+        ],
+        "split": "train"
+    }
+]

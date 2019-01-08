@@ -1,0 +1,1888 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            4368,
+            91,
+            82,
+            103
+        ],
+        "components": [
+            {
+                "bbox": [
+                    4368,
+                    91,
+                    82,
+                    103
+                ],
+                "poly": [
+                    [
+                        4370,
+                        111
+                    ],
+                    [
+                        4368,
+                        168
+                    ],
+                    [
+                        4391,
+                        190
+                    ],
+                    [
+                        4427,
+                        193
+                    ],
+                    [
+                        4445,
+                        166
+                    ],
+                    [
+                        4446,
+                        139
+                    ],
+                    [
+                        4449,
+                        115
+                    ],
+                    [
+                        4448,
+                        91
+                    ],
+                    [
+                        4389,
+                        103
+                    ]
+                ],
+                "area": 450328.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1302,
+            148,
+            89,
+            88
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1302,
+                    148,
+                    89,
+                    88
+                ],
+                "poly": [
+                    [
+                        1309,
+                        165
+                    ],
+                    [
+                        1302,
+                        187
+                    ],
+                    [
+                        1306,
+                        210
+                    ],
+                    [
+                        1324,
+                        225
+                    ],
+                    [
+                        1350,
+                        235
+                    ],
+                    [
+                        1383,
+                        217
+                    ],
+                    [
+                        1389,
+                        199
+                    ],
+                    [
+                        1390,
+                        180
+                    ],
+                    [
+                        1389,
+                        166
+                    ],
+                    [
+                        1377,
+                        160
+                    ],
+                    [
+                        1365,
+                        154
+                    ],
+                    [
+                        1336,
+                        148
+                    ],
+                    [
+                        1326,
+                        154
+                    ]
+                ],
+                "area": 114790.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            3222,
+            120,
+            82,
+            83
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3222,
+                    120,
+                    82,
+                    83
+                ],
+                "poly": [
+                    [
+                        3230,
+                        132
+                    ],
+                    [
+                        3222,
+                        156
+                    ],
+                    [
+                        3227,
+                        183
+                    ],
+                    [
+                        3248,
+                        198
+                    ],
+                    [
+                        3266,
+                        202
+                    ],
+                    [
+                        3291,
+                        196
+                    ],
+                    [
+                        3300,
+                        177
+                    ],
+                    [
+                        3303,
+                        162
+                    ],
+                    [
+                        3296,
+                        136
+                    ],
+                    [
+                        3278,
+                        121
+                    ],
+                    [
+                        3249,
+                        120
+                    ]
+                ],
+                "area": 265492.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            280,
+            6,
+            4008,
+            88
+        ],
+        "components": [
+            {
+                "bbox": [
+                    280,
+                    6,
+                    4008,
+                    88
+                ],
+                "poly": [
+                    [
+                        280,
+                        58
+                    ],
+                    [
+                        280,
+                        93
+                    ],
+                    [
+                        315,
+                        91
+                    ],
+                    [
+                        439,
+                        87
+                    ],
+                    [
+                        567,
+                        84
+                    ],
+                    [
+                        786,
+                        75
+                    ],
+                    [
+                        969,
+                        70
+                    ],
+                    [
+                        1146,
+                        69
+                    ],
+                    [
+                        1380,
+                        60
+                    ],
+                    [
+                        1471,
+                        58
+                    ],
+                    [
+                        2158,
+                        54
+                    ],
+                    [
+                        2207,
+                        61
+                    ],
+                    [
+                        2450,
+                        57
+                    ],
+                    [
+                        2713,
+                        45
+                    ],
+                    [
+                        2917,
+                        52
+                    ],
+                    [
+                        3039,
+                        43
+                    ],
+                    [
+                        3173,
+                        45
+                    ],
+                    [
+                        3228,
+                        48
+                    ],
+                    [
+                        3632,
+                        39
+                    ],
+                    [
+                        3825,
+                        39
+                    ],
+                    [
+                        4013,
+                        39
+                    ],
+                    [
+                        4139,
+                        39
+                    ],
+                    [
+                        4286,
+                        36
+                    ],
+                    [
+                        4287,
+                        6
+                    ],
+                    [
+                        4121,
+                        10
+                    ],
+                    [
+                        3900,
+                        6
+                    ],
+                    [
+                        3641,
+                        10
+                    ],
+                    [
+                        3431,
+                        13
+                    ],
+                    [
+                        3029,
+                        13
+                    ],
+                    [
+                        1461,
+                        27
+                    ],
+                    [
+                        1456,
+                        27
+                    ],
+                    [
+                        1252,
+                        27
+                    ],
+                    [
+                        951,
+                        36
+                    ],
+                    [
+                        808,
+                        37
+                    ],
+                    [
+                        301,
+                        57
+                    ]
+                ],
+                "area": 358476.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            279,
+            36,
+            4027,
+            95
+        ],
+        "components": [
+            {
+                "bbox": [
+                    279,
+                    36,
+                    4027,
+                    95
+                ],
+                "poly": [
+                    [
+                        279,
+                        99
+                    ],
+                    [
+                        279,
+                        123
+                    ],
+                    [
+                        295,
+                        130
+                    ],
+                    [
+                        396,
+                        123
+                    ],
+                    [
+                        640,
+                        115
+                    ],
+                    [
+                        840,
+                        106
+                    ],
+                    [
+                        1048,
+                        102
+                    ],
+                    [
+                        1191,
+                        99
+                    ],
+                    [
+                        1339,
+                        99
+                    ],
+                    [
+                        1473,
+                        90
+                    ],
+                    [
+                        1969,
+                        88
+                    ],
+                    [
+                        2135,
+                        82
+                    ],
+                    [
+                        2273,
+                        91
+                    ],
+                    [
+                        2512,
+                        85
+                    ],
+                    [
+                        2692,
+                        75
+                    ],
+                    [
+                        2857,
+                        79
+                    ],
+                    [
+                        3006,
+                        79
+                    ],
+                    [
+                        3120,
+                        81
+                    ],
+                    [
+                        3786,
+                        67
+                    ],
+                    [
+                        4062,
+                        66
+                    ],
+                    [
+                        4212,
+                        69
+                    ],
+                    [
+                        4305,
+                        67
+                    ],
+                    [
+                        4301,
+                        36
+                    ],
+                    [
+                        3965,
+                        46
+                    ],
+                    [
+                        3698,
+                        37
+                    ],
+                    [
+                        3312,
+                        43
+                    ],
+                    [
+                        1552,
+                        69
+                    ],
+                    [
+                        1408,
+                        63
+                    ],
+                    [
+                        1141,
+                        73
+                    ],
+                    [
+                        282,
+                        93
+                    ]
+                ],
+                "area": 503525.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            271,
+            67,
+            3998,
+            97
+        ],
+        "components": [
+            {
+                "bbox": [
+                    271,
+                    67,
+                    3998,
+                    97
+                ],
+                "poly": [
+                    [
+                        271,
+                        132
+                    ],
+                    [
+                        273,
+                        163
+                    ],
+                    [
+                        441,
+                        157
+                    ],
+                    [
+                        637,
+                        150
+                    ],
+                    [
+                        891,
+                        136
+                    ],
+                    [
+                        1183,
+                        138
+                    ],
+                    [
+                        1315,
+                        139
+                    ],
+                    [
+                        1437,
+                        139
+                    ],
+                    [
+                        1724,
+                        123
+                    ],
+                    [
+                        1931,
+                        127
+                    ],
+                    [
+                        2156,
+                        121
+                    ],
+                    [
+                        2305,
+                        120
+                    ],
+                    [
+                        2522,
+                        121
+                    ],
+                    [
+                        2732,
+                        121
+                    ],
+                    [
+                        2858,
+                        121
+                    ],
+                    [
+                        3279,
+                        109
+                    ],
+                    [
+                        3557,
+                        112
+                    ],
+                    [
+                        3864,
+                        106
+                    ],
+                    [
+                        4127,
+                        100
+                    ],
+                    [
+                        4263,
+                        105
+                    ],
+                    [
+                        4268,
+                        73
+                    ],
+                    [
+                        3968,
+                        67
+                    ],
+                    [
+                        3636,
+                        70
+                    ],
+                    [
+                        3108,
+                        84
+                    ],
+                    [
+                        2042,
+                        90
+                    ],
+                    [
+                        1715,
+                        91
+                    ],
+                    [
+                        1068,
+                        105
+                    ],
+                    [
+                        798,
+                        111
+                    ],
+                    [
+                        277,
+                        132
+                    ]
+                ],
+                "area": 605510.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            274,
+            136,
+            1002,
+            57
+        ],
+        "components": [
+            {
+                "bbox": [
+                    274,
+                    136,
+                    1002,
+                    57
+                ],
+                "poly": [
+                    [
+                        274,
+                        171
+                    ],
+                    [
+                        274,
+                        190
+                    ],
+                    [
+                        369,
+                        192
+                    ],
+                    [
+                        619,
+                        189
+                    ],
+                    [
+                        838,
+                        180
+                    ],
+                    [
+                        1114,
+                        166
+                    ],
+                    [
+                        1275,
+                        175
+                    ],
+                    [
+                        1275,
+                        147
+                    ],
+                    [
+                        1174,
+                        136
+                    ],
+                    [
+                        945,
+                        141
+                    ],
+                    [
+                        763,
+                        141
+                    ],
+                    [
+                        426,
+                        163
+                    ]
+                ],
+                "area": 194287.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            261,
+            178,
+            1001,
+            55
+        ],
+        "components": [
+            {
+                "bbox": [
+                    261,
+                    178,
+                    1001,
+                    55
+                ],
+                "poly": [
+                    [
+                        1261,
+                        193
+                    ],
+                    [
+                        1252,
+                        210
+                    ],
+                    [
+                        966,
+                        219
+                    ],
+                    [
+                        739,
+                        219
+                    ],
+                    [
+                        486,
+                        219
+                    ],
+                    [
+                        267,
+                        232
+                    ],
+                    [
+                        261,
+                        195
+                    ],
+                    [
+                        441,
+                        190
+                    ],
+                    [
+                        628,
+                        184
+                    ],
+                    [
+                        805,
+                        184
+                    ],
+                    [
+                        984,
+                        183
+                    ],
+                    [
+                        1116,
+                        178
+                    ],
+                    [
+                        1213,
+                        178
+                    ],
+                    [
+                        1248,
+                        180
+                    ]
+                ],
+                "area": 233654.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            255,
+            211,
+            1025,
+            55
+        ],
+        "components": [
+            {
+                "bbox": [
+                    255,
+                    211,
+                    1025,
+                    55
+                ],
+                "poly": [
+                    [
+                        255,
+                        234
+                    ],
+                    [
+                        256,
+                        265
+                    ],
+                    [
+                        348,
+                        264
+                    ],
+                    [
+                        493,
+                        264
+                    ],
+                    [
+                        624,
+                        261
+                    ],
+                    [
+                        816,
+                        261
+                    ],
+                    [
+                        1003,
+                        252
+                    ],
+                    [
+                        1164,
+                        246
+                    ],
+                    [
+                        1266,
+                        246
+                    ],
+                    [
+                        1279,
+                        246
+                    ],
+                    [
+                        1267,
+                        211
+                    ],
+                    [
+                        1098,
+                        220
+                    ],
+                    [
+                        771,
+                        223
+                    ],
+                    [
+                        450,
+                        225
+                    ],
+                    [
+                        393,
+                        228
+                    ]
+                ],
+                "area": 286512.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1420,
+            111,
+            1779,
+            59
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1420,
+                    111,
+                    1779,
+                    59
+                ],
+                "poly": [
+                    [
+                        1420,
+                        148
+                    ],
+                    [
+                        1438,
+                        168
+                    ],
+                    [
+                        1751,
+                        169
+                    ],
+                    [
+                        2012,
+                        159
+                    ],
+                    [
+                        2213,
+                        154
+                    ],
+                    [
+                        2428,
+                        160
+                    ],
+                    [
+                        2626,
+                        151
+                    ],
+                    [
+                        2696,
+                        153
+                    ],
+                    [
+                        2926,
+                        151
+                    ],
+                    [
+                        2923,
+                        153
+                    ],
+                    [
+                        3198,
+                        150
+                    ],
+                    [
+                        3194,
+                        111
+                    ],
+                    [
+                        2890,
+                        124
+                    ],
+                    [
+                        2315,
+                        127
+                    ],
+                    [
+                        2105,
+                        124
+                    ],
+                    [
+                        1594,
+                        132
+                    ],
+                    [
+                        1434,
+                        142
+                    ]
+                ],
+                "area": 391936.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1449,
+            147,
+            1707,
+            67
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1449,
+                    147,
+                    1707,
+                    67
+                ],
+                "poly": [
+                    [
+                        1449,
+                        175
+                    ],
+                    [
+                        1465,
+                        207
+                    ],
+                    [
+                        1534,
+                        213
+                    ],
+                    [
+                        1775,
+                        199
+                    ],
+                    [
+                        1988,
+                        187
+                    ],
+                    [
+                        2179,
+                        189
+                    ],
+                    [
+                        2401,
+                        192
+                    ],
+                    [
+                        2582,
+                        192
+                    ],
+                    [
+                        2660,
+                        187
+                    ],
+                    [
+                        3069,
+                        181
+                    ],
+                    [
+                        3144,
+                        186
+                    ],
+                    [
+                        3155,
+                        157
+                    ],
+                    [
+                        2962,
+                        154
+                    ],
+                    [
+                        2638,
+                        147
+                    ],
+                    [
+                        2360,
+                        162
+                    ],
+                    [
+                        2099,
+                        159
+                    ],
+                    [
+                        1865,
+                        162
+                    ],
+                    [
+                        1588,
+                        174
+                    ],
+                    [
+                        1453,
+                        177
+                    ]
+                ],
+                "area": 404818.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1419,
+            187,
+            1750,
+            60
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1419,
+                    187,
+                    1750,
+                    60
+                ],
+                "poly": [
+                    [
+                        1419,
+                        210
+                    ],
+                    [
+                        1425,
+                        246
+                    ],
+                    [
+                        1544,
+                        246
+                    ],
+                    [
+                        1909,
+                        232
+                    ],
+                    [
+                        2233,
+                        229
+                    ],
+                    [
+                        2584,
+                        225
+                    ],
+                    [
+                        2818,
+                        220
+                    ],
+                    [
+                        2971,
+                        228
+                    ],
+                    [
+                        3021,
+                        219
+                    ],
+                    [
+                        3156,
+                        217
+                    ],
+                    [
+                        3168,
+                        199
+                    ],
+                    [
+                        3153,
+                        189
+                    ],
+                    [
+                        2959,
+                        189
+                    ],
+                    [
+                        2767,
+                        187
+                    ],
+                    [
+                        1772,
+                        196
+                    ],
+                    [
+                        1499,
+                        213
+                    ]
+                ],
+                "area": 486714.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            3350,
+            90,
+            947,
+            53
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3350,
+                    90,
+                    947,
+                    53
+                ],
+                "poly": [
+                    [
+                        3350,
+                        120
+                    ],
+                    [
+                        3360,
+                        142
+                    ],
+                    [
+                        3590,
+                        138
+                    ],
+                    [
+                        3863,
+                        136
+                    ],
+                    [
+                        4052,
+                        139
+                    ],
+                    [
+                        4289,
+                        132
+                    ],
+                    [
+                        4296,
+                        90
+                    ],
+                    [
+                        4077,
+                        109
+                    ],
+                    [
+                        3863,
+                        109
+                    ],
+                    [
+                        3531,
+                        115
+                    ],
+                    [
+                        3392,
+                        115
+                    ]
+                ],
+                "area": 320869.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            3360,
+            135,
+            942,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3360,
+                    135,
+                    942,
+                    47
+                ],
+                "poly": [
+                    [
+                        3365,
+                        157
+                    ],
+                    [
+                        3371,
+                        177
+                    ],
+                    [
+                        3503,
+                        174
+                    ],
+                    [
+                        3785,
+                        181
+                    ],
+                    [
+                        4113,
+                        166
+                    ],
+                    [
+                        4301,
+                        169
+                    ],
+                    [
+                        4301,
+                        135
+                    ],
+                    [
+                        3360,
+                        148
+                    ]
+                ],
+                "area": 309038.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            3332,
+            160,
+            965,
+            57
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3332,
+                    160,
+                    965,
+                    57
+                ],
+                "poly": [
+                    [
+                        3332,
+                        181
+                    ],
+                    [
+                        3347,
+                        216
+                    ],
+                    [
+                        3585,
+                        211
+                    ],
+                    [
+                        3833,
+                        208
+                    ],
+                    [
+                        4205,
+                        196
+                    ],
+                    [
+                        4296,
+                        195
+                    ],
+                    [
+                        4290,
+                        160
+                    ],
+                    [
+                        3614,
+                        180
+                    ],
+                    [
+                        3414,
+                        181
+                    ]
+                ],
+                "area": 394075.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_16",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            249,
+            198,
+            4008,
+            97
+        ],
+        "components": [
+            {
+                "bbox": [
+                    249,
+                    198,
+                    4008,
+                    97
+                ],
+                "poly": [
+                    [
+                        249,
+                        274
+                    ],
+                    [
+                        291,
+                        292
+                    ],
+                    [
+                        487,
+                        285
+                    ],
+                    [
+                        784,
+                        294
+                    ],
+                    [
+                        1266,
+                        283
+                    ],
+                    [
+                        1482,
+                        286
+                    ],
+                    [
+                        1882,
+                        261
+                    ],
+                    [
+                        2116,
+                        267
+                    ],
+                    [
+                        2374,
+                        268
+                    ],
+                    [
+                        2690,
+                        268
+                    ],
+                    [
+                        2863,
+                        255
+                    ],
+                    [
+                        3099,
+                        255
+                    ],
+                    [
+                        3396,
+                        253
+                    ],
+                    [
+                        3512,
+                        243
+                    ],
+                    [
+                        3846,
+                        228
+                    ],
+                    [
+                        4187,
+                        225
+                    ],
+                    [
+                        4253,
+                        225
+                    ],
+                    [
+                        4256,
+                        198
+                    ],
+                    [
+                        3317,
+                        220
+                    ],
+                    [
+                        2843,
+                        225
+                    ],
+                    [
+                        1916,
+                        234
+                    ],
+                    [
+                        1018,
+                        253
+                    ],
+                    [
+                        256,
+                        270
+                    ],
+                    [
+                        255,
+                        270
+                    ]
+                ],
+                "area": 1220633.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_17",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            244,
+            213,
+            4070,
+            116
+        ],
+        "components": [
+            {
+                "bbox": [
+                    244,
+                    213,
+                    4070,
+                    116
+                ],
+                "poly": [
+                    [
+                        244,
+                        292
+                    ],
+                    [
+                        244,
+                        321
+                    ],
+                    [
+                        387,
+                        327
+                    ],
+                    [
+                        652,
+                        327
+                    ],
+                    [
+                        913,
+                        322
+                    ],
+                    [
+                        1180,
+                        328
+                    ],
+                    [
+                        1493,
+                        327
+                    ],
+                    [
+                        1547,
+                        318
+                    ],
+                    [
+                        2218,
+                        301
+                    ],
+                    [
+                        2536,
+                        301
+                    ],
+                    [
+                        2869,
+                        303
+                    ],
+                    [
+                        3158,
+                        294
+                    ],
+                    [
+                        3234,
+                        294
+                    ],
+                    [
+                        3813,
+                        267
+                    ],
+                    [
+                        4097,
+                        259
+                    ],
+                    [
+                        4313,
+                        250
+                    ],
+                    [
+                        4308,
+                        213
+                    ],
+                    [
+                        4280,
+                        213
+                    ],
+                    [
+                        3543,
+                        252
+                    ],
+                    [
+                        3161,
+                        261
+                    ],
+                    [
+                        1835,
+                        268
+                    ],
+                    [
+                        1504,
+                        282
+                    ],
+                    [
+                        789,
+                        288
+                    ],
+                    [
+                        489,
+                        294
+                    ]
+                ],
+                "area": 1468495.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_18",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1,
+            1,
+            4449,
+            336
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1,
+                    1,
+                    4449,
+                    336
+                ],
+                "poly": [
+                    [
+                        60,
+                        75
+                    ],
+                    [
+                        51,
+                        66
+                    ],
+                    [
+                        18,
+                        70
+                    ],
+                    [
+                        3,
+                        81
+                    ],
+                    [
+                        9,
+                        94
+                    ],
+                    [
+                        1,
+                        111
+                    ],
+                    [
+                        1,
+                        336
+                    ],
+                    [
+                        1455,
+                        336
+                    ],
+                    [
+                        2185,
+                        336
+                    ],
+                    [
+                        2185,
+                        318
+                    ],
+                    [
+                        3326,
+                        312
+                    ],
+                    [
+                        3618,
+                        315
+                    ],
+                    [
+                        3915,
+                        292
+                    ],
+                    [
+                        4211,
+                        273
+                    ],
+                    [
+                        4448,
+                        261
+                    ],
+                    [
+                        4449,
+                        1
+                    ],
+                    [
+                        3653,
+                        3
+                    ],
+                    [
+                        2183,
+                        3
+                    ],
+                    [
+                        2183,
+                        13
+                    ],
+                    [
+                        2137,
+                        13
+                    ],
+                    [
+                        1198,
+                        15
+                    ],
+                    [
+                        894,
+                        19
+                    ],
+                    [
+                        519,
+                        28
+                    ],
+                    [
+                        304,
+                        34
+                    ],
+                    [
+                        198,
+                        42
+                    ],
+                    [
+                        175,
+                        42
+                    ],
+                    [
+                        162,
+                        54
+                    ],
+                    [
+                        138,
+                        64
+                    ],
+                    [
+                        136,
+                        66
+                    ],
+                    [
+                        141,
+                        75
+                    ],
+                    [
+                        141,
+                        88
+                    ],
+                    [
+                        120,
+                        82
+                    ],
+                    [
+                        99,
+                        88
+                    ],
+                    [
+                        88,
+                        82
+                    ],
+                    [
+                        72,
+                        79
+                    ],
+                    [
+                        70,
+                        78
+                    ],
+                    [
+                        70,
+                        79
+                    ]
+                ],
+                "area": 1476513.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1_19",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/ANINGYA%20VYAKHYA/SVUORI/4378/13.jpg-1",
+        "bbox": [
+            1,
+            297,
+            226,
+            25
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1,
+                    297,
+                    226,
+                    25
+                ],
+                "poly": [
+                    [
+                        13,
+                        297
+                    ],
+                    [
+                        31,
+                        298
+                    ],
+                    [
+                        73,
+                        300
+                    ],
+                    [
+                        126,
+                        300
+                    ],
+                    [
+                        192,
+                        307
+                    ],
+                    [
+                        219,
+                        312
+                    ],
+                    [
+                        226,
+                        316
+                    ],
+                    [
+                        187,
+                        319
+                    ],
+                    [
+                        132,
+                        319
+                    ],
+                    [
+                        69,
+                        316
+                    ],
+                    [
+                        10,
+                        321
+                    ],
+                    [
+                        3,
+                        321
+                    ],
+                    [
+                        1,
+                        298
+                    ],
+                    [
+                        12,
+                        298
+                    ],
+                    [
+                        13,
+                        298
+                    ]
+                ],
+                "area": 68444.0
+            }
+        ],
+        "split": "train"
+    }
+]

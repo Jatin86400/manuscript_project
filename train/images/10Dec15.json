@@ -1,0 +1,1274 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            2250,
+            112,
+            47,
+            44
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2250,
+                    112,
+                    47,
+                    44
+                ],
+                "poly": [
+                    [
+                        2262,
+                        115
+                    ],
+                    [
+                        2281,
+                        112
+                    ],
+                    [
+                        2296,
+                        125
+                    ],
+                    [
+                        2296,
+                        136
+                    ],
+                    [
+                        2287,
+                        155
+                    ],
+                    [
+                        2274,
+                        155
+                    ],
+                    [
+                        2254,
+                        154
+                    ],
+                    [
+                        2250,
+                        134
+                    ],
+                    [
+                        2256,
+                        112
+                    ],
+                    [
+                        2258,
+                        112
+                    ]
+                ],
+                "area": 105603.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            871,
+            103,
+            48,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    871,
+                    103,
+                    48,
+                    47
+                ],
+                "poly": [
+                    [
+                        878,
+                        103
+                    ],
+                    [
+                        906,
+                        103
+                    ],
+                    [
+                        918,
+                        118
+                    ],
+                    [
+                        916,
+                        136
+                    ],
+                    [
+                        908,
+                        143
+                    ],
+                    [
+                        892,
+                        149
+                    ],
+                    [
+                        875,
+                        144
+                    ],
+                    [
+                        871,
+                        129
+                    ]
+                ],
+                "area": 42629.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Library Marker",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            3086,
+            121,
+            50,
+            63
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3086,
+                    121,
+                    50,
+                    63
+                ],
+                "poly": [
+                    [
+                        3093,
+                        149
+                    ],
+                    [
+                        3116,
+                        121
+                    ],
+                    [
+                        3135,
+                        152
+                    ],
+                    [
+                        3119,
+                        174
+                    ],
+                    [
+                        3103,
+                        183
+                    ],
+                    [
+                        3086,
+                        158
+                    ]
+                ],
+                "area": 194964.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            3094,
+            65,
+            93,
+            48
+        ],
+        "components": [
+            {
+                "bbox": [
+                    3094,
+                    65,
+                    93,
+                    48
+                ],
+                "poly": [
+                    [
+                        3094,
+                        65
+                    ],
+                    [
+                        3186,
+                        75
+                    ],
+                    [
+                        3171,
+                        112
+                    ],
+                    [
+                        3101,
+                        104
+                    ],
+                    [
+                        3100,
+                        104
+                    ]
+                ],
+                "area": 140937.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            99,
+            21,
+            2964,
+            73
+        ],
+        "components": [
+            {
+                "bbox": [
+                    99,
+                    21,
+                    2964,
+                    73
+                ],
+                "poly": [
+                    [
+                        106,
+                        29
+                    ],
+                    [
+                        412,
+                        21
+                    ],
+                    [
+                        798,
+                        24
+                    ],
+                    [
+                        1106,
+                        28
+                    ],
+                    [
+                        1396,
+                        29
+                    ],
+                    [
+                        1918,
+                        36
+                    ],
+                    [
+                        2500,
+                        43
+                    ],
+                    [
+                        2927,
+                        48
+                    ],
+                    [
+                        3062,
+                        56
+                    ],
+                    [
+                        3043,
+                        86
+                    ],
+                    [
+                        2884,
+                        93
+                    ],
+                    [
+                        2825,
+                        92
+                    ],
+                    [
+                        2831,
+                        81
+                    ],
+                    [
+                        2612,
+                        80
+                    ],
+                    [
+                        2255,
+                        76
+                    ],
+                    [
+                        1667,
+                        67
+                    ],
+                    [
+                        1260,
+                        71
+                    ],
+                    [
+                        1195,
+                        68
+                    ],
+                    [
+                        1116,
+                        68
+                    ],
+                    [
+                        657,
+                        60
+                    ],
+                    [
+                        499,
+                        55
+                    ],
+                    [
+                        148,
+                        66
+                    ],
+                    [
+                        99,
+                        66
+                    ]
+                ],
+                "area": 191906.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            161,
+            60,
+            2916,
+            76
+        ],
+        "components": [
+            {
+                "bbox": [
+                    161,
+                    60,
+                    2916,
+                    76
+                ],
+                "poly": [
+                    [
+                        184,
+                        78
+                    ],
+                    [
+                        313,
+                        65
+                    ],
+                    [
+                        462,
+                        60
+                    ],
+                    [
+                        739,
+                        65
+                    ],
+                    [
+                        952,
+                        70
+                    ],
+                    [
+                        1347,
+                        75
+                    ],
+                    [
+                        1722,
+                        69
+                    ],
+                    [
+                        2002,
+                        77
+                    ],
+                    [
+                        2409,
+                        84
+                    ],
+                    [
+                        2919,
+                        97
+                    ],
+                    [
+                        3067,
+                        92
+                    ],
+                    [
+                        3076,
+                        123
+                    ],
+                    [
+                        3069,
+                        135
+                    ],
+                    [
+                        2945,
+                        123
+                    ],
+                    [
+                        2902,
+                        129
+                    ],
+                    [
+                        2704,
+                        123
+                    ],
+                    [
+                        2432,
+                        117
+                    ],
+                    [
+                        2191,
+                        114
+                    ],
+                    [
+                        1844,
+                        118
+                    ],
+                    [
+                        1729,
+                        112
+                    ],
+                    [
+                        1217,
+                        109
+                    ],
+                    [
+                        969,
+                        101
+                    ],
+                    [
+                        575,
+                        97
+                    ],
+                    [
+                        161,
+                        102
+                    ]
+                ],
+                "area": 298689.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            24,
+            106,
+            135,
+            48
+        ],
+        "components": [
+            {
+                "bbox": [
+                    24,
+                    106,
+                    135,
+                    48
+                ],
+                "poly": [
+                    [
+                        30,
+                        110
+                    ],
+                    [
+                        154,
+                        106
+                    ],
+                    [
+                        158,
+                        136
+                    ],
+                    [
+                        156,
+                        145
+                    ],
+                    [
+                        40,
+                        153
+                    ],
+                    [
+                        24,
+                        145
+                    ]
+                ],
+                "area": 20778.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            172,
+            103,
+            2904,
+            63
+        ],
+        "components": [
+            {
+                "bbox": [
+                    172,
+                    103,
+                    2904,
+                    63
+                ],
+                "poly": [
+                    [
+                        172,
+                        111
+                    ],
+                    [
+                        329,
+                        105
+                    ],
+                    [
+                        573,
+                        107
+                    ],
+                    [
+                        776,
+                        103
+                    ],
+                    [
+                        849,
+                        106
+                    ],
+                    [
+                        1167,
+                        113
+                    ],
+                    [
+                        1530,
+                        116
+                    ],
+                    [
+                        1624,
+                        116
+                    ],
+                    [
+                        1859,
+                        120
+                    ],
+                    [
+                        2229,
+                        120
+                    ],
+                    [
+                        2618,
+                        124
+                    ],
+                    [
+                        2836,
+                        131
+                    ],
+                    [
+                        2938,
+                        130
+                    ],
+                    [
+                        3063,
+                        137
+                    ],
+                    [
+                        3075,
+                        154
+                    ],
+                    [
+                        3073,
+                        163
+                    ],
+                    [
+                        2972,
+                        165
+                    ],
+                    [
+                        2732,
+                        165
+                    ],
+                    [
+                        2363,
+                        149
+                    ],
+                    [
+                        2188,
+                        150
+                    ],
+                    [
+                        1893,
+                        155
+                    ],
+                    [
+                        1665,
+                        149
+                    ],
+                    [
+                        1371,
+                        148
+                    ],
+                    [
+                        992,
+                        147
+                    ],
+                    [
+                        666,
+                        137
+                    ],
+                    [
+                        489,
+                        149
+                    ],
+                    [
+                        336,
+                        140
+                    ],
+                    [
+                        174,
+                        139
+                    ]
+                ],
+                "area": 379400.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            157,
+            141,
+            2931,
+            58
+        ],
+        "components": [
+            {
+                "bbox": [
+                    157,
+                    141,
+                    2931,
+                    58
+                ],
+                "poly": [
+                    [
+                        166,
+                        142
+                    ],
+                    [
+                        328,
+                        146
+                    ],
+                    [
+                        464,
+                        150
+                    ],
+                    [
+                        542,
+                        155
+                    ],
+                    [
+                        723,
+                        141
+                    ],
+                    [
+                        930,
+                        149
+                    ],
+                    [
+                        1107,
+                        153
+                    ],
+                    [
+                        1539,
+                        154
+                    ],
+                    [
+                        1949,
+                        159
+                    ],
+                    [
+                        2213,
+                        153
+                    ],
+                    [
+                        2368,
+                        153
+                    ],
+                    [
+                        2558,
+                        162
+                    ],
+                    [
+                        2730,
+                        168
+                    ],
+                    [
+                        2857,
+                        167
+                    ],
+                    [
+                        3051,
+                        168
+                    ],
+                    [
+                        3087,
+                        168
+                    ],
+                    [
+                        3084,
+                        194
+                    ],
+                    [
+                        3016,
+                        196
+                    ],
+                    [
+                        2780,
+                        198
+                    ],
+                    [
+                        2521,
+                        191
+                    ],
+                    [
+                        2361,
+                        189
+                    ],
+                    [
+                        2138,
+                        187
+                    ],
+                    [
+                        1928,
+                        192
+                    ],
+                    [
+                        1581,
+                        190
+                    ],
+                    [
+                        1179,
+                        190
+                    ],
+                    [
+                        851,
+                        180
+                    ],
+                    [
+                        739,
+                        185
+                    ],
+                    [
+                        730,
+                        185
+                    ],
+                    [
+                        718,
+                        184
+                    ],
+                    [
+                        714,
+                        179
+                    ],
+                    [
+                        620,
+                        188
+                    ],
+                    [
+                        603,
+                        195
+                    ],
+                    [
+                        575,
+                        191
+                    ],
+                    [
+                        573,
+                        187
+                    ],
+                    [
+                        409,
+                        179
+                    ],
+                    [
+                        401,
+                        187
+                    ],
+                    [
+                        388,
+                        191
+                    ],
+                    [
+                        369,
+                        186
+                    ],
+                    [
+                        363,
+                        180
+                    ],
+                    [
+                        162,
+                        188
+                    ],
+                    [
+                        158,
+                        179
+                    ],
+                    [
+                        157,
+                        179
+                    ]
+                ],
+                "area": 523852.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            167,
+            185,
+            2941,
+            52
+        ],
+        "components": [
+            {
+                "bbox": [
+                    167,
+                    185,
+                    2941,
+                    52
+                ],
+                "poly": [
+                    [
+                        167,
+                        195
+                    ],
+                    [
+                        326,
+                        188
+                    ],
+                    [
+                        362,
+                        186
+                    ],
+                    [
+                        388,
+                        192
+                    ],
+                    [
+                        415,
+                        185
+                    ],
+                    [
+                        562,
+                        192
+                    ],
+                    [
+                        627,
+                        195
+                    ],
+                    [
+                        705,
+                        185
+                    ],
+                    [
+                        742,
+                        190
+                    ],
+                    [
+                        951,
+                        186
+                    ],
+                    [
+                        1179,
+                        197
+                    ],
+                    [
+                        1337,
+                        193
+                    ],
+                    [
+                        1547,
+                        195
+                    ],
+                    [
+                        1881,
+                        198
+                    ],
+                    [
+                        2010,
+                        195
+                    ],
+                    [
+                        2198,
+                        192
+                    ],
+                    [
+                        2388,
+                        194
+                    ],
+                    [
+                        2537,
+                        195
+                    ],
+                    [
+                        2693,
+                        202
+                    ],
+                    [
+                        2838,
+                        202
+                    ],
+                    [
+                        3032,
+                        199
+                    ],
+                    [
+                        3107,
+                        201
+                    ],
+                    [
+                        3088,
+                        226
+                    ],
+                    [
+                        3049,
+                        234
+                    ],
+                    [
+                        2908,
+                        228
+                    ],
+                    [
+                        2709,
+                        235
+                    ],
+                    [
+                        2432,
+                        234
+                    ],
+                    [
+                        2052,
+                        230
+                    ],
+                    [
+                        1886,
+                        236
+                    ],
+                    [
+                        1658,
+                        229
+                    ],
+                    [
+                        1399,
+                        223
+                    ],
+                    [
+                        1209,
+                        224
+                    ],
+                    [
+                        1021,
+                        227
+                    ],
+                    [
+                        752,
+                        228
+                    ],
+                    [
+                        576,
+                        219
+                    ],
+                    [
+                        206,
+                        220
+                    ],
+                    [
+                        190,
+                        220
+                    ],
+                    [
+                        168,
+                        220
+                    ]
+                ],
+                "area": 653111.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            1084,
+            226,
+            279,
+            17
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1084,
+                    226,
+                    279,
+                    17
+                ],
+                "poly": [
+                    [
+                        1084,
+                        229
+                    ],
+                    [
+                        1134,
+                        226
+                    ],
+                    [
+                        1276,
+                        227
+                    ],
+                    [
+                        1362,
+                        227
+                    ],
+                    [
+                        1354,
+                        236
+                    ],
+                    [
+                        1340,
+                        240
+                    ],
+                    [
+                        1103,
+                        242
+                    ],
+                    [
+                        1091,
+                        242
+                    ],
+                    [
+                        1090,
+                        241
+                    ]
+                ],
+                "area": 81461.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            154,
+            57,
+            46,
+            32
+        ],
+        "components": [
+            {
+                "bbox": [
+                    154,
+                    57,
+                    46,
+                    32
+                ],
+                "poly": [
+                    [
+                        159,
+                        72
+                    ],
+                    [
+                        168,
+                        75
+                    ],
+                    [
+                        175,
+                        79
+                    ],
+                    [
+                        181,
+                        86
+                    ],
+                    [
+                        196,
+                        88
+                    ],
+                    [
+                        199,
+                        81
+                    ],
+                    [
+                        185,
+                        75
+                    ],
+                    [
+                        182,
+                        62
+                    ],
+                    [
+                        173,
+                        57
+                    ],
+                    [
+                        154,
+                        58
+                    ]
+                ],
+                "area": 4673.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            1959,
+            177,
+            74,
+            27
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1959,
+                    177,
+                    74,
+                    27
+                ],
+                "poly": [
+                    [
+                        1963,
+                        200
+                    ],
+                    [
+                        1981,
+                        203
+                    ],
+                    [
+                        1998,
+                        195
+                    ],
+                    [
+                        2012,
+                        194
+                    ],
+                    [
+                        2032,
+                        189
+                    ],
+                    [
+                        2031,
+                        180
+                    ],
+                    [
+                        2009,
+                        177
+                    ],
+                    [
+                        1990,
+                        182
+                    ],
+                    [
+                        1985,
+                        188
+                    ],
+                    [
+                        1965,
+                        188
+                    ],
+                    [
+                        1959,
+                        188
+                    ]
+                ],
+                "area": 57195.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg",
+        "label": "Character Component",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AVESHTANA%20PADANI/KUML/5512/1.jpg-1",
+        "bbox": [
+            213,
+            220,
+            92,
+            19
+        ],
+        "components": [
+            {
+                "bbox": [
+                    213,
+                    220,
+                    92,
+                    19
+                ],
+                "poly": [
+                    [
+                        215,
+                        236
+                    ],
+                    [
+                        213,
+                        222
+                    ],
+                    [
+                        282,
+                        220
+                    ],
+                    [
+                        304,
+                        224
+                    ],
+                    [
+                        302,
+                        238
+                    ],
+                    [
+                        221,
+                        238
+                    ],
+                    [
+                        220,
+                        238
+                    ]
+                ],
+                "area": 23482.0
+            }
+        ],
+        "split": "train"
+    }
+]

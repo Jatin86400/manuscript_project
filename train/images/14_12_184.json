@@ -1,0 +1,2418 @@
+[
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_1",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            903,
+            186,
+            67,
+            67
+        ],
+        "components": [
+            {
+                "bbox": [
+                    903,
+                    186,
+                    67,
+                    67
+                ],
+                "poly": [
+                    [
+                        912,
+                        191
+                    ],
+                    [
+                        903,
+                        219
+                    ],
+                    [
+                        907,
+                        232
+                    ],
+                    [
+                        918,
+                        248
+                    ],
+                    [
+                        936,
+                        252
+                    ],
+                    [
+                        949,
+                        252
+                    ],
+                    [
+                        964,
+                        235
+                    ],
+                    [
+                        969,
+                        208
+                    ],
+                    [
+                        960,
+                        191
+                    ],
+                    [
+                        934,
+                        186
+                    ]
+                ],
+                "area": 62395.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Hole(Physical)",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_2",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2293,
+            167,
+            64,
+            62
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2293,
+                    167,
+                    64,
+                    62
+                ],
+                "poly": [
+                    [
+                        2304,
+                        175
+                    ],
+                    [
+                        2293,
+                        195
+                    ],
+                    [
+                        2295,
+                        215
+                    ],
+                    [
+                        2317,
+                        228
+                    ],
+                    [
+                        2336,
+                        228
+                    ],
+                    [
+                        2350,
+                        215
+                    ],
+                    [
+                        2356,
+                        195
+                    ],
+                    [
+                        2352,
+                        180
+                    ],
+                    [
+                        2328,
+                        167
+                    ]
+                ],
+                "area": 144105.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_3",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2,
+            283,
+            161,
+            23
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2,
+                    283,
+                    161,
+                    23
+                ],
+                "poly": [
+                    [
+                        156,
+                        283
+                    ],
+                    [
+                        127,
+                        294
+                    ],
+                    [
+                        94,
+                        289
+                    ],
+                    [
+                        57,
+                        294
+                    ],
+                    [
+                        4,
+                        294
+                    ],
+                    [
+                        2,
+                        300
+                    ],
+                    [
+                        37,
+                        305
+                    ],
+                    [
+                        101,
+                        298
+                    ],
+                    [
+                        132,
+                        302
+                    ],
+                    [
+                        162,
+                        287
+                    ],
+                    [
+                        160,
+                        287
+                    ]
+                ],
+                "area": 48786.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_4",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            90,
+            22,
+            117,
+            54
+        ],
+        "components": [
+            {
+                "bbox": [
+                    90,
+                    22,
+                    117,
+                    54
+                ],
+                "poly": [
+                    [
+                        90,
+                        75
+                    ],
+                    [
+                        112,
+                        68
+                    ],
+                    [
+                        140,
+                        68
+                    ],
+                    [
+                        164,
+                        61
+                    ],
+                    [
+                        193,
+                        59
+                    ],
+                    [
+                        204,
+                        55
+                    ],
+                    [
+                        206,
+                        44
+                    ],
+                    [
+                        178,
+                        44
+                    ],
+                    [
+                        147,
+                        46
+                    ],
+                    [
+                        132,
+                        22
+                    ],
+                    [
+                        123,
+                        22
+                    ],
+                    [
+                        123,
+                        35
+                    ],
+                    [
+                        132,
+                        48
+                    ],
+                    [
+                        105,
+                        53
+                    ]
+                ],
+                "area": 13300.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_5",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1247,
+            348,
+            45,
+            61
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1247,
+                    348,
+                    45,
+                    61
+                ],
+                "poly": [
+                    [
+                        1291,
+                        405
+                    ],
+                    [
+                        1291,
+                        377
+                    ],
+                    [
+                        1280,
+                        362
+                    ],
+                    [
+                        1254,
+                        348
+                    ],
+                    [
+                        1247,
+                        359
+                    ],
+                    [
+                        1260,
+                        364
+                    ],
+                    [
+                        1273,
+                        379
+                    ],
+                    [
+                        1280,
+                        403
+                    ],
+                    [
+                        1282,
+                        408
+                    ]
+                ],
+                "area": 66425.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_6",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            936,
+            384,
+            238,
+            38
+        ],
+        "components": [
+            {
+                "bbox": [
+                    936,
+                    384,
+                    238,
+                    38
+                ],
+                "poly": [
+                    [
+                        942,
+                        421
+                    ],
+                    [
+                        971,
+                        419
+                    ],
+                    [
+                        1010,
+                        421
+                    ],
+                    [
+                        1045,
+                        419
+                    ],
+                    [
+                        1100,
+                        416
+                    ],
+                    [
+                        1120,
+                        414
+                    ],
+                    [
+                        1122,
+                        403
+                    ],
+                    [
+                        1133,
+                        392
+                    ],
+                    [
+                        1138,
+                        412
+                    ],
+                    [
+                        1164,
+                        419
+                    ],
+                    [
+                        1173,
+                        408
+                    ],
+                    [
+                        1148,
+                        405
+                    ],
+                    [
+                        1146,
+                        397
+                    ],
+                    [
+                        1124,
+                        384
+                    ],
+                    [
+                        1111,
+                        392
+                    ],
+                    [
+                        1085,
+                        405
+                    ],
+                    [
+                        1074,
+                        403
+                    ],
+                    [
+                        1070,
+                        401
+                    ],
+                    [
+                        1061,
+                        410
+                    ],
+                    [
+                        1050,
+                        403
+                    ],
+                    [
+                        1037,
+                        405
+                    ],
+                    [
+                        1008,
+                        412
+                    ],
+                    [
+                        1004,
+                        401
+                    ],
+                    [
+                        993,
+                        401
+                    ],
+                    [
+                        973,
+                        405
+                    ],
+                    [
+                        936,
+                        410
+                    ]
+                ],
+                "area": 155289.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_7",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            33,
+            107,
+            95,
+            69
+        ],
+        "components": [
+            {
+                "bbox": [
+                    33,
+                    107,
+                    95,
+                    69
+                ],
+                "poly": [
+                    [
+                        127,
+                        151
+                    ],
+                    [
+                        92,
+                        162
+                    ],
+                    [
+                        57,
+                        129
+                    ],
+                    [
+                        53,
+                        110
+                    ],
+                    [
+                        42,
+                        107
+                    ],
+                    [
+                        33,
+                        114
+                    ],
+                    [
+                        44,
+                        136
+                    ],
+                    [
+                        90,
+                        175
+                    ],
+                    [
+                        127,
+                        173
+                    ],
+                    [
+                        127,
+                        153
+                    ]
+                ],
+                "area": 13354.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_8",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1609,
+            395,
+            121,
+            25
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1609,
+                    395,
+                    121,
+                    25
+                ],
+                "poly": [
+                    [
+                        1609,
+                        403
+                    ],
+                    [
+                        1631,
+                        399
+                    ],
+                    [
+                        1664,
+                        419
+                    ],
+                    [
+                        1729,
+                        419
+                    ],
+                    [
+                        1712,
+                        405
+                    ],
+                    [
+                        1670,
+                        405
+                    ],
+                    [
+                        1635,
+                        395
+                    ],
+                    [
+                        1609,
+                        395
+                    ]
+                ],
+                "area": 60875.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_9",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1067,
+            243,
+            96,
+            74
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1067,
+                    243,
+                    96,
+                    74
+                ],
+                "poly": [
+                    [
+                        1153,
+                        305
+                    ],
+                    [
+                        1144,
+                        278
+                    ],
+                    [
+                        1072,
+                        259
+                    ],
+                    [
+                        1067,
+                        248
+                    ],
+                    [
+                        1111,
+                        243
+                    ],
+                    [
+                        1127,
+                        252
+                    ],
+                    [
+                        1159,
+                        281
+                    ],
+                    [
+                        1162,
+                        311
+                    ],
+                    [
+                        1153,
+                        316
+                    ]
+                ],
+                "area": 71399.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Physical Degradation",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_10",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            289,
+            20,
+            100,
+            23
+        ],
+        "components": [
+            {
+                "bbox": [
+                    289,
+                    20,
+                    100,
+                    23
+                ],
+                "poly": [
+                    [
+                        289,
+                        42
+                    ],
+                    [
+                        370,
+                        39
+                    ],
+                    [
+                        388,
+                        28
+                    ],
+                    [
+                        388,
+                        20
+                    ],
+                    [
+                        366,
+                        31
+                    ],
+                    [
+                        289,
+                        33
+                    ]
+                ],
+                "area": 11286.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_11",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            213,
+            2,
+            2913,
+            80
+        ],
+        "components": [
+            {
+                "bbox": [
+                    213,
+                    2,
+                    2913,
+                    80
+                ],
+                "poly": [
+                    [
+                        213,
+                        24
+                    ],
+                    [
+                        215,
+                        59
+                    ],
+                    [
+                        732,
+                        57
+                    ],
+                    [
+                        1015,
+                        59
+                    ],
+                    [
+                        1817,
+                        66
+                    ],
+                    [
+                        2128,
+                        68
+                    ],
+                    [
+                        2354,
+                        68
+                    ],
+                    [
+                        2567,
+                        70
+                    ],
+                    [
+                        2711,
+                        68
+                    ],
+                    [
+                        2805,
+                        68
+                    ],
+                    [
+                        2895,
+                        70
+                    ],
+                    [
+                        3046,
+                        79
+                    ],
+                    [
+                        3125,
+                        81
+                    ],
+                    [
+                        3121,
+                        37
+                    ],
+                    [
+                        2954,
+                        35
+                    ],
+                    [
+                        2135,
+                        35
+                    ],
+                    [
+                        1894,
+                        28
+                    ],
+                    [
+                        1861,
+                        2
+                    ],
+                    [
+                        1821,
+                        13
+                    ],
+                    [
+                        1795,
+                        18
+                    ],
+                    [
+                        1574,
+                        20
+                    ],
+                    [
+                        1144,
+                        20
+                    ],
+                    [
+                        761,
+                        18
+                    ],
+                    [
+                        213,
+                        26
+                    ]
+                ],
+                "area": 230826.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_12",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            202,
+            55,
+            2935,
+            62
+        ],
+        "components": [
+            {
+                "bbox": [
+                    202,
+                    55,
+                    2935,
+                    62
+                ],
+                "poly": [
+                    [
+                        202,
+                        77
+                    ],
+                    [
+                        208,
+                        110
+                    ],
+                    [
+                        498,
+                        99
+                    ],
+                    [
+                        544,
+                        107
+                    ],
+                    [
+                        675,
+                        103
+                    ],
+                    [
+                        778,
+                        92
+                    ],
+                    [
+                        888,
+                        94
+                    ],
+                    [
+                        1041,
+                        94
+                    ],
+                    [
+                        1234,
+                        90
+                    ],
+                    [
+                        1444,
+                        96
+                    ],
+                    [
+                        1624,
+                        103
+                    ],
+                    [
+                        1742,
+                        103
+                    ],
+                    [
+                        1859,
+                        103
+                    ],
+                    [
+                        1979,
+                        101
+                    ],
+                    [
+                        2097,
+                        107
+                    ],
+                    [
+                        2194,
+                        110
+                    ],
+                    [
+                        2380,
+                        112
+                    ],
+                    [
+                        2501,
+                        105
+                    ],
+                    [
+                        2608,
+                        112
+                    ],
+                    [
+                        2854,
+                        112
+                    ],
+                    [
+                        2889,
+                        116
+                    ],
+                    [
+                        2974,
+                        112
+                    ],
+                    [
+                        3136,
+                        114
+                    ],
+                    [
+                        3125,
+                        77
+                    ],
+                    [
+                        2891,
+                        72
+                    ],
+                    [
+                        2711,
+                        70
+                    ],
+                    [
+                        2415,
+                        72
+                    ],
+                    [
+                        2150,
+                        72
+                    ],
+                    [
+                        1791,
+                        66
+                    ],
+                    [
+                        1433,
+                        66
+                    ],
+                    [
+                        1173,
+                        61
+                    ],
+                    [
+                        936,
+                        55
+                    ],
+                    [
+                        688,
+                        61
+                    ],
+                    [
+                        267,
+                        64
+                    ],
+                    [
+                        202,
+                        64
+                    ]
+                ],
+                "area": 291044.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_13",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            197,
+            94,
+            2110,
+            65
+        ],
+        "components": [
+            {
+                "bbox": [
+                    197,
+                    94,
+                    2110,
+                    65
+                ],
+                "poly": [
+                    [
+                        197,
+                        118
+                    ],
+                    [
+                        202,
+                        153
+                    ],
+                    [
+                        289,
+                        145
+                    ],
+                    [
+                        333,
+                        151
+                    ],
+                    [
+                        515,
+                        140
+                    ],
+                    [
+                        750,
+                        136
+                    ],
+                    [
+                        780,
+                        145
+                    ],
+                    [
+                        815,
+                        145
+                    ],
+                    [
+                        927,
+                        132
+                    ],
+                    [
+                        1081,
+                        132
+                    ],
+                    [
+                        1422,
+                        129
+                    ],
+                    [
+                        1749,
+                        134
+                    ],
+                    [
+                        1769,
+                        134
+                    ],
+                    [
+                        1791,
+                        149
+                    ],
+                    [
+                        1819,
+                        149
+                    ],
+                    [
+                        1843,
+                        136
+                    ],
+                    [
+                        1990,
+                        145
+                    ],
+                    [
+                        2058,
+                        147
+                    ],
+                    [
+                        2117,
+                        142
+                    ],
+                    [
+                        2148,
+                        158
+                    ],
+                    [
+                        2179,
+                        151
+                    ],
+                    [
+                        2227,
+                        153
+                    ],
+                    [
+                        2284,
+                        151
+                    ],
+                    [
+                        2306,
+                        114
+                    ],
+                    [
+                        2275,
+                        114
+                    ],
+                    [
+                        1964,
+                        105
+                    ],
+                    [
+                        1464,
+                        103
+                    ],
+                    [
+                        807,
+                        94
+                    ],
+                    [
+                        438,
+                        105
+                    ]
+                ],
+                "area": 332785.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_14",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2402,
+            107,
+            702,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2402,
+                    107,
+                    702,
+                    47
+                ],
+                "poly": [
+                    [
+                        2404,
+                        123
+                    ],
+                    [
+                        2402,
+                        151
+                    ],
+                    [
+                        2575,
+                        147
+                    ],
+                    [
+                        2794,
+                        153
+                    ],
+                    [
+                        3009,
+                        153
+                    ],
+                    [
+                        3103,
+                        153
+                    ],
+                    [
+                        3103,
+                        114
+                    ],
+                    [
+                        2724,
+                        110
+                    ],
+                    [
+                        2492,
+                        107
+                    ],
+                    [
+                        2415,
+                        107
+                    ]
+                ],
+                "area": 192262.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_15",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            202,
+            140,
+            665,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    202,
+                    140,
+                    665,
+                    47
+                ],
+                "poly": [
+                    [
+                        206,
+                        184
+                    ],
+                    [
+                        412,
+                        182
+                    ],
+                    [
+                        677,
+                        178
+                    ],
+                    [
+                        861,
+                        186
+                    ],
+                    [
+                        866,
+                        180
+                    ],
+                    [
+                        864,
+                        140
+                    ],
+                    [
+                        202,
+                        153
+                    ],
+                    [
+                        206,
+                        184
+                    ]
+                ],
+                "area": 132734.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_16",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1015,
+            132,
+            1211,
+            51
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1015,
+                    132,
+                    1211,
+                    51
+                ],
+                "poly": [
+                    [
+                        1021,
+                        134
+                    ],
+                    [
+                        1015,
+                        169
+                    ],
+                    [
+                        1232,
+                        180
+                    ],
+                    [
+                        1521,
+                        175
+                    ],
+                    [
+                        1604,
+                        175
+                    ],
+                    [
+                        1745,
+                        175
+                    ],
+                    [
+                        1918,
+                        182
+                    ],
+                    [
+                        2100,
+                        180
+                    ],
+                    [
+                        2218,
+                        180
+                    ],
+                    [
+                        2225,
+                        147
+                    ],
+                    [
+                        1984,
+                        140
+                    ],
+                    [
+                        1635,
+                        132
+                    ],
+                    [
+                        1271,
+                        138
+                    ],
+                    [
+                        1037,
+                        138
+                    ]
+                ],
+                "area": 227535.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_17",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2402,
+            153,
+            709,
+            50
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2402,
+                    153,
+                    709,
+                    50
+                ],
+                "poly": [
+                    [
+                        2404,
+                        164
+                    ],
+                    [
+                        2402,
+                        182
+                    ],
+                    [
+                        2446,
+                        195
+                    ],
+                    [
+                        2503,
+                        191
+                    ],
+                    [
+                        2571,
+                        191
+                    ],
+                    [
+                        2748,
+                        188
+                    ],
+                    [
+                        2891,
+                        191
+                    ],
+                    [
+                        2992,
+                        191
+                    ],
+                    [
+                        3084,
+                        197
+                    ],
+                    [
+                        3110,
+                        202
+                    ],
+                    [
+                        3108,
+                        164
+                    ],
+                    [
+                        2970,
+                        153
+                    ],
+                    [
+                        2799,
+                        153
+                    ],
+                    [
+                        2529,
+                        156
+                    ],
+                    [
+                        2402,
+                        158
+                    ]
+                ],
+                "area": 217501.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_18",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            195,
+            173,
+            628,
+            56
+        ],
+        "components": [
+            {
+                "bbox": [
+                    195,
+                    173,
+                    628,
+                    56
+                ],
+                "poly": [
+                    [
+                        204,
+                        226
+                    ],
+                    [
+                        822,
+                        224
+                    ],
+                    [
+                        818,
+                        173
+                    ],
+                    [
+                        195,
+                        195
+                    ],
+                    [
+                        206,
+                        228
+                    ]
+                ],
+                "area": 155605.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_19",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1013,
+            178,
+            1208,
+            44
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1013,
+                    178,
+                    1208,
+                    44
+                ],
+                "poly": [
+                    [
+                        1019,
+                        186
+                    ],
+                    [
+                        1013,
+                        217
+                    ],
+                    [
+                        1205,
+                        221
+                    ],
+                    [
+                        1506,
+                        215
+                    ],
+                    [
+                        1679,
+                        217
+                    ],
+                    [
+                        1953,
+                        219
+                    ],
+                    [
+                        2150,
+                        213
+                    ],
+                    [
+                        2220,
+                        206
+                    ],
+                    [
+                        2218,
+                        182
+                    ],
+                    [
+                        1607,
+                        178
+                    ],
+                    [
+                        1223,
+                        180
+                    ],
+                    [
+                        1013,
+                        184
+                    ]
+                ],
+                "area": 294775.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_20",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2400,
+            184,
+            698,
+            47
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2400,
+                    184,
+                    698,
+                    47
+                ],
+                "poly": [
+                    [
+                        2400,
+                        195
+                    ],
+                    [
+                        2400,
+                        215
+                    ],
+                    [
+                        2481,
+                        226
+                    ],
+                    [
+                        2591,
+                        228
+                    ],
+                    [
+                        2698,
+                        230
+                    ],
+                    [
+                        2803,
+                        226
+                    ],
+                    [
+                        2983,
+                        230
+                    ],
+                    [
+                        3097,
+                        230
+                    ],
+                    [
+                        3095,
+                        204
+                    ],
+                    [
+                        2773,
+                        184
+                    ],
+                    [
+                        2562,
+                        184
+                    ],
+                    [
+                        2402,
+                        193
+                    ]
+                ],
+                "area": 183544.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_21",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            2393,
+            221,
+            716,
+            50
+        ],
+        "components": [
+            {
+                "bbox": [
+                    2393,
+                    221,
+                    716,
+                    50
+                ],
+                "poly": [
+                    [
+                        2393,
+                        232
+                    ],
+                    [
+                        2393,
+                        250
+                    ],
+                    [
+                        2488,
+                        248
+                    ],
+                    [
+                        2597,
+                        254
+                    ],
+                    [
+                        2764,
+                        261
+                    ],
+                    [
+                        2911,
+                        261
+                    ],
+                    [
+                        3053,
+                        265
+                    ],
+                    [
+                        3106,
+                        270
+                    ],
+                    [
+                        3108,
+                        232
+                    ],
+                    [
+                        2753,
+                        226
+                    ],
+                    [
+                        2501,
+                        226
+                    ],
+                    [
+                        2402,
+                        221
+                    ]
+                ],
+                "area": 225235.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_22",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            199,
+            221,
+            600,
+            45
+        ],
+        "components": [
+            {
+                "bbox": [
+                    199,
+                    221,
+                    600,
+                    45
+                ],
+                "poly": [
+                    [
+                        199,
+                        252
+                    ],
+                    [
+                        451,
+                        265
+                    ],
+                    [
+                        651,
+                        256
+                    ],
+                    [
+                        798,
+                        263
+                    ],
+                    [
+                        798,
+                        232
+                    ],
+                    [
+                        642,
+                        226
+                    ],
+                    [
+                        436,
+                        221
+                    ],
+                    [
+                        199,
+                        221
+                    ]
+                ],
+                "area": 154542.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_23",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            1013,
+            213,
+            1188,
+            42
+        ],
+        "components": [
+            {
+                "bbox": [
+                    1013,
+                    213,
+                    1188,
+                    42
+                ],
+                "poly": [
+                    [
+                        1015,
+                        237
+                    ],
+                    [
+                        1030,
+                        254
+                    ],
+                    [
+                        1282,
+                        254
+                    ],
+                    [
+                        1495,
+                        254
+                    ],
+                    [
+                        1653,
+                        252
+                    ],
+                    [
+                        1830,
+                        248
+                    ],
+                    [
+                        1988,
+                        245
+                    ],
+                    [
+                        2119,
+                        245
+                    ],
+                    [
+                        2196,
+                        241
+                    ],
+                    [
+                        2200,
+                        217
+                    ],
+                    [
+                        1850,
+                        219
+                    ],
+                    [
+                        1589,
+                        215
+                    ],
+                    [
+                        1328,
+                        213
+                    ],
+                    [
+                        1013,
+                        221
+                    ]
+                ],
+                "area": 330228.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_24",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            202,
+            243,
+            2881,
+            54
+        ],
+        "components": [
+            {
+                "bbox": [
+                    202,
+                    243,
+                    2881,
+                    54
+                ],
+                "poly": [
+                    [
+                        202,
+                        263
+                    ],
+                    [
+                        204,
+                        283
+                    ],
+                    [
+                        344,
+                        289
+                    ],
+                    [
+                        594,
+                        294
+                    ],
+                    [
+                        859,
+                        289
+                    ],
+                    [
+                        1120,
+                        289
+                    ],
+                    [
+                        1370,
+                        291
+                    ],
+                    [
+                        1615,
+                        291
+                    ],
+                    [
+                        1870,
+                        291
+                    ],
+                    [
+                        2163,
+                        285
+                    ],
+                    [
+                        2402,
+                        283
+                    ],
+                    [
+                        2536,
+                        285
+                    ],
+                    [
+                        2814,
+                        289
+                    ],
+                    [
+                        2948,
+                        296
+                    ],
+                    [
+                        3082,
+                        296
+                    ],
+                    [
+                        3079,
+                        267
+                    ],
+                    [
+                        2716,
+                        263
+                    ],
+                    [
+                        2328,
+                        248
+                    ],
+                    [
+                        2095,
+                        243
+                    ],
+                    [
+                        1475,
+                        252
+                    ],
+                    [
+                        936,
+                        261
+                    ],
+                    [
+                        715,
+                        259
+                    ],
+                    [
+                        318,
+                        259
+                    ],
+                    [
+                        213,
+                        254
+                    ]
+                ],
+                "area": 801094.0
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_25",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            197,
+            285,
+            2883,
+            51
+        ],
+        "components": [
+            {
+                "bbox": [
+                    197,
+                    285,
+                    2883,
+                    51
+                ],
+                "poly": [
+                    [
+                        204,
+                        296
+                    ],
+                    [
+                        206,
+                        318
+                    ],
+                    [
+                        395,
+                        331
+                    ],
+                    [
+                        655,
+                        335
+                    ],
+                    [
+                        999,
+                        335
+                    ],
+                    [
+                        1306,
+                        324
+                    ],
+                    [
+                        1639,
+                        324
+                    ],
+                    [
+                        1905,
+                        324
+                    ],
+                    [
+                        2117,
+                        322
+                    ],
+                    [
+                        2788,
+                        324
+                    ],
+                    [
+                        3079,
+                        331
+                    ],
+                    [
+                        3068,
+                        294
+                    ],
+                    [
+                        2382,
+                        285
+                    ],
+                    [
+                        1644,
+                        287
+                    ],
+                    [
+                        995,
+                        294
+                    ],
+                    [
+                        664,
+                        296
+                    ],
+                    [
+                        377,
+                        287
+                    ],
+                    [
+                        197,
+                        285
+                    ]
+                ],
+                "area": 927310.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_26",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            199,
+            320,
+            2873,
+            58
+        ],
+        "components": [
+            {
+                "bbox": [
+                    199,
+                    320,
+                    2873,
+                    58
+                ],
+                "poly": [
+                    [
+                        199,
+                        331
+                    ],
+                    [
+                        204,
+                        353
+                    ],
+                    [
+                        318,
+                        362
+                    ],
+                    [
+                        671,
+                        373
+                    ],
+                    [
+                        962,
+                        377
+                    ],
+                    [
+                        1230,
+                        375
+                    ],
+                    [
+                        1462,
+                        364
+                    ],
+                    [
+                        1707,
+                        355
+                    ],
+                    [
+                        1896,
+                        359
+                    ],
+                    [
+                        2032,
+                        359
+                    ],
+                    [
+                        2168,
+                        364
+                    ],
+                    [
+                        2450,
+                        364
+                    ],
+                    [
+                        2648,
+                        364
+                    ],
+                    [
+                        2869,
+                        364
+                    ],
+                    [
+                        3071,
+                        357
+                    ],
+                    [
+                        3071,
+                        329
+                    ],
+                    [
+                        2190,
+                        322
+                    ],
+                    [
+                        1650,
+                        329
+                    ],
+                    [
+                        1372,
+                        327
+                    ],
+                    [
+                        715,
+                        335
+                    ],
+                    [
+                        395,
+                        338
+                    ],
+                    [
+                        199,
+                        320
+                    ]
+                ],
+                "area": 1050916.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Character Line Segment",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_27",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            199,
+            355,
+            2895,
+            58
+        ],
+        "components": [
+            {
+                "bbox": [
+                    199,
+                    355,
+                    2895,
+                    58
+                ],
+                "poly": [
+                    [
+                        199,
+                        368
+                    ],
+                    [
+                        206,
+                        392
+                    ],
+                    [
+                        357,
+                        403
+                    ],
+                    [
+                        594,
+                        403
+                    ],
+                    [
+                        861,
+                        412
+                    ],
+                    [
+                        1276,
+                        405
+                    ],
+                    [
+                        1563,
+                        397
+                    ],
+                    [
+                        1782,
+                        397
+                    ],
+                    [
+                        2104,
+                        399
+                    ],
+                    [
+                        2358,
+                        397
+                    ],
+                    [
+                        2494,
+                        392
+                    ],
+                    [
+                        2663,
+                        399
+                    ],
+                    [
+                        2946,
+                        399
+                    ],
+                    [
+                        2954,
+                        399
+                    ],
+                    [
+                        3093,
+                        390
+                    ],
+                    [
+                        3082,
+                        355
+                    ],
+                    [
+                        2538,
+                        355
+                    ],
+                    [
+                        1837,
+                        355
+                    ],
+                    [
+                        1433,
+                        364
+                    ],
+                    [
+                        870,
+                        373
+                    ],
+                    [
+                        430,
+                        362
+                    ],
+                    [
+                        210,
+                        362
+                    ],
+                    [
+                        208,
+                        362
+                    ]
+                ],
+                "area": 1176489.5
+            }
+        ],
+        "split": "train"
+    },
+    {
+        "image_url": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg",
+        "label": "Page Boundary",
+        "instance_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1_28",
+        "image_id": "http://bhoomi.csa.iisc.ernet.in:8080/ihg/manuscript_editor/images/AAVARNI%20VYAKHYA/KUML/2346/5.jpg-1",
+        "bbox": [
+            4,
+            2,
+            3252,
+            426
+        ],
+        "components": [
+            {
+                "bbox": [
+                    4,
+                    2,
+                    3252,
+                    426
+                ],
+                "poly": [
+                    [
+                        7,
+                        28
+                    ],
+                    [
+                        4,
+                        381
+                    ],
+                    [
+                        4,
+                        408
+                    ],
+                    [
+                        15,
+                        410
+                    ],
+                    [
+                        37,
+                        421
+                    ],
+                    [
+                        213,
+                        421
+                    ],
+                    [
+                        353,
+                        423
+                    ],
+                    [
+                        1210,
+                        427
+                    ],
+                    [
+                        1751,
+                        427
+                    ],
+                    [
+                        2091,
+                        419
+                    ],
+                    [
+                        2573,
+                        414
+                    ],
+                    [
+                        2845,
+                        412
+                    ],
+                    [
+                        3147,
+                        405
+                    ],
+                    [
+                        3239,
+                        399
+                    ],
+                    [
+                        3250,
+                        379
+                    ],
+                    [
+                        3255,
+                        35
+                    ],
+                    [
+                        3233,
+                        22
+                    ],
+                    [
+                        3128,
+                        11
+                    ],
+                    [
+                        2915,
+                        7
+                    ],
+                    [
+                        2172,
+                        4
+                    ],
+                    [
+                        1604,
+                        2
+                    ],
+                    [
+                        344,
+                        2
+                    ],
+                    [
+                        79,
+                        20
+                    ],
+                    [
+                        81,
+                        20
+                    ],
+                    [
+                        79,
+                        22
+                    ]
+                ],
+                "area": 1360869.5
+            }
+        ],
+        "split": "train"
+    }
+]

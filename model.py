@@ -70,6 +70,7 @@ class Model(nn.Module):
         self.enc = EncoderRNNmodel(en_input_size,batch_size,en_hidden_size,en_layers,en_dropout)
         self.dec = DecoderRNNmodel(en_input_size,de_hidden_size,de_layers,de_dropout)
     def forward(self,input_tensor,input_tensor2,mode):
+        input_tensor = input_tensor.view(-1,self.batch_size,self.en_input_size)
         en_states = self.enc(input_tensor)
         #here we can change the en_outputs and en_states in desired shape
         c,h = en_states

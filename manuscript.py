@@ -145,21 +145,18 @@ class DataProvider(Dataset):
                 list.append(float(i[0])/float(w))
                 list.append(float(i[1])/float(h))
                 list.append(0)
-                list.append(0)
                 train_list.append(list)
                 if step==len(poly)-dec_len-1:
-                    list = [0]*4
+                    list = [0]*3
                     train_list2.append(list)
             else:
                 list.append(float(i[0])/float(w))
                 list.append(float(i[1])/float(h))
                 list.append(0)
-                list.append(0)
                 train_list2.append(list)
                 pred_list.append(list) 
     #print pred_list
-        train_list[0][2] = 1
-        pred_list[-1][3] = 1
+        pred_list[-1][2] = 1
         pred_tensor = torch.FloatTensor(pred_list)
         train_tensor1 = torch.FloatTensor(train_list)
         train_tensor2 = torch.FloatTensor(train_list2[:-1])

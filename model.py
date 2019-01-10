@@ -17,7 +17,8 @@ class EncoderRNNmodel(nn.Module):
     def forward(self,input_tensor):
         c0,h0 = self.init_hidden()
         packed_outputs,states = self.lstm(input_tensor,(c0,h0))
-        return states
+        latent = (F.tanh(states[0]),F.tanh(states[1]))
+        return latent
     def init_hidden(self):
         c0 = torch.randn(self.n_layers,self.batch_size,self.hidden_size,requires_grad = False).to(device)
         h0 = torch.randn(self.n_layers,self.batch_size,self.hidden_size,requires_grad = False).to(device)
@@ -31,29 +32,28 @@ class DecoderRNNmodel(nn.Module):
         self.n_layers = n_layers
         self.dropout = dropout
         self.lstm = nn.LSTM(input_size,hidden_size,n_layers,dropout=dropout,bidirectional=False)
-        self.linear = nn.Linear(hidden_size,4,bias=True)
+        self.linear = nn.Linear(hidden_size,input_size,bias=True)
     def forward(self,input_tensor,hidden_states,mode):
         if mode=="train":
             outputs,_ =  self.lstm(input_tensor,hidden_states)
             outputs = outputs.view(-1,self.hidden_size)
             outputs = self.linear(outputs)
-            outputs[:,:-2] = F.tanh(outputs[:,:-2].clone())
-            outputs[:,2:] = F.sigmoid(outputs[:,2:].clone())
+            outputs[:,:-1] = F.tanh(outputs[:,:-1].clone())
+            outputs[:,2] = F.sigmoid(outputs[:,2].clone())
             return outputs
         else:
             outputs = []
             eop = []
             input_tensor = input_tensor[0]
-            input_tensor = input_tensor.view(1,1,4)
+            input_tensor = input_tensor.view(1,1,self.input_size)
             i=0
-            while(input_tensor[0,0,3]<=0.5):
-                input_tensor[0,0,3]=0.0
+            while(input_tensor[0,0,2]<=0.5):
                 input_tensor[0,0,2]=0.0
                 output,hidden_states = self.lstm(input_tensor,hidden_states)
                 output = output.view(-1,self.hidden_size)
                 output = self.linear(output)
-                output[:,:-2] = F.tanh(output[:,:-2].clone())
-                output[:,2:] = F.sigmoid(output[:,2:].clone())
+                output[:,:-1] = F.tanh(output[:,:-1].clone())
+                output[:,2] = F.sigmoid(output[:,2].clone())
                 outputs.append(output)
                 input_tensor = output.view(1,1,self.input_size)
                 del output

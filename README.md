@@ -1,7 +1,7 @@
 # Manuscript Project
 **Steps to run the code**
 1) Download the code and data, put data in saperate directory named 'data' such that training data lies inside /data/train/images and validation data lies inside data/train_val/images folders
-2) Change the paths in train.json to your system paths.
+2) Change the paths in train.json and in each image_url in json to your system path.
 3) Make a virtual environment of python 3.5.
 4) Navigate to project directory and download all the requirements by following command,
  ```bash

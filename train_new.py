@@ -27,6 +27,8 @@ def iou_from_poly(pred, gt, width, height):
     grid_size: grid_size that the polygons are in
 
     """
+    width = int(width)
+    height = int(height)
     masks = np.zeros((2, height, width), dtype=np.uint8)
 
     if not isinstance(pred, list):
@@ -41,6 +43,32 @@ def iou_from_poly(pred, gt, width, height):
         masks[1] = draw_poly(masks[1], g)
 
     return iou_from_mask(masks[0], masks[1])
+def accuracy_from_poly(pred, gt, width, height):
+    """
+    Compute IoU from poly. The polygons should
+    already be in the final output size
+
+    pred: list of np arrays of predicted polygons
+    gt: list of np arrays of gt polygons
+    grid_size: grid_size that the polygons are in
+
+    """
+    width = int(width)
+    height = int(height)
+    masks = np.zeros((2, height, width), dtype=np.uint8)
+
+    if not isinstance(pred, list):
+        pred = [pred]
+    if not isinstance(gt, list):
+        gt = [gt]
+
+    for p in pred:
+        masks[0] = draw_poly(masks[0], p)
+
+    for g in gt:
+        masks[1] = draw_poly(masks[1], g)
+
+    return accuracy_from_mask(masks[0], masks[1])
 
 def iou_from_mask(pred, gt):
     """
@@ -63,7 +91,21 @@ def iou_from_mask(pred, gt):
     iou = intersection / union if union > 0. else 0.
 
     return iou
+def accuracy_from_mask(pred, gt):
+    """
+    Compute intersection over the union.
+    Args:
+        pred: Predicted mask
+        gt: Ground truth mask
+    """
+    pred = pred.astype(np.bool)
+    gt = gt.astype(np.bool)
 
+    # true_negatives = np.count_nonzero(np.logical_and(np.logical_not(gt), np.logical_not(pred)))
+    true_negatives = np.count_nonzero(np.logical_and(np.logical_not(gt),np.logical_not(pred)))
+    true_positives = np.count_nonzero(np.logical_and(gt, pred))
+    accuracy = (true_positives)/(np.count_nonzero(gt))
+    return accuracy
 def draw_poly(mask, poly):
     """
     NOTE: Numpy function
@@ -120,8 +162,7 @@ class Trainer(object):
         self.global_step = 0
         self.epoch = 0
         self.opts = opts
-        create_folder(os.path.join(self.opts['exp_dir'], 'checkpoints'+str(opts['dec_per'])))
-
+        create_folder(os.path.join(self.opts['exp_dir'], 'checkpoints_imgencoder3'))
        # Copy experiment file
         os.system('cp %s %s'%(args.exp, self.opts['exp_dir']))
 
@@ -129,12 +170,17 @@ class Trainer(object):
         #self.val_writer = SummaryWriter(os.path.join(self.opts['exp_dir'], 'logs', 'train_val'))
 
         self.train_loader, self.val_loader = get_data_loaders(self.opts['dataset'], manuscript.DataProvider)
-        self.model = Model(3,1,64,64,1,1,0,0)
+        self.model = Model(2,3,1,64,64,1,1,0,0)
         self.model = self.model.to(device)
+        self.model.image_encoder.reload(self.opts['encoder_path'])
         # Allow individual options
         self.optimizer = optim.Adam(self.model.parameters(),lr = self.opts['lr'])
+        for name, param in self.model.named_parameters():
+            print(name)
         self.lr_decay = optim.lr_scheduler.StepLR(self.optimizer, step_size=self.opts['lr_decay'], 
             gamma=0.1)
+        if args.resume is not None:
+            self.resume(args.resume)
        
     def save_checkpoint(self, epoch):
         save_state = {
@@ -145,13 +191,13 @@ class Trainer(object):
             'lr_decay': self.lr_decay.state_dict()
         }
 
-        save_name = os.path.join(self.opts['exp_dir'], 'checkpoints'+str(self.opts['dec_per']), 'epoch%d_step%d.pth'\
+        save_name = os.path.join(self.opts['exp_dir'], 'checkpoints_imgencoder3', 'epoch%d_step%d.pth'\
         %(epoch, self.global_step))
         torch.save(save_state, save_name)
         print('Saved model')
 
     def resume(self, path):
-        self.model.reload(path)
+        self.model.load_state_dict(torch.load(path)["state_dict"])
         save_state = torch.load(path, map_location=lambda storage, loc: storage)
         self.global_step = save_state['global_step']
         self.epoch = save_state['epoch']
@@ -214,33 +260,34 @@ class Trainer(object):
                 self.validate()
         #self.model.train()
                 self.save_checkpoint(epoch)
+            img = data['img']
+            img = torch.cat(img)
+            img = img.view(-1,1,64,832)
+            #the input to the encoder
             input_batch = data["input_tensor"]
+            #the input to the decoder in training mode
             input_batch2 = data["input_tensor2"]
+            #the predicted polygon 
             pred_batch = data["pred_tensor"]
-            
             input_batch = torch.cat(input_batch)
             input_batch2 = torch.cat(input_batch2)
-            input_batch2 = input_batch2.to(device)
-            pred_tensor = torch.cat(pred_batch).to(device)
-        
+            pred_tensor = torch.cat(pred_batch)
             # Forward pass
-            output = self.model(input_batch.cuda(),input_batch2,"train")
+            en_output,output = self.model(img.cuda(),input_batch.cuda(),input_batch2.cuda(),"train")
+            output = output.cpu()
+            en_output = en_output.cpu()
+            #mse loss function
             loss_fn1 = nn.MSELoss()
-            loss_fn2 = nn.CrossEntropyLoss()
-        
-            mse = loss_fn1(output[:,:-1],pred_tensor[:,:-1]) 
-    
-            output1 = output[:,-1].view(-1,1)
-            pred = pred_tensor[:,-1]
-        
-        #entropy = loss_fn2(torch.cat((1-output1,output1),dim=1),pred.type(torch.cuda.LongTensor))
-            entropy = loss_fn1(output[:,-1],pred)
-        
-            #print 'mse %f'%mse
-        #print 'entropy %f'%entropy
-            loss =  mse + entropy
+            #mse loss for x,y part of output
+            mse = 10*loss_fn1(output[:,:-1],pred_tensor[:,:-1]) 
+            #mse loss for the eop value part of output, only the name is entropy, loss is mse
+            entropy = loss_fn1(output[:,-1],pred_tensor[:,-1])
+            #mse loss for the encoder output's x,y part
+            en_mse = loss_fn1(en_output[:,:-1],input_batch2[0,:-1].view(-1,2))
+            en_entropy = loss_fn1(en_output[:,-1],input_batch2[0,-1])
+            #total loss is addition of all
+            loss =  mse +entropy + en_mse + en_entropy
             # Backward pass
-            
             self.optimizer.zero_grad()
             loss.backward()
             self.optimizer.step()
@@ -249,6 +296,8 @@ class Trainer(object):
             accum['length'] += 1
             accum['mse'] += float(mse.item())
             accum['entropy']+=float(entropy.item())
+            accum['en_mse'] += float(en_mse.item())
+            accum['en_entropy']+=float(en_entropy.item())
             if(step%self.opts['print_freq']==0):
                 # Mean of accumulated values
                 for k in accum.keys():
@@ -256,7 +305,7 @@ class Trainer(object):
                         continue
                     accum[k] /= accum['length']
 
-                print("[%s] Epoch: %d, Step: %d, Loss: %f, mse: %f, entropy: %f"%(str(datetime.now()), epoch, self.global_step, accum['loss'],accum['mse'],accum['entropy']))
+                print("[%s] Epoch: %d, Step: %d, Loss: %f, mse: %f, entropy: %f, en_mse: %f, en_entropy: %f"%(str(datetime.now()), epoch, self.global_step, accum['loss'],accum['mse'],accum['entropy'],accum['en_mse'],accum['en_entropy']))
                 accum = defaultdict(float)
 
             del(output)
@@ -270,44 +319,55 @@ class Trainer(object):
         print('Validating')
         self.model.eval()
         ious = [0]*18
+        accuracys = [0]*18
         count = [0]*18
         with torch.no_grad():
             for step, data in enumerate(tqdm(self.val_loader)):
+                img = data["img"]
                 input_batch = data["input_tensor"]
                 input_batch2 = data["input_tensor2"]
                 pred_batch = data["pred_tensor"]
                 dec_per = data["dec_per"]
-                x0s = data["x0"]
-                y0s = data["y0"]
                 ws = data["w"]
                 hs = data["h"]
+                img = torch.cat(img)
+                img = img.view(-1,1,64,832)
+                #input for the encoder
                 input_batch = torch.cat(input_batch)
+                #input for the decoder in training mode
                 input_batch2= torch.cat(input_batch2)
-                input_batch2 = input_batch2.to(device)
-                output= self.model(input_batch.cuda(),input_batch2,"test")
+                
+                if(len(input_batch)==0):
+                    continue
+                en_output,output= self.model(img.cuda(),input_batch.cuda(),input_batch2.cuda(),"test")
                 output = output.cpu()
+                output = output[:,:-1]
                 pred_batch = torch.cat(pred_batch)
+                pred_batch = pred_batch[:,:-1]
+                en_output = en_output.cpu()
+                en_output = en_output[:,:-1]
+                #generate polygon from the ipnuts and output
                 list = []
                 list.append(input_batch)
+                list.append(en_output.view(1,2))
                 list.append(output)
-               # print(input_batch)
-               # print(output)
                 output = torch.cat(list)
+                #gnenerate polygon from the inputs and ground truths
                 list = []
                 list.append(input_batch)
+                list.append(input_batch2[0,:-1].view(1,2))
                 list.append(pred_batch)
                 pred = torch.cat(list)
                 output = output.numpy()
-                output = output[:,:-1]
+                #remove the eop values
+                
+              
                 pred = pred.numpy()
-                pred = pred[:,:-1]
-                tmp = [0,0]
-                        
+                   
+                #convert vertices in coordinates with respect to x0,y0 as origin
                 for i in output:
                     i[0] = i[0]*ws[0]
                     i[1] = i[1]*hs[0]
-                    i[0] += tmp[0]
-                    i[1] +=tmp[1]
                     if i[0]<=0:
                         i[0] = 0
                     if i[1]<=0:
@@ -315,34 +375,33 @@ class Trainer(object):
                     if i[0]>ws[0]:
                         i[0] = ws[0]
                     if i[1]>hs[0]:
-                        i[1] = hs[0]
-                    tmp = i
-                tmp = [0,0]
+                        i[1] = hs[0]     
                 for i in pred:
                     i[0] = i[0]*ws[0]
                     i[1] = i[1]*hs[0]
-                    i[0]+=tmp[0]
-                    i[1]+=tmp[1]
-                    tmp = i
+                
                 output = output.astype(int)
                 pred = pred.astype(int)
+                #calculate iou of the predicted and groundtruth
                 iou = iou_from_poly(output,pred,ws[0],hs[0])
+                accuracy = accuracy_from_poly(output,pred,ws[0],hs[0])
                 ious[int((dec_per[0]*100)/5-1)]+=iou
+                accuracys[int((dec_per[0]*100)/5-1)]+=accuracy
                 count[int((dec_per[0]*100)/5-1)]+=1
-                #print 'sucessful'
+                #delete output to save space
                 del(output)
             avg_loss = [0]*18
+            avg_accuracy = [0]*18
             for i in range(len(ious)):
-                avg_loss[i] = float(ious[i]/count[i])
-                print("avg loss for %f dec_per is %f"%((i+1)*0.05,avg_loss[i]))
+                if(count[i]!=0):
+                    avg_loss[i] = float(ious[i]/count[i])
+                    avg_accuracy[i] = float(accuracys[i]/count[i])
+                    print("avg iou for %f dec_per is %f and accuracy is %f"%((i+1)*0.05,avg_loss[i],avg_accuracy[i]))
         self.model.train()
 if __name__ == '__main__':
     args = get_args()
     opts = json.load(open(args.exp, 'r'))
-    for dec_per in range(70,95,5):
-        opts["dec_per"]=float(dec_per)/100
-        opts["dataset"]["train"]["dec_per"] = float(dec_per)/100
-        opts['max_epochs'] = 40
-        print(opts)
-        trainer = Trainer(args,opts)
-        trainer.loop()
+    opts['max_epochs'] = 50
+    print(opts)
+    trainer = Trainer(args,opts)
+    trainer.loop()

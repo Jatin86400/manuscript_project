@@ -16,3 +16,5 @@ python train_new.py --exp train.json
 ```bash
 ulimit -n 2048
 ```
+**Image of how model looks**
+![alt text](https://github.com/Jatin86400/manuscript_project/blob/master/Basic_model.jpg)

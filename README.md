@@ -10,7 +10,7 @@
 5) Now use the following command to train the model
 ```bash
 export PYTHONPATH=$PWD
-python train.py --exp train.json
+python train_new.py --exp train.json
 ```
 6) If you get any error regarding socket connection faliure or too many files open, then increase the file opening limit to 2048 by using the command,
 ```bash
